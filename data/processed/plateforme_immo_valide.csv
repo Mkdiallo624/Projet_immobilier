@@ -1,0 +1,328 @@
+id_bien,date,type_transaction,type_bien,region,ville,quartier,prix,devise,surface,chambres,sdb,description,statut,date_expiration,source
+PLT-00001,2020-07-03,vente,Appartement,Tambacounda,Tambacounda,Nord,60581000.0,FCFA,173.3,1,1,Appartement Ã  Tambacounda. Contact via plateforme.,Vendu,2020-08-05,plateforme_immo
+PLT-00005,2022-02-03,vente,Studio,Kaffrine,Kaffrine,Centre,26254000.0,FCFA,31.6,3,2,Studio Ã  Kaffrine. Contact via plateforme.,Vendu,2022-03-26,plateforme_immo
+PLT-00006,2021-01-10,vente,Appartement,Kolda,Mã©dina yoro foulah,Nord,52754000.0,FCFA,94.5,6,2,Appartement Ã  MÃ©dina Yoro Foulah. Contact via plateforme.,Retirã©,2021-03-21,plateforme_immo
+PLT-00007,2023-07-12,location,Appartement,Louga,Kã©bã©mer,Nord,240000.0,FCFA/mois,114.4,4,4,Appartement Ã  KÃ©bÃ©mer. Contact via plateforme.,Disponible,2023-10-21,plateforme_immo
+PLT-00011,2025-03-02,vente,Terrain,Kolda,Kolda,Populaire,33560000.0,FCFA,818.5,0,0,Terrain Ã  Kolda. Contact via plateforme.,Vendu,2025-04-01,plateforme_immo
+PLT-00014,2028-12-01,vente,Maison,Kolda,Mã©dina yoro foulah,Nord,91358000.0,FCFA,111.6,6,3,,Retirã©,2022-07-25,plateforme_immo
+PLT-00018,2020-11-04,location,Villa,Diourbel,Mbackã©,Centre,1250000.0,FCFA/mois,144.4,5,1,Villa Ã  MbackÃ©. Contact via plateforme.,Disponible,2021-01-03,plateforme_immo
+PLT-00022,2018-12-02,vente,Villa,Matam,Matam,Nord,361490000.0,FCFA,305.2,5,3,Villa Ã  Matam. Contact via plateforme.,Vendu,2019-01-17,plateforme_immo
+PLT-00027,2018-02-09,vente,Villa,Diourbel,Bambey,Nord,377359000.0,FCFA,181.6,6,2,Villa Ã  Bambey. Contact via plateforme.,Vendu,2018-03-16,plateforme_immo
+PLT-00030,2018-06-08,vente,Maison,Ziguinchor,Ziguinchor,Populaire,36008000.0,FCFA,157.0,2,2,Maison Ã  Ziguinchor. Contact via plateforme.,Sous offre,2018-08-05,plateforme_immo
+PLT-00031,2018-10-12,vente,Studio,Dakar,Pikine,Ouest,21540000.0,FCFA,33.5,3,3,Studio Ã  Pikine. Contact via plateforme.,Retirã©,2018-11-14,plateforme_immo
+PLT-00040,2023-11-06,vente,Terrain,Sã©dhiou,Sã©dhiou,Nord,60904000.0,FCFA,327.6,0,0,Terrain Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2024-01-15,plateforme_immo
+PLT-00045,2023-02-06,vente,Appartement,Diourbel,Diourbel,Centre,57208000.0,FCFA,92.1,4,3,Appartement Ã  Diourbel. Contact via plateforme.,Vendu,2023-05-16,plateforme_immo
+PLT-00053,2023-07-04,vente,Maison,Kolda,Kolda,RÃ©sidentiel,164347000.0,FCFA,179.9,1,1,Maison Ã  Kolda. Contact via plateforme.,Vendu,2023-10-02,plateforme_immo
+PLT-00055,2023-06-07,vente,Appartement,Sã©dhiou,Goudomp,Sud,51673000.0,FCFA,48.3,5,3,Appartement Ã  Goudomp. Contact via plateforme.,Vendu,2023-07-08,plateforme_immo
+PLT-00056,2018-08-12,vente,Appartement,Kã©dougou,Salã©mata,Centre,114344000.0,FCFA,173.8,6,2,Appartement Ã  SalÃ©mata. Contact via plateforme.,En vente,2018-11-10,plateforme_immo
+PLT-00058,2024-04-04,vente,Appartement,Diourbel,Mbackã©,Sud,116544000.0,FCFA,160.2,5,2,Appartement Ã  MbackÃ©. Contact via plateforme.,En vente,2024-06-27,plateforme_immo
+PLT-00059,2019-02-11,vente,Maison,Ziguinchor,Bignona,Ouest,158415000.0,FCFA,120.2,2,2,,Sous offre,2019-03-13,plateforme_immo
+PLT-00068,2025-03-05,location,Local commercial,Thiã¨s,Mbour,Sud,520000.0,FCFA/mois,193.6,0,2,Local commercial Ã  Mbour. Contact via plateforme.,Louã©,2025-06-04,plateforme_immo
+PLT-00070,2024-08-01,vente,Studio,Ziguinchor,Ziguinchor,Sud,32555000.0,FCFA,23.4,6,4,Studio Ã  Ziguinchor. Contact via plateforme.,En vente,2024-11-08,plateforme_immo
+PLT-00073,2025-05-05,vente,Appartement,Kolda,Vã©lingara,Est,27408000.0,FCFA,175.0,1,4,Appartement Ã  VÃ©lingara. Contact via plateforme.,Retirã©,2025-07-16,plateforme_immo
+PLT-00079,2024-06-09,location,Studio,Ziguinchor,Bignona,Sud,160000.0,FCFA/mois,23.9,5,1,Studio Ã  Bignona. Contact via plateforme.,Disponible,2024-08-07,plateforme_immo
+PLT-00083,2024-02-07,location,Local commercial,Kã©dougou,Salã©mata,RÃ©sidentiel,315000.0,FCFA/mois,207.0,0,4,Local commercial Ã  SalÃ©mata. Contact via plateforme.,Disponible,2024-04-10,plateforme_immo
+PLT-00088,2025-03-04,vente,Appartement,Kaffrine,Birkelane,Ouest,36226000.0,FCFA,139.1,1,1,Appartement Ã  Birkelane. Contact via plateforme.,En vente,2025-06-12,plateforme_immo
+PLT-00089,2023-09-07,location,Appartement,Saint-louis,Podor,Ouest,480000.0,FCFA/mois,153.5,5,1,Appartement Ã  Podor. Contact via plateforme.,Louã©,2023-10-29,plateforme_immo
+PLT-00090,2020-09-01,vente,Appartement,Thiã¨s,Thiã¨s,Centre,105939000.0,FCFA,153.9,1,2,Appartement Ã  ThiÃ¨s. Contact via plateforme.,En vente,2020-11-30,plateforme_immo
+PLT-00096,2021-09-12,vente,Villa,Kolda,Kolda,RÃ©sidentiel,188488000.0,FCFA,228.5,4,3,,En vente,2021-11-17,plateforme_immo
+PLT-00106,2021-12-02,vente,Villa,Thiã¨s,Thiã¨s,Ouest,110915000.0,FCFA,159.2,6,2,Villa Ã  ThiÃ¨s. Contact via plateforme.,Vendu,2022-03-25,plateforme_immo
+PLT-00108,2023-04-05,vente,Studio,Kaolack,Guinguinã©o,Est,21428000.0,FCFA,54.7,3,3,Studio Ã  GuinguinÃ©o. Contact via plateforme.,Vendu,2023-05-12,plateforme_immo
+PLT-00109,2021-01-04,location,Appartement,Kaolack,Nioro du Rip,Centre,185000.0,FCFA/mois,119.8,5,4,Appartement Ã  Nioro du Rip. Contact via plateforme.,Louã©,2021-04-17,plateforme_immo
+PLT-00110,2019-09-10,vente,Studio,Tambacounda,Tambacounda,Centre,32770000.0,FCFA,47.8,4,1,Studio Ã  Tambacounda. Contact via plateforme.,Retirã©,2019-11-01,plateforme_immo
+PLT-00113,2025-05-11,vente,Terrain,Thiã¨s,Mbour,Sud,61446000.0,FCFA,190.4,0,0,Terrain Ã  Mbour. Contact via plateforme.,En vente,2025-08-31,plateforme_immo
+PLT-00118,2022-09-11,vente,Maison,Sã©dhiou,Bounkiling,Sud,175638000.0,FCFA,220.0,2,2,Maison Ã  Bounkiling. Contact via plateforme.,Retirã©,2022-10-24,plateforme_immo
+PLT-00126,2019-07-07,vente,Villa,Fatick,Gossas,Centre,340510000.0,FCFA,190.3,4,1,Villa Ã  Gossas. Contact via plateforme.,Vendu,2019-09-14,plateforme_immo
+PLT-00128,2022-12-07,vente,Chambre,Sã©dhiou,Bounkiling,Sud,11682000.0,FCFA,25.7,4,0,Chambre Ã  Bounkiling. Contact via plateforme.,Sous offre,2023-03-13,plateforme_immo
+PLT-00129,2024-10-03,vente,Maison,Ziguinchor,Ziguinchor,Sud,160043000.0,FCFA,240.4,2,3,Maison Ã  Ziguinchor. Contact via plateforme.,Retirã©,2024-12-26,plateforme_immo
+PLT-00131,2021-08-07,location,Maison,Kolda,Mã©dina yoro foulah,Sud,580000.0,FCFA/mois,105.6,6,4,Maison Ã  MÃ©dina Yoro Foulah. Contact via plateforme.,Louã©,2021-11-17,plateforme_immo
+PLT-00139,2024-03-06,vente,Appartement,Ziguinchor,Ziguinchor,Ouest,60195000.0,FCFA,110.4,6,3,Appartement Ã  Ziguinchor. Contact via plateforme.,Vendu,2024-04-24,plateforme_immo
+PLT-00141,2023-04-01,location,Appartement,Matam,Kanel,Est,380000.0,FCFA/mois,116.8,3,4,,Louã©,2023-05-08,plateforme_immo
+PLT-00144,2023-07-04,location,Maison,Saint-louis,Saint-Louis,Est,270000.0,FCFA/mois,229.2,2,4,,Disponible,2023-09-22,plateforme_immo
+PLT-00146,2024-02-07,location,Chambre,Kaffrine,Kaffrine,Sud,85000.0,FCFA/mois,24.9,3,0,Chambre Ã  Kaffrine. Contact via plateforme.,Louã©,2024-03-17,plateforme_immo
+PLT-00148,2023-08-11,vente,Appartement,Sã©dhiou,Sã©dhiou,Nord,58829000.0,FCFA,178.2,1,2,Appartement Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2023-11-14,plateforme_immo
+PLT-00157,2020-09-07,vente,Appartement,Ziguinchor,Ziguinchor,RÃ©sidentiel,39664000.0,FCFA,110.0,6,2,Appartement Ã  Ziguinchor. Contact via plateforme.,Vendu,2021-01-02,plateforme_immo
+PLT-00158,2019-10-09,vente,Appartement,Sã©dhiou,Sã©dhiou,Sud,56977000.0,FCFA,63.1,4,4,Appartement Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2019-11-19,plateforme_immo
+PLT-00159,2018-06-02,vente,Appartement,Tambacounda,Goudiry,Populaire,49191000.0,FCFA,137.0,2,4,Appartement Ã  Goudiry. Contact via plateforme.,Sous offre,2018-09-03,plateforme_immo
+PLT-00166,2021-09-05,vente,Villa,Kolda,Kolda,Ouest,225205000.0,FCFA,389.5,4,1,Villa Ã  Kolda. Contact via plateforme.,Sous offre,2021-10-12,plateforme_immo
+PLT-00170,2019-06-06,vente,Local commercial,Thiã¨s,Mbour,Est,59044000.0,FCFA,246.4,0,2,Local commercial Ã  Mbour. Contact via plateforme.,En vente,2019-09-13,plateforme_immo
+PLT-00171,2023-03-02,vente,Studio,Louga,Linguã¨re,Populaire,41498000.0,FCFA,51.5,3,2,Studio Ã  LinguÃ¨re. Contact via plateforme.,Vendu,2023-06-18,plateforme_immo
+PLT-00176,2023-12-11,vente,Chambre,Dakar,Keur Massar,Est,14360000.0,FCFA,22.8,2,0,Chambre Ã  Keur Massar. Contact via plateforme.,Vendu,2024-01-21,plateforme_immo
+PLT-00179,2020-09-07,vente,Maison,Kã©dougou,Salã©mata,Sud,108354000.0,FCFA,176.2,3,4,Maison Ã  SalÃ©mata. Contact via plateforme.,En vente,2020-12-09,plateforme_immo
+PLT-00180,2021-08-04,vente,Maison,Fatick,Fatick,Nord,136014000.0,FCFA,235.3,3,3,,Sous offre,2021-11-12,plateforme_immo
+PLT-00185,2020-01-05,vente,Maison,Dakar,Keur Massar,Sud,151414000.0,FCFA,60.9,1,2,Maison Ã  Keur Massar. Contact via plateforme.,Vendu,2020-03-25,plateforme_immo
+PLT-00189,2021-07-12,vente,Villa,Ziguinchor,Bignona,Centre,418493000.0,FCFA,239.6,2,2,Villa Ã  Bignona. Contact via plateforme.,Vendu,2021-10-22,plateforme_immo
+PLT-00192,2024-11-03,location,Studio,Fatick,Fatick,RÃ©sidentiel,85000.0,FCFA/mois,50.0,5,4,,Disponible,2025-01-06,plateforme_immo
+PLT-00195,2024-04-10,vente,Chambre,Dakar,Guã©diawaye,Nord,15953000.0,FCFA,18.8,2,0,Chambre Ã  GuÃ©diawaye. Contact via plateforme.,Sous offre,2024-06-13,plateforme_immo
+PLT-00199,2019-04-12,vente,Maison,Louga,Kã©bã©mer,Est,37858000.0,FCFA,79.8,2,2,Maison Ã  KÃ©bÃ©mer. Contact via plateforme.,Sous offre,2019-06-07,plateforme_immo
+PLT-00200,2022-08-03,vente,Terrain,Fatick,Kaolack-Fatick,Nord,61525000.0,FCFA,418.2,0,0,Terrain Ã  Kaolack-Fatick. Contact via plateforme.,En vente,2022-10-20,plateforme_immo
+PLT-00208,2019-04-12,vente,Studio,Thiã¨s,Mbour,Sud,44725000.0,FCFA,39.5,4,3,Studio Ã  Mbour. Contact via plateforme.,Vendu,2019-07-09,plateforme_immo
+PLT-00209,2021-05-03,vente,Maison,Matam,Matam,Centre,96656000.0,FCFA,64.3,5,1,Maison Ã  Matam. Contact via plateforme.,Sous offre,2021-08-29,plateforme_immo
+PLT-00214,2022-10-08,vente,Villa,Sã©dhiou,Goudomp,Sud,156376000.0,FCFA,123.6,6,2,Villa Ã  Goudomp. Contact via plateforme.,Vendu,2022-11-18,plateforme_immo
+PLT-00215,2024-08-05,vente,Maison,Fatick,Fatick,Nord,122075000.0,FCFA,186.4,6,4,Maison Ã  Fatick. Contact via plateforme.,En vente,2024-11-15,plateforme_immo
+PLT-00217,2021-06-03,location,Terrain,Sã©dhiou,Bounkiling,Nord,70000.0,FCFA/mois,936.5,0,0,Terrain Ã  Bounkiling. Contact via plateforme.,Louã©,2021-09-27,plateforme_immo
+PLT-00219,2018-01-11,vente,Terrain,Kaolack,Nioro du Rip,RÃ©sidentiel,54445000.0,FCFA,756.0,0,0,Terrain Ã  Nioro du Rip. Contact via plateforme.,Sous offre,2018-03-27,plateforme_immo
+PLT-00221,2018-07-08,vente,Terrain,Sã©dhiou,Bounkiling,Populaire,48702000.0,FCFA,927.5,0,0,Terrain Ã  Bounkiling. Contact via plateforme.,Vendu,2018-10-04,plateforme_immo
+PLT-00234,2020-11-11,location,Appartement,Kolda,Kolda,Nord,180000.0,FCFA/mois,87.6,5,3,Appartement Ã  Kolda. Contact via plateforme.,Disponible,2020-12-24,plateforme_immo
+PLT-00236,2021-08-11,vente,Maison,Kolda,Mã©dina yoro foulah,Ouest,68779000.0,FCFA,64.6,6,3,Maison Ã  MÃ©dina Yoro Foulah. Contact via plateforme.,Vendu,2021-09-16,plateforme_immo
+PLT-00240,2023-12-11,vente,Maison,Kaffrine,Koungheul,Sud,86420000.0,FCFA,114.6,4,4,,Retirã©,2024-02-08,plateforme_immo
+PLT-00242,2021-04-09,vente,Maison,Dakar,Rufisque,Sud,122482000.0,FCFA,189.1,3,4,Maison Ã  Rufisque. Contact via plateforme.,Vendu,2021-06-03,plateforme_immo
+PLT-00245,2020-05-07,location,Appartement,Tambacounda,Bakel,Centre,425000.0,FCFA/mois,114.2,4,2,,En vente,2020-07-04,plateforme_immo
+PLT-00250,2024-05-05,vente,Maison,Fatick,Gossas,Populaire,48266000.0,FCFA,226.7,4,3,Maison Ã  Gossas. Contact via plateforme.,Vendu,2024-06-11,plateforme_immo
+PLT-00251,2020-08-11,vente,Villa,Sã©dhiou,Bounkiling,RÃ©sidentiel,408837000.0,FCFA,435.4,1,2,,Retirã©,2020-10-08,plateforme_immo
+PLT-00252,2021-12-12,location,Studio,Matam,Ourossogui,Centre,190000.0,FCFA/mois,42.0,5,3,Studio Ã  Ourossogui. Contact via plateforme.,Disponible,2022-02-25,plateforme_immo
+PLT-00253,2025-07-09,location,Appartement,Matam,Kanel,Centre,320000.0,FCFA/mois,80.1,2,4,Appartement Ã  Kanel. Contact via plateforme.,Louã©,2025-08-08,plateforme_immo
+PLT-00255,2025-06-05,vente,Local commercial,Kaffrine,Birkelane,RÃ©sidentiel,174705000.0,FCFA,168.7,0,1,Local commercial Ã  Birkelane. Contact via plateforme.,Vendu,2025-09-24,plateforme_immo
+PLT-00258,2020-09-01,vente,Appartement,Thiã¨s,Joal-Fadiouth,RÃ©sidentiel,105805000.0,FCFA,162.1,3,2,Appartement Ã  Joal-Fadiouth. Contact via plateforme.,Vendu,2020-11-12,plateforme_immo
+PLT-00265,2021-01-05,vente,Chambre,Dakar,Guã©diawaye,Sud,23651000.0,FCFA,16.8,2,0,Chambre Ã  GuÃ©diawaye. Contact via plateforme.,En vente,2021-03-28,plateforme_immo
+PLT-00266,2022-05-05,vente,Appartement,Sã©dhiou,Goudomp,Est,34738000.0,FCFA,171.5,4,4,Appartement Ã  Goudomp. Contact via plateforme.,En vente,2022-06-08,plateforme_immo
+PLT-00268,2020-04-07,vente,Appartement,Dakar,Rufisque,Populaire,78110000.0,FCFA,128.8,6,2,,Retirã©,2020-06-25,plateforme_immo
+PLT-00270,2023-11-09,location,Maison,Thiã¨s,Thiã¨s,Nord,610000.0,FCFA/mois,144.7,3,4,Maison Ã  ThiÃ¨s. Contact via plateforme.,Louã©,2023-12-27,plateforme_immo
+PLT-00272,2021-02-06,location,Studio,Kaolack,Nioro du Rip,Sud,90000.0,FCFA/mois,47.2,2,2,Studio Ã  Nioro du Rip. Contact via plateforme.,En vente,2021-04-30,plateforme_immo
+PLT-00274,2022-04-02,location,Appartement,Diourbel,Diourbel,Sud,340000.0,FCFA/mois,131.2,2,1,Appartement Ã  Diourbel. Contact via plateforme.,Louã©,2022-06-30,plateforme_immo
+PLT-00275,2018-05-06,vente,Maison,Kolda,Vã©lingara,Sud,177677000.0,FCFA,137.8,4,4,Maison Ã  VÃ©lingara. Contact via plateforme.,Vendu,2018-07-08,plateforme_immo
+PLT-00277,2019-12-11,vente,Villa,Dakar,Dakar,RÃ©sidentiel,539747000.0,FCFA,276.2,1,2,Villa Ã  Dakar. Contact via plateforme.,En vente,2020-03-04,plateforme_immo
+PLT-00282,2022-01-11,location,Villa,Tambacounda,Bakel,Nord,695000.0,FCFA/mois,383.2,4,2,Villa Ã  Bakel. Contact via plateforme.,Disponible,2022-03-24,plateforme_immo
+PLT-00283,2021-06-11,vente,Appartement,Tambacounda,Tambacounda,Est,26104000.0,FCFA,54.8,3,3,,Vendu,2021-09-30,plateforme_immo
+PLT-00284,2020-03-07,vente,Terrain,Matam,Kanel,Centre,57202000.0,FCFA,494.2,0,0,Terrain Ã  Kanel. Contact via plateforme.,Vendu,2020-04-25,plateforme_immo
+PLT-00292,2025-09-09,vente,Maison,Ziguinchor,Oussouye,Ouest,39580000.0,FCFA,237.9,3,4,Maison Ã  Oussouye. Contact via plateforme.,En vente,2025-12-01,plateforme_immo
+PLT-00293,2021-03-03,vente,Villa,Kaffrine,Kaffrine,Ouest,342352000.0,FCFA,407.4,1,4,Villa Ã  Kaffrine. Contact via plateforme.,Vendu,2021-05-17,plateforme_immo
+PLT-00295,2018-11-04,vente,Terrain,Fatick,Fatick,Sud,45090000.0,FCFA,993.9,0,0,Terrain Ã  Fatick. Contact via plateforme.,En vente,2018-12-10,plateforme_immo
+PLT-00297,2022-01-04,vente,Maison,Kaffrine,Kaffrine,Nord,161409000.0,FCFA,101.7,5,3,,Sous offre,2022-03-26,plateforme_immo
+PLT-00302,2025-09-01,location,Appartement,Diourbel,Diourbel,Sud,305000.0,FCFA/mois,95.1,4,2,,Louã©,2025-10-29,plateforme_immo
+PLT-00304,2018-01-01,vente,Chambre,Thiã¨s,Joal-Fadiouth,Ouest,16709000.0,FCFA,18.4,5,0,Chambre Ã  Joal-Fadiouth. Contact via plateforme.,En vente,2018-04-26,plateforme_immo
+PLT-00305,2020-07-02,vente,Studio,Fatick,Kaolack-Fatick,Centre,42108000.0,FCFA,28.4,3,4,Studio Ã  Kaolack-Fatick. Contact via plateforme.,En vente,2020-08-29,plateforme_immo
+PLT-00309,2019-06-10,vente,Maison,Sã©dhiou,Sã©dhiou,RÃ©sidentiel,87089000.0,FCFA,172.7,6,3,Maison Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2019-08-14,plateforme_immo
+PLT-00310,2019-07-01,vente,Local commercial,Louga,Kã©bã©mer,RÃ©sidentiel,194800000.0,FCFA,107.1,0,3,Local commercial Ã  KÃ©bÃ©mer. Contact via plateforme.,Vendu,2019-10-19,plateforme_immo
+PLT-00313,2025-07-08,vente,Appartement,Kolda,Kolda,Centre,57015000.0,FCFA,156.9,3,2,Appartement Ã  Kolda. Contact via plateforme.,Vendu,2025-09-13,plateforme_immo
+PLT-00315,2024-05-06,location,Maison,Ziguinchor,Bignona,Nord,220000.0,FCFA/mois,199.9,6,3,Maison Ã  Bignona. Contact via plateforme.,Disponible,2024-07-31,plateforme_immo
+PLT-00316,2025-04-06,vente,Terrain,Kaffrine,Kaffrine,RÃ©sidentiel,77222000.0,FCFA,1224.1,0,0,Terrain Ã  Kaffrine. Contact via plateforme.,Vendu,2025-06-12,plateforme_immo
+PLT-00318,2020-06-12,location,Villa,Dakar,Guã©diawaye,Sud,1230000.0,FCFA/mois,429.1,3,1,Villa Ã  GuÃ©diawaye. Contact via plateforme.,Disponible,2020-09-23,plateforme_immo
+PLT-00325,2022-11-09,vente,Studio,Ziguinchor,Oussouye,Populaire,40674000.0,FCFA,42.8,4,1,Studio Ã  Oussouye. Contact via plateforme.,Vendu,2022-12-14,plateforme_immo
+PLT-00326,2021-04-02,vente,Studio,Kã©dougou,Kã©dougou,Populaire,19117000.0,FCFA,46.4,3,1,Studio Ã  KÃ©dougou. Contact via plateforme.,En vente,2021-07-01,plateforme_immo
+PLT-00329,2021-08-06,location,Terrain,Saint-louis,Richard-Toll,Nord,270000.0,FCFA/mois,653.9,0,0,Terrain Ã  Richard-Toll. Contact via plateforme.,Disponible,2021-11-16,plateforme_immo
+PLT-00330,2025-03-04,location,Terrain,Kaffrine,Kaffrine,Nord,250000.0,FCFA/mois,1162.4,0,0,Terrain Ã  Kaffrine. Contact via plateforme.,Louã©,2025-06-04,plateforme_immo
+PLT-00334,2020-11-09,location,Appartement,Kolda,Kolda,Nord,250000.0,FCFA/mois,54.9,1,1,Appartement Ã  Kolda. Contact via plateforme.,Louã©,2021-02-17,plateforme_immo
+PLT-00335,2025-05-02,vente,Terrain,Ziguinchor,Bignona,RÃ©sidentiel,58798000.0,FCFA,738.2,0,0,Terrain Ã  Bignona. Contact via plateforme.,En vente,2025-06-18,plateforme_immo
+PLT-00338,2020-06-12,location,Terrain,Louga,Kã©bã©mer,Populaire,255000.0,FCFA/mois,1099.7,0,0,Terrain Ã  KÃ©bÃ©mer. Contact via plateforme.,En vente,2020-08-14,plateforme_immo
+PLT-00343,2023-03-07,location,Maison,Matam,Kanel,Nord,310000.0,FCFA/mois,189.4,2,4,Maison Ã  Kanel. Contact via plateforme.,Louã©,2023-06-21,plateforme_immo
+PLT-00346,2024-11-02,location,Terrain,Matam,Kanel,Nord,60000.0,FCFA/mois,979.1,0,0,Terrain Ã  Kanel. Contact via plateforme.,Louã©,2025-02-01,plateforme_immo
+PLT-00347,2021-02-04,location,Studio,Sã©dhiou,Bounkiling,Ouest,220000.0,FCFA/mois,55.4,3,4,Studio Ã  Bounkiling. Contact via plateforme.,Disponible,2021-04-27,plateforme_immo
+PLT-00349,2024-01-05,vente,Villa,Louga,Linguã¨re,Ouest,368794000.0,FCFA,210.7,3,3,Villa Ã  LinguÃ¨re. Contact via plateforme.,Vendu,2024-04-05,plateforme_immo
+PLT-00350,2021-06-10,vente,Villa,Diourbel,Mbackã©,RÃ©sidentiel,326993000.0,FCFA,151.5,6,4,Villa Ã  MbackÃ©. Contact via plateforme.,En vente,2021-10-07,plateforme_immo
+PLT-00353,2020-04-06,vente,Maison,Dakar,Pikine,RÃ©sidentiel,166089000.0,FCFA,163.9,5,3,Maison Ã  Pikine. Contact via plateforme.,Sous offre,2020-05-27,plateforme_immo
+PLT-00354,2019-10-07,vente,Studio,Tambacounda,Tambacounda,Ouest,31618000.0,FCFA,39.9,3,4,,Vendu,2020-02-04,plateforme_immo
+PLT-00355,2024-04-09,vente,Villa,Thiã¨s,Thiã¨s,Nord,262277000.0,FCFA,356.8,3,3,Villa Ã  ThiÃ¨s. Contact via plateforme.,Sous offre,2024-06-29,plateforme_immo
+PLT-00357,2023-06-04,vente,Villa,Ziguinchor,Bignona,Est,163863000.0,FCFA,237.1,3,4,,En vente,2023-07-12,plateforme_immo
+PLT-00359,2020-11-07,location,Maison,Thiã¨s,Joal-Fadiouth,Nord,730000.0,FCFA/mois,183.7,2,4,Maison Ã  Joal-Fadiouth. Contact via plateforme.,Louã©,2021-03-04,plateforme_immo
+PLT-00362,2019-06-10,vente,Appartement,Diourbel,Mbackã©,Populaire,17785000.0,FCFA,47.6,4,4,Studio Ã  MbackÃ©. Contact via plateforme.,Vendu,2019-08-01,plateforme_immo
+PLT-00364,2023-11-06,location,Appartement,Ziguinchor,Ziguinchor,Populaire,450000.0,FCFA/mois,152.4,4,4,Appartement Ã  Ziguinchor. Contact via plateforme.,Disponible,2024-02-01,plateforme_immo
+PLT-00367,2025-05-05,location,Appartement,Kã©dougou,Kã©dougou,Ouest,205000.0,FCFA/mois,156.5,1,4,Appartement Ã  KÃ©dougou. Contact via plateforme.,Louã©,2025-07-06,plateforme_immo
+PLT-00374,2019-07-08,vente,Terrain,Fatick,Gossas,RÃ©sidentiel,22229000.0,FCFA,1066.8,0,0,Terrain Ã  Gossas. Contact via plateforme.,Retirã©,2019-10-18,plateforme_immo
+PLT-00376,2018-02-04,vente,Studio,Kaffrine,Kaffrine,Ouest,32006000.0,FCFA,50.6,4,4,Studio Ã  Kaffrine. Contact via plateforme.,En vente,2018-03-06,plateforme_immo
+PLT-00380,2021-11-01,vente,Appartement,Saint-louis,Saint-Louis,Populaire,73429000.0,FCFA,59.3,4,3,Appartement Ã  Saint-Louis. Contact via plateforme.,Vendu,2021-12-19,plateforme_immo
+PLT-00381,2023-04-10,vente,Maison,Dakar,Guã©diawaye,Nord,168534000.0,FCFA,183.5,3,4,Maison Ã  GuÃ©diawaye. Contact via plateforme.,Vendu,2023-07-05,plateforme_immo
+PLT-00385,2020-09-02,location,Studio,Tambacounda,Goudiry,Nord,215000.0,FCFA/mois,44.6,6,2,Studio Ã  Goudiry. Contact via plateforme.,Disponible,2020-12-12,plateforme_immo
+PLT-00386,2024-12-01,location,Maison,Sã©dhiou,Goudomp,Est,515000.0,FCFA/mois,141.0,1,4,Maison Ã  Goudomp. Contact via plateforme.,Louã©,2025-03-12,plateforme_immo
+PLT-00387,2020-02-04,vente,Maison,Ziguinchor,Bignona,Ouest,88325000.0,FCFA,138.7,3,4,Maison Ã  Bignona. Contact via plateforme.,Vendu,2020-05-11,plateforme_immo
+PLT-00388,2022-02-12,vente,Studio,Diourbel,Bambey,Sud,37387000.0,FCFA,20.4,6,4,Studio Ã  Bambey. Contact via plateforme.,Vendu,2022-04-13,plateforme_immo
+PLT-00389,2024-05-06,location,Appartement,Kaolack,Guinguinã©o,Est,160000.0,FCFA/mois,80.1,6,4,Appartement Ã  GuinguinÃ©o. Contact via plateforme.,Disponible,2024-06-19,plateforme_immo
+PLT-00390,2022-01-01,location,Appartement,Thiã¨s,Thiã¨s,Populaire,390000.0,FCFA/mois,74.1,2,1,Appartement Ã  ThiÃ¨s. Contact via plateforme.,Louã©,2022-04-03,plateforme_immo
+PLT-00395,2028-12-01,vente,Terrain,Fatick,Kaolack-Fatick,Sud,64427000.0,FCFA,701.4,0,0,Terrain Ã  Kaolack-Fatick. Contact via plateforme.,En vente,2021-12-02,plateforme_immo
+PLT-00398,2024-07-12,vente,Appartement,Fatick,Kaolack-Fatick,RÃ©sidentiel,31332000.0,FCFA,115.0,3,3,,Vendu,2024-09-21,plateforme_immo
+PLT-00402,2023-05-04,vente,Appartement,Sã©dhiou,Bounkiling,RÃ©sidentiel,41540000.0,FCFA,58.3,1,4,,En vente,2023-06-20,plateforme_immo
+PLT-00406,2019-04-01,vente,Appartement,Diourbel,Mbackã©,Ouest,28985000.0,FCFA,175.7,4,1,Appartement Ã  MbackÃ©. Contact via plateforme.,Vendu,2019-06-03,plateforme_immo
+PLT-00411,2022-05-05,vente,Maison,Kolda,Vã©lingara,Nord,163604000.0,FCFA,182.7,1,3,,Sous offre,2022-07-22,plateforme_immo
+PLT-00413,2020-04-08,vente,Villa,Tambacounda,Tambacounda,RÃ©sidentiel,359366000.0,FCFA,272.0,3,2,Villa Ã  Tambacounda. Contact via plateforme.,Sous offre,2020-05-28,plateforme_immo
+PLT-00416,2025-04-04,location,Appartement,Thiã¨s,Joal-Fadiouth,Nord,520000.0,FCFA/mois,73.8,3,2,Appartement Ã  Joal-Fadiouth. Contact via plateforme.,Louã©,2025-06-25,plateforme_immo
+PLT-00419,2020-06-06,location,Villa,Matam,Kanel,Ouest,1100000.0,FCFA/mois,371.2,4,4,Villa Ã  Kanel. Contact via plateforme.,Louã©,2020-07-11,plateforme_immo
+PLT-00427,2023-05-07,location,Maison,Kaffrine,Kaffrine,Sud,615000.0,FCFA/mois,60.6,1,1,Maison Ã  Kaffrine. Contact via plateforme.,Disponible,2023-09-02,plateforme_immo
+PLT-00428,2023-02-09,vente,Villa,Kã©dougou,Salã©mata,Est,373853000.0,FCFA,150.7,3,1,Villa Ã  SalÃ©mata. Contact via plateforme.,En vente,2023-05-04,plateforme_immo
+PLT-00433,2025-09-10,vente,Studio,Kolda,Mã©dina yoro foulah,RÃ©sidentiel,38024000.0,FCFA,40.7,4,1,Studio Ã  MÃ©dina Yoro Foulah. Contact via plateforme.,Vendu,2025-12-09,plateforme_immo
+PLT-00441,2022-12-12,vente,Studio,Saint-louis,Saint-Louis,Ouest,29832000.0,FCFA,39.3,3,2,Studio Ã  Saint-Louis. Contact via plateforme.,En vente,2023-02-06,plateforme_immo
+PLT-00450,2022-04-02,vente,Maison,Matam,Matam,Populaire,140969000.0,FCFA,246.4,6,1,Maison Ã  Matam. Contact via plateforme.,Vendu,2022-05-02,plateforme_immo
+PLT-00451,2021-04-08,vente,Maison,Sã©dhiou,Sã©dhiou,Ouest,63724000.0,FCFA,167.4,5,4,Maison Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2021-08-02,plateforme_immo
+PLT-00453,2021-03-01,vente,Terrain,Kã©dougou,Salã©mata,Sud,77751000.0,FCFA,876.9,0,0,Terrain Ã  SalÃ©mata. Contact via plateforme.,Sous offre,2021-05-21,plateforme_immo
+PLT-00456,2020-01-07,vente,Villa,Sã©dhiou,Goudomp,Centre,141337000.0,FCFA,432.1,4,4,Villa Ã  Goudomp. Contact via plateforme.,Vendu,2020-03-07,plateforme_immo
+PLT-00457,2024-02-12,location,Appartement,Kã©dougou,Salã©mata,RÃ©sidentiel,360000.0,FCFA/mois,100.6,1,4,,Disponible,2024-05-19,plateforme_immo
+PLT-00458,2024-11-03,vente,Villa,Kaffrine,Birkelane,Ouest,103041000.0,FCFA,289.1,4,1,,Vendu,2025-01-15,plateforme_immo
+PLT-00459,2023-04-06,vente,Villa,Kolda,Kolda,Nord,99224000.0,FCFA,379.5,3,4,,En vente,2023-07-21,plateforme_immo
+PLT-00460,2018-09-09,vente,Maison,Kã©dougou,Saraya,RÃ©sidentiel,58882000.0,FCFA,122.7,5,2,Maison Ã  Saraya. Contact via plateforme.,En vente,2018-11-14,plateforme_immo
+PLT-00461,2021-02-12,vente,Appartement,Fatick,Fatick,Ouest,44464000.0,FCFA,163.5,5,3,Appartement Ã  Fatick. Contact via plateforme.,Vendu,2021-05-28,plateforme_immo
+PLT-00467,2024-08-08,vente,Maison,Sã©dhiou,Goudomp,Centre,57903000.0,FCFA,192.2,5,3,Maison Ã  Goudomp. Contact via plateforme.,En vente,2024-09-15,plateforme_immo
+PLT-00468,2023-01-01,vente,Appartement,Dakar,Rufisque,Centre,143683000.0,FCFA,167.3,6,3,Appartement Ã  Rufisque. Contact via plateforme.,Vendu,2023-04-25,plateforme_immo
+PLT-00469,2025-12-10,vente,Terrain,Kaffrine,Kaffrine,Populaire,23106000.0,FCFA,1349.5,0,0,Terrain Ã  Kaffrine. Contact via plateforme.,Retirã©,2026-03-22,plateforme_immo
+PLT-00470,2020-11-03,vente,Terrain,Sã©dhiou,Sã©dhiou,Sud,44107000.0,FCFA,953.7,0,0,Terrain Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2021-03-01,plateforme_immo
+PLT-00471,2021-02-09,vente,Appartement,Tambacounda,Bakel,Sud,116877000.0,FCFA,101.4,4,4,Appartement Ã  Bakel. Contact via plateforme.,En vente,2021-03-19,plateforme_immo
+PLT-00472,2023-07-09,vente,Villa,Fatick,Fatick,RÃ©sidentiel,406313000.0,FCFA,261.1,5,4,Villa Ã  Fatick. Contact via plateforme.,Vendu,2023-08-12,plateforme_immo
+PLT-00476,2021-04-02,vente,Appartement,Kaffrine,Birkelane,Est,68630000.0,FCFA,93.3,2,1,Appartement Ã  Birkelane. Contact via plateforme.,En vente,2021-07-21,plateforme_immo
+PLT-00479,2024-01-07,vente,Villa,Tambacounda,Goudiry,RÃ©sidentiel,246630000.0,FCFA,367.1,5,2,,Vendu,2024-04-25,plateforme_immo
+PLT-00480,2019-12-07,vente,Appartement,Dakar,Pikine,Populaire,116227000.0,FCFA,219.9,3,1,Maison Ã  Pikine. Contact via plateforme.,En vente,2020-01-20,plateforme_immo
+PLT-00481,2020-04-10,vente,Maison,Fatick,Gossas,Nord,126951000.0,FCFA,84.0,6,4,Maison Ã  Gossas. Contact via plateforme.,Vendu,2020-06-06,plateforme_immo
+PLT-00482,2019-05-10,vente,Villa,Sã©dhiou,Sã©dhiou,Ouest,333941000.0,FCFA,143.0,4,2,,Vendu,2019-06-21,plateforme_immo
+PLT-00484,2025-10-06,vente,Maison,Louga,Linguã¨re,Ouest,135652000.0,FCFA,157.4,2,3,Maison Ã  LinguÃ¨re. Contact via plateforme.,Vendu,2026-01-20,plateforme_immo
+PLT-00486,2020-05-02,vente,Villa,Kolda,Kolda,Est,402346000.0,FCFA,372.8,2,1,Villa Ã  Kolda. Contact via plateforme.,Vendu,2020-06-21,plateforme_immo
+PLT-00490,2020-03-06,vente,Studio,Diourbel,Bambey,Sud,36417000.0,FCFA,56.7,3,2,,En vente,2020-06-03,plateforme_immo
+PLT-00493,2023-04-12,vente,Local commercial,Dakar,Rufisque,RÃ©sidentiel,230846000.0,FCFA,113.2,0,1,Local commercial Ã  Rufisque. Contact via plateforme.,En vente,2023-07-08,plateforme_immo
+PLT-00494,2025-10-10,vente,Appartement,Fatick,Fatick,Centre,34171000.0,FCFA,77.7,2,2,Appartement Ã  Fatick. Contact via plateforme.,En vente,2025-12-18,plateforme_immo
+PLT-00495,2018-04-10,vente,Terrain,Diourbel,Bambey,Nord,32704000.0,FCFA,929.7,0,0,Terrain Ã  Bambey. Contact via plateforme.,Retirã©,2018-06-26,plateforme_immo
+PLT-00497,2021-10-07,vente,Maison,Matam,Matam,Ouest,164384000.0,FCFA,95.2,1,3,,En vente,2021-12-22,plateforme_immo
+PLT-00501,2018-11-12,vente,Studio,Thiã¨s,Thiã¨s,Ouest,45107000.0,FCFA,42.9,3,1,Studio Ã  ThiÃ¨s. Contact via plateforme.,Vendu,2018-12-14,plateforme_immo
+PLT-00503,2021-11-05,vente,Maison,Kaffrine,Koungheul,Est,164416000.0,FCFA,144.2,3,4,Maison Ã  Koungheul. Contact via plateforme.,En vente,2022-02-15,plateforme_immo
+PLT-00504,2023-06-07,vente,Appartement,Diourbel,Mbackã©,Ouest,81211000.0,FCFA,139.9,3,1,Appartement Ã  MbackÃ©. Contact via plateforme.,Vendu,2023-09-13,plateforme_immo
+PLT-00519,2023-06-10,vente,Villa,Dakar,Pikine,Populaire,165187000.0,FCFA,246.7,2,1,Villa Ã  Pikine. Contact via plateforme.,Vendu,2023-09-26,plateforme_immo
+PLT-00523,2020-11-02,vente,Villa,Dakar,Keur Massar,Nord,315356000.0,FCFA,421.4,3,1,Villa Ã  Keur Massar. Contact via plateforme.,Vendu,2020-12-27,plateforme_immo
+PLT-00524,2021-02-10,vente,Appartement,Diourbel,Mbackã©,Nord,93777000.0,FCFA,61.3,3,3,Appartement Ã  MbackÃ©. Contact via plateforme.,Sous offre,2021-03-20,plateforme_immo
+PLT-00529,2019-05-04,vente,Villa,Louga,Kã©bã©mer,Sud,193336000.0,FCFA,380.4,4,1,Villa Ã  KÃ©bÃ©mer. Contact via plateforme.,Vendu,2019-07-16,plateforme_immo
+PLT-00530,2020-08-11,vente,Terrain,Saint-louis,Podor,Ouest,75439000.0,FCFA,1297.7,0,0,Terrain Ã  Podor. Contact via plateforme.,En vente,2020-12-01,plateforme_immo
+PLT-00532,2018-10-07,vente,Appartement,Diourbel,Diourbel,Ouest,92031000.0,FCFA,137.9,1,2,Appartement Ã  Diourbel. Contact via plateforme.,Vendu,2018-11-15,plateforme_immo
+PLT-00533,2020-04-07,vente,Maison,Tambacounda,Goudiry,Ouest,97427000.0,FCFA,87.1,4,4,Maison Ã  Goudiry. Contact via plateforme.,Vendu,2020-05-11,plateforme_immo
+PLT-00536,2021-03-11,vente,Maison,Louga,Linguã¨re,Ouest,133182000.0,FCFA,175.1,1,1,,Vendu,2021-06-29,plateforme_immo
+PLT-00537,2022-01-03,vente,Appartement,Kaolack,Nioro du Rip,RÃ©sidentiel,118863000.0,FCFA,106.3,1,2,,Vendu,2022-03-13,plateforme_immo
+PLT-00538,2018-06-03,vente,Appartement,Thiã¨s,Tivaouane,Sud,71131000.0,FCFA,48.7,4,4,Appartement Ã  Tivaouane. Contact via plateforme.,Vendu,2018-08-21,plateforme_immo
+PLT-00540,2020-11-04,location,Maison,Saint-louis,Richard-Toll,Est,295000.0,FCFA/mois,64.4,5,2,Maison Ã  Richard-Toll. Contact via plateforme.,Louã©,2021-02-21,plateforme_immo
+PLT-00542,2022-07-06,vente,Villa,Louga,Linguã¨re,RÃ©sidentiel,303089000.0,FCFA,392.8,5,4,Villa Ã  LinguÃ¨re. Contact via plateforme.,Vendu,2022-08-28,plateforme_immo
+PLT-00548,2022-09-02,location,Appartement,Sã©dhiou,Goudomp,RÃ©sidentiel,370000.0,FCFA/mois,99.2,3,3,Appartement Ã  Goudomp. Contact via plateforme.,Louã©,2022-11-25,plateforme_immo
+PLT-00551,2020-09-08,vente,Maison,Sã©dhiou,Sã©dhiou,RÃ©sidentiel,112341000.0,FCFA,225.3,4,3,,Vendu,2020-11-07,plateforme_immo
+PLT-00558,2025-01-10,vente,Terrain,Dakar,Dakar,Populaire,74290000.0,FCFA,1437.6,0,0,Terrain Ã  Dakar. Contact via plateforme.,Vendu,2025-04-01,plateforme_immo
+PLT-00560,2020-04-12,vente,Villa,Kaffrine,Koungheul,Nord,311839000.0,FCFA,425.7,3,3,Villa Ã  Koungheul. Contact via plateforme.,Vendu,2020-06-17,plateforme_immo
+PLT-00562,2025-10-09,vente,Appartement,Dakar,Rufisque,Centre,72147000.0,FCFA,93.4,2,4,Appartement Ã  Rufisque. Contact via plateforme.,Vendu,2025-11-14,plateforme_immo
+PLT-00566,2023-07-06,vente,Chambre,Kolda,Vã©lingara,Est,13561000.0,FCFA,25.3,2,0,,En vente,2023-08-24,plateforme_immo
+PLT-00570,2022-06-03,vente,Maison,Dakar,Guã©diawaye,RÃ©sidentiel,62296000.0,FCFA,155.1,1,3,Maison Ã  GuÃ©diawaye. Contact via plateforme.,Vendu,2022-09-21,plateforme_immo
+PLT-00572,2028-12-01,vente,Maison,Kaffrine,Kaffrine,Populaire,68696000.0,FCFA,113.4,5,4,Maison Ã  Kaffrine. Contact via plateforme.,En vente,2018-09-26,plateforme_immo
+PLT-00575,2022-10-11,vente,Villa,Sã©dhiou,Bounkiling,RÃ©sidentiel,125481000.0,FCFA,413.3,5,3,Villa Ã  Bounkiling. Contact via plateforme.,Vendu,2023-01-12,plateforme_immo
+PLT-00576,2023-04-02,vente,Maison,Kolda,Mã©dina yoro foulah,Populaire,119950000.0,FCFA,178.7,4,3,Maison Ã  MÃ©dina Yoro Foulah. Contact via plateforme.,Vendu,2023-06-25,plateforme_immo
+PLT-00577,2018-07-04,vente,Appartement,Ziguinchor,Bignona,Populaire,47984000.0,FCFA,141.4,5,4,Appartement Ã  Bignona. Contact via plateforme.,Vendu,2018-09-04,plateforme_immo
+PLT-00580,2019-12-05,vente,Appartement,Kolda,Kolda,Est,84808000.0,FCFA,52.3,4,4,Appartement Ã  Kolda. Contact via plateforme.,En vente,2020-03-22,plateforme_immo
+PLT-00581,2022-06-06,vente,Maison,Kaolack,Guinguinã©o,RÃ©sidentiel,35020000.0,FCFA,157.1,1,2,Maison Ã  GuinguinÃ©o. Contact via plateforme.,En vente,2022-07-09,plateforme_immo
+PLT-00591,2019-03-03,vente,Terrain,Kaffrine,Koungheul,Populaire,43484000.0,FCFA,729.9,0,0,Terrain Ã  Koungheul. Contact via plateforme.,En vente,2019-04-15,plateforme_immo
+PLT-00593,2019-02-11,vente,Maison,Kã©dougou,Saraya,Est,154216000.0,FCFA,221.6,3,3,Maison Ã  Saraya. Contact via plateforme.,Vendu,2019-03-13,plateforme_immo
+PLT-00596,2019-11-05,vente,Studio,Thiã¨s,Thiã¨s,Centre,40011000.0,FCFA,32.6,4,1,Studio Ã  ThiÃ¨s. Contact via plateforme.,Vendu,2020-02-27,plateforme_immo
+PLT-00598,2024-02-08,vente,Villa,Kã©dougou,Saraya,Est,216081000.0,FCFA,139.2,5,4,Villa Ã  Saraya. Contact via plateforme.,En vente,2024-04-16,plateforme_immo
+PLT-00599,2019-06-01,vente,Villa,Thiã¨s,Thiã¨s,Sud,196910000.0,FCFA,395.7,5,3,Villa Ã  ThiÃ¨s. Contact via plateforme.,Vendu,2019-07-21,plateforme_immo
+PLT-00603,2021-09-04,vente,Villa,Diourbel,Bambey,Est,272880000.0,FCFA,442.1,2,3,,Vendu,2021-10-11,plateforme_immo
+PLT-00605,2019-06-05,vente,Terrain,Kã©dougou,Saraya,Ouest,36544000.0,FCFA,607.9,0,0,,Vendu,2019-08-01,plateforme_immo
+PLT-00606,2024-04-08,vente,Appartement,Fatick,Kaolack-Fatick,Ouest,105471000.0,FCFA,48.2,1,4,Appartement Ã  Kaolack-Fatick. Contact via plateforme.,Vendu,2024-06-24,plateforme_immo
+PLT-00608,2018-07-03,vente,Villa,Dakar,Dakar,Est,140815000.0,FCFA,195.3,5,3,Villa Ã  Dakar. Contact via plateforme.,Vendu,2018-10-18,plateforme_immo
+PLT-00613,2023-12-03,vente,Appartement,Kaolack,Nioro du Rip,Nord,61876000.0,FCFA,136.0,3,1,Appartement Ã  Nioro du Rip. Contact via plateforme.,Vendu,2024-01-13,plateforme_immo
+PLT-00615,2021-05-10,location,Appartement,Louga,Kã©bã©mer,Centre,470000.0,FCFA/mois,53.4,2,2,Appartement Ã  KÃ©bÃ©mer. Contact via plateforme.,Disponible,2021-07-19,plateforme_immo
+PLT-00617,2018-12-10,vente,Studio,Sã©dhiou,Sã©dhiou,Nord,28520000.0,FCFA,47.2,5,2,Studio Ã  SÃ©dhiou. Contact via plateforme.,En vente,2019-03-18,plateforme_immo
+PLT-00624,2018-02-08,vente,Studio,Thiã¨s,Joal-Fadiouth,Populaire,36991000.0,FCFA,26.5,1,3,Studio Ã  Joal-Fadiouth. Contact via plateforme.,Vendu,2018-04-17,plateforme_immo
+PLT-00626,2024-05-06,vente,Appartement,Kolda,Vã©lingara,Sud,78683000.0,FCFA,149.2,5,2,Appartement Ã  VÃ©lingara. Contact via plateforme.,En vente,2024-07-04,plateforme_immo
+PLT-00629,2020-03-08,vente,Villa,Louga,Linguã¨re,Centre,238620000.0,FCFA,129.6,5,1,Villa Ã  LinguÃ¨re. Contact via plateforme.,Vendu,2020-05-02,plateforme_immo
+PLT-00630,2019-02-01,vente,Studio,Diourbel,Mbackã©,Sud,15911000.0,FCFA,31.6,4,1,Studio Ã  MbackÃ©. Contact via plateforme.,Vendu,2019-05-02,plateforme_immo
+PLT-00633,2018-08-02,vente,Appartement,Louga,Louga,Ouest,99817000.0,FCFA,78.9,4,4,Appartement Ã  Louga. Contact via plateforme.,Vendu,2018-11-19,plateforme_immo
+PLT-00637,2023-09-09,vente,Maison,Matam,Kanel,Nord,109921000.0,FCFA,204.2,5,1,Maison Ã  Kanel. Contact via plateforme.,En vente,2023-11-21,plateforme_immo
+PLT-00639,2025-10-10,vente,Terrain,Fatick,Fatick,Populaire,71990000.0,FCFA,756.4,0,0,Terrain Ã  Fatick. Contact via plateforme.,Vendu,2025-12-27,plateforme_immo
+PLT-00642,2025-05-06,vente,Terrain,Thiã¨s,Thiã¨s,Nord,81941000.0,FCFA,1266.9,0,0,Terrain Ã  ThiÃ¨s. Contact via plateforme.,En vente,2025-07-22,plateforme_immo
+PLT-00643,2024-11-11,location,Terrain,Tambacounda,Tambacounda,Populaire,245000.0,FCFA/mois,1009.6,0,0,Terrain Ã  Tambacounda. Contact via plateforme.,Louã©,2025-02-17,plateforme_immo
+PLT-00647,2020-04-11,vente,Maison,Tambacounda,Goudiry,Nord,68410000.0,FCFA,60.3,2,4,Maison Ã  Goudiry. Contact via plateforme.,Vendu,2020-06-27,plateforme_immo
+PLT-00654,2024-04-06,vente,Chambre,Sã©dhiou,Goudomp,Centre,8855000.0,FCFA,24.3,2,0,Chambre Ã  Goudomp. Contact via plateforme.,Vendu,2024-07-29,plateforme_immo
+PLT-00660,2021-02-02,vente,Villa,Matam,Matam,Ouest,349011000.0,FCFA,305.5,2,4,Villa Ã  Matam. Contact via plateforme.,Vendu,2021-05-15,plateforme_immo
+PLT-00661,2019-01-09,vente,Villa,Fatick,Kaolack-Fatick,Ouest,220792000.0,FCFA,173.8,4,3,Villa Ã  Kaolack-Fatick. Contact via plateforme.,Vendu,2019-03-02,plateforme_immo
+PLT-00662,2022-11-05,vente,Appartement,Louga,Louga,Centre,61514000.0,FCFA,48.4,6,2,Appartement Ã  Louga. Contact via plateforme.,Vendu,2022-12-25,plateforme_immo
+PLT-00663,2018-10-01,vente,Appartement,Ziguinchor,Bignona,Centre,340802000.0,FCFA,389.7,6,2,Villa Ã  Bignona. Contact via plateforme.,En vente,2018-11-09,plateforme_immo
+PLT-00664,2022-08-07,vente,Villa,Sã©dhiou,Sã©dhiou,RÃ©sidentiel,99117000.0,FCFA,286.6,3,2,Villa Ã  SÃ©dhiou. Contact via plateforme.,Vendu,2022-11-04,plateforme_immo
+PLT-00665,2024-06-12,location,Maison,Louga,Kã©bã©mer,Est,310000.0,FCFA/mois,212.0,3,1,Maison Ã  KÃ©bÃ©mer. Contact via plateforme.,Disponible,2024-07-20,plateforme_immo
+PLT-00670,2021-09-01,vente,Appartement,Diourbel,Touba,Est,77142000.0,FCFA,83.8,6,2,,Vendu,2021-10-28,plateforme_immo
+PLT-00671,2025-05-02,vente,Studio,Thiã¨s,Tivaouane,RÃ©sidentiel,32503000.0,FCFA,33.4,4,2,Studio Ã  Tivaouane. Contact via plateforme.,Vendu,2025-06-06,plateforme_immo
+PLT-00672,2023-08-09,vente,Chambre,Thiã¨s,Mbour,Ouest,6477000.0,FCFA,25.7,1,0,Chambre Ã  Mbour. Contact via plateforme.,Retirã©,2023-09-20,plateforme_immo
+PLT-00673,2025-08-08,vente,Local commercial,Matam,Ourossogui,Sud,146525000.0,FCFA,126.4,0,2,Local commercial Ã  Ourossogui. Contact via plateforme.,Sous offre,2025-12-01,plateforme_immo
+PLT-00678,2023-07-07,vente,Maison,Diourbel,Bambey,Centre,141993000.0,FCFA,193.9,2,1,Maison Ã  Bambey. Contact via plateforme.,Vendu,2023-10-15,plateforme_immo
+PLT-00680,2022-01-12,vente,Terrain,Saint-louis,Richard-Toll,RÃ©sidentiel,30020000.0,FCFA,488.2,0,0,Terrain Ã  Richard-Toll. Contact via plateforme.,Vendu,2022-03-02,plateforme_immo
+PLT-00681,2018-12-07,vente,Appartement,Kaffrine,Birkelane,Sud,82346000.0,FCFA,55.4,3,2,Appartement Ã  Birkelane. Contact via plateforme.,En vente,2019-02-23,plateforme_immo
+PLT-00691,2021-02-07,vente,Studio,Diourbel,Diourbel,Centre,20537000.0,FCFA,37.4,1,2,Studio Ã  Diourbel. Contact via plateforme.,Vendu,2021-03-09,plateforme_immo
+PLT-00693,2021-11-06,vente,Studio,Matam,Ourossogui,Sud,18576000.0,FCFA,55.1,2,3,Studio Ã  Ourossogui. Contact via plateforme.,Retirã©,2021-12-18,plateforme_immo
+PLT-00695,2025-10-10,location,Maison,Fatick,Gossas,Centre,640000.0,FCFA/mois,175.3,2,1,Maison Ã  Gossas. Contact via plateforme.,Disponible,2025-11-14,plateforme_immo
+PLT-00697,2019-08-10,vente,Studio,Thiã¨s,Joal-Fadiouth,RÃ©sidentiel,42779000.0,FCFA,41.8,5,1,Studio Ã  Joal-Fadiouth. Contact via plateforme.,Sous offre,2019-11-07,plateforme_immo
+PLT-00702,2022-04-07,vente,Appartement,Matam,Ourossogui,Est,92019000.0,FCFA,102.7,1,3,Appartement Ã  Ourossogui. Contact via plateforme.,En vente,2022-06-22,plateforme_immo
+PLT-00703,2025-06-11,vente,Terrain,Sã©dhiou,Goudomp,Est,84775000.0,FCFA,170.9,0,0,Terrain Ã  Goudomp. Contact via plateforme.,En vente,2025-08-17,plateforme_immo
+PLT-00705,2021-04-08,vente,Maison,Matam,Ourossogui,Nord,43146000.0,FCFA,153.3,4,1,Maison Ã  Ourossogui. Contact via plateforme.,En vente,2021-06-05,plateforme_immo
+PLT-00706,2022-01-03,location,Appartement,Kã©dougou,Salã©mata,Nord,445000.0,FCFA/mois,80.1,6,4,Appartement Ã  SalÃ©mata. Contact via plateforme.,Louã©,2022-04-13,plateforme_immo
+PLT-00708,2024-07-05,vente,Appartement,Louga,Louga,RÃ©sidentiel,102342000.0,FCFA,137.5,1,3,Appartement Ã  Louga. Contact via plateforme.,Sous offre,2024-08-22,plateforme_immo
+PLT-00710,2018-08-03,vente,Studio,Dakar,Dakar,Est,32099000.0,FCFA,34.2,5,3,Studio Ã  Dakar. Contact via plateforme.,Vendu,2018-09-17,plateforme_immo
+PLT-00711,2019-12-08,vente,Villa,Saint-louis,Richard-Toll,Sud,193884000.0,FCFA,421.6,4,1,Villa Ã  Richard-Toll. Contact via plateforme.,En vente,2020-03-03,plateforme_immo
+PLT-00713,2023-06-07,vente,Maison,Kã©dougou,Kã©dougou,RÃ©sidentiel,115239000.0,FCFA,155.6,6,4,Maison Ã  KÃ©dougou. Contact via plateforme.,Retirã©,2023-09-13,plateforme_immo
+PLT-00715,2022-01-10,location,Local commercial,Sã©dhiou,Sã©dhiou,Centre,665000.0,FCFA/mois,198.7,0,2,,Louã©,2022-03-07,plateforme_immo
+PLT-00719,2024-03-02,vente,Maison,Ziguinchor,Ziguinchor,Est,50275000.0,FCFA,102.2,4,2,Maison Ã  Ziguinchor. Contact via plateforme.,Vendu,2024-04-19,plateforme_immo
+PLT-00720,2025-02-06,vente,Appartement,Kolda,Kolda,Nord,48308000.0,FCFA,52.8,2,3,Appartement Ã  Kolda. Contact via plateforme.,En vente,2025-03-27,plateforme_immo
+PLT-00721,2022-10-10,location,Studio,Kaolack,Nioro du Rip,Centre,115000.0,FCFA/mois,58.4,1,1,Studio Ã  Nioro du Rip. Contact via plateforme.,Disponible,2022-12-21,plateforme_immo
+PLT-00723,2024-06-01,vente,Appartement,Matam,Ourossogui,Populaire,91704000.0,FCFA,68.2,5,3,Appartement Ã  Ourossogui. Contact via plateforme.,Sous offre,2024-08-14,plateforme_immo
+PLT-00724,2024-03-09,vente,Maison,Sã©dhiou,Goudomp,RÃ©sidentiel,161226000.0,FCFA,180.0,4,4,Maison Ã  Goudomp. Contact via plateforme.,En vente,2024-04-24,plateforme_immo
+PLT-00725,2025-03-03,vente,Villa,Diourbel,Bambey,Est,304086000.0,FCFA,158.7,6,2,Villa Ã  Bambey. Contact via plateforme.,Retirã©,2025-05-31,plateforme_immo
+PLT-00737,2024-05-11,location,Terrain,Kolda,Mã©dina yoro foulah,Sud,105000.0,FCFA/mois,577.7,0,0,Terrain Ã  MÃ©dina Yoro Foulah. Contact via plateforme.,Disponible,2024-09-05,plateforme_immo
+PLT-00738,2024-09-11,vente,Maison,Saint-louis,Saint-Louis,Nord,97447000.0,FCFA,148.2,4,4,Maison Ã  Saint-Louis. Contact via plateforme.,En vente,2024-12-15,plateforme_immo
+PLT-00740,2025-02-11,vente,Local commercial,Diourbel,Touba,Nord,112278000.0,FCFA,41.4,0,1,Local commercial Ã  Touba. Contact via plateforme.,Vendu,2025-05-30,plateforme_immo
+PLT-00744,2024-08-09,vente,Maison,Kaolack,Nioro du Rip,Centre,59633000.0,FCFA,97.0,3,2,,Vendu,2024-11-24,plateforme_immo
+PLT-00746,2022-09-09,vente,Appartement,Kolda,Mã©dina yoro foulah,Est,109467000.0,FCFA,123.1,3,3,,En vente,2022-12-01,plateforme_immo
+PLT-00748,2023-10-05,vente,Villa,Kã©dougou,Saraya,Est,196116000.0,FCFA,199.7,2,4,Villa Ã  Saraya. Contact via plateforme.,Retirã©,2023-11-30,plateforme_immo
+PLT-00752,2018-02-12,vente,Local commercial,Ziguinchor,Oussouye,Centre,85167000.0,FCFA,110.1,0,2,Local commercial Ã  Oussouye. Contact via plateforme.,En vente,2018-05-27,plateforme_immo
+PLT-00753,2028-12-01,vente,Terrain,Thiã¨s,Joal-Fadiouth,Sud,25935000.0,FCFA,925.3,0,0,Terrain Ã  Joal-Fadiouth. Contact via plateforme.,En vente,2025-04-29,plateforme_immo
+PLT-00762,2019-03-02,vente,Maison,Tambacounda,Bakel,Centre,80353000.0,FCFA,184.3,4,3,Maison Ã  Bakel. Contact via plateforme.,Vendu,2019-04-20,plateforme_immo
+PLT-00763,2023-01-04,vente,Appartement,Sã©dhiou,Goudomp,Nord,97419000.0,FCFA,50.3,4,1,,En vente,2023-02-19,plateforme_immo
+PLT-00773,2018-08-12,vente,Chambre,Tambacounda,Goudiry,Sud,10917000.0,FCFA,23.4,6,0,Chambre Ã  Goudiry. Contact via plateforme.,En vente,2018-10-23,plateforme_immo
+PLT-00777,2020-06-02,location,Villa,Matam,Ourossogui,Nord,705000.0,FCFA/mois,424.0,2,4,Villa Ã  Ourossogui. Contact via plateforme.,Disponible,2020-09-27,plateforme_immo
+PLT-00779,2020-11-03,location,Appartement,Dakar,Rufisque,Sud,235000.0,FCFA/mois,126.9,5,4,Appartement Ã  Rufisque. Contact via plateforme.,En vente,2020-12-14,plateforme_immo
+PLT-00782,2021-07-08,vente,Villa,Fatick,Kaolack-Fatick,RÃ©sidentiel,440152000.0,FCFA,273.5,6,4,,Vendu,2021-10-28,plateforme_immo
+PLT-00786,2022-04-07,vente,Appartement,Kaolack,Guinguinã©o,Centre,117442000.0,FCFA,147.5,3,4,Appartement Ã  GuinguinÃ©o. Contact via plateforme.,Vendu,2022-08-02,plateforme_immo
+PLT-00787,2019-08-04,vente,Appartement,Louga,Kã©bã©mer,Ouest,51445000.0,FCFA,152.8,4,1,Appartement Ã  KÃ©bÃ©mer. Contact via plateforme.,Vendu,2019-10-06,plateforme_immo
+PLT-00788,2023-11-01,location,Appartement,Diourbel,Diourbel,Ouest,255000.0,FCFA/mois,62.5,3,2,Appartement Ã  Diourbel. Contact via plateforme.,En vente,2023-12-21,plateforme_immo
+PLT-00790,2025-08-07,location,Terrain,Dakar,Pikine,Ouest,110000.0,FCFA/mois,566.6,0,0,Terrain Ã  Pikine. Contact via plateforme.,Louã©,2025-11-02,plateforme_immo
+PLT-00795,2024-02-10,vente,Maison,Thiã¨s,Joal-Fadiouth,Populaire,101473000.0,FCFA,197.8,4,1,Maison Ã  Joal-Fadiouth. Contact via plateforme.,Vendu,2024-04-28,plateforme_immo
+PLT-00796,2023-12-07,location,Terrain,Thiã¨s,Mbour,RÃ©sidentiel,245000.0,FCFA/mois,1304.3,0,0,Terrain Ã  Mbour. Contact via plateforme.,En vente,2024-02-25,plateforme_immo
+PLT-00797,2021-01-01,vente,Maison,Dakar,Guã©diawaye,Nord,211701000.0,FCFA,248.0,3,3,,Sous offre,2021-03-25,plateforme_immo
+PLT-00802,2020-03-04,vente,Maison,Diourbel,Touba,Nord,105996000.0,FCFA,182.5,2,4,Maison Ã  Touba. Contact via plateforme.,Vendu,2020-06-23,plateforme_immo
+PLT-00805,2024-05-12,vente,Appartement,Diourbel,Mbackã©,Ouest,103443000.0,FCFA,83.6,1,1,Appartement Ã  MbackÃ©. Contact via plateforme.,En vente,2024-06-11,plateforme_immo
+PLT-00806,2018-05-02,vente,Terrain,Diourbel,Mbackã©,Sud,38713000.0,FCFA,1212.8,0,0,,Vendu,2018-06-28,plateforme_immo
+PLT-00807,2025-10-03,vente,Appartement,Dakar,Guã©diawaye,Ouest,105158000.0,FCFA,159.1,3,3,Appartement Ã  GuÃ©diawaye. Contact via plateforme.,Sous offre,2025-12-31,plateforme_immo
+PLT-00808,2022-03-01,location,Chambre,Kã©dougou,Saraya,Est,95000.0,FCFA/mois,14.4,2,0,,Disponible,2022-06-14,plateforme_immo
+PLT-00813,2020-11-02,location,Villa,Ziguinchor,Bignona,Nord,1235000.0,FCFA/mois,171.0,6,4,Villa Ã  Bignona. Contact via plateforme.,Louã©,2021-02-03,plateforme_immo
+PLT-00815,2024-07-07,location,Studio,Dakar,Rufisque,Populaire,275000.0,FCFA/mois,26.8,5,1,Studio Ã  Rufisque. Contact via plateforme.,Disponible,2024-09-13,plateforme_immo
+PLT-00819,2022-04-04,vente,Appartement,Ziguinchor,Ziguinchor,Nord,47560000.0,FCFA,51.7,2,2,Appartement Ã  Ziguinchor. Contact via plateforme.,Vendu,2022-06-25,plateforme_immo
+PLT-00820,2020-09-12,vente,Maison,Tambacounda,Bakel,Nord,123206000.0,FCFA,113.4,6,4,,En vente,2020-11-18,plateforme_immo
+PLT-02602,2024-03-01,vente,Maison,Sã©dhiou,Sã©dhiou,Centre,131291000.0,FCFA,108.5,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02604,2024-03-01,vente,Local commercial,Kã©dougou,Saraya,Centre,51596000.0,FCFA,55.2,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02606,2024-03-01,vente,Villa,Ziguinchor,Ziguinchor,Centre,193003000.0,FCFA,172.0,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02608,2024-03-01,vente,Terrain,Louga,Louga,Centre,22269000.0,FCFA,1160.3,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02610,2024-03-01,vente,Terrain,Tambacounda,Goudiry,Centre,9299000.0,FCFA,872.1,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02612,2024-03-01,vente,Studio,Saint-louis,Saint-Louis,Centre,26974000.0,FCFA,40.3,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02614,2024-03-01,vente,Chambre,Saint-louis,Richard-Toll,Centre,12317000.0,FCFA,16.3,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02616,2024-03-01,vente,Terrain,Sã©dhiou,Sã©dhiou,Centre,32199000.0,FCFA,1121.4,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02618,2024-03-01,vente,Maison,Tambacounda,Bakel,Centre,161335000.0,FCFA,96.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02620,2024-03-01,vente,Maison,Saint-louis,Richard-Toll,Centre,49155000.0,FCFA,230.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02622,2024-03-01,vente,Terrain,Saint-louis,Richard-Toll,Centre,36691000.0,FCFA,862.9,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02624,2024-03-01,vente,Appartement,Matam,Kanel,Centre,59157000.0,FCFA,62.0,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02626,2024-03-01,vente,Villa,Louga,Kã©bã©mer,Centre,298053000.0,FCFA,293.3,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02628,2024-03-01,vente,Local commercial,Ziguinchor,Ziguinchor,Centre,64509000.0,FCFA,157.5,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02630,2024-03-01,vente,Studio,Saint-louis,Saint-Louis,Centre,42129000.0,FCFA,43.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02632,2024-03-01,vente,Terrain,Sã©dhiou,Goudomp,Centre,15947000.0,FCFA,858.2,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02634,2024-03-01,vente,Terrain,Thiã¨s,Mbour,Centre,72187000.0,FCFA,1205.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02636,2024-03-01,vente,Studio,Diourbel,Mbackã©,Centre,32761000.0,FCFA,26.1,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02638,2024-03-01,vente,Studio,Sã©dhiou,Goudomp,Centre,35436000.0,FCFA,47.1,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02640,2024-03-01,vente,Local commercial,Tambacounda,Bakel,Centre,34153000.0,FCFA,147.1,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02642,2024-03-01,vente,Studio,Fatick,Fatick,Centre,22987000.0,FCFA,46.8,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02644,2024-03-01,vente,Studio,Louga,Linguã¨re,Centre,19132000.0,FCFA,43.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02646,2024-03-01,vente,Chambre,Fatick,Gossas,Centre,16872000.0,FCFA,26.0,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02648,2024-03-01,vente,Maison,Matam,Kanel,Centre,168611000.0,FCFA,245.9,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02650,2024-03-01,vente,Studio,Kaolack,Kaolack,Centre,12352000.0,FCFA,44.9,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02652,2024-03-01,vente,Maison,Kaolack,Kaolack,Centre,94862000.0,FCFA,223.4,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02654,2024-03-01,vente,Chambre,Louga,Kã©bã©mer,Centre,8274000.0,FCFA,29.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02656,2024-03-01,vente,Maison,Ziguinchor,Bignona,Centre,123988000.0,FCFA,210.8,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02658,2024-03-01,vente,Local commercial,Ziguinchor,Ziguinchor,Centre,44552000.0,FCFA,87.7,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02660,2024-03-01,vente,Villa,Kã©dougou,Salã©mata,Centre,360609000.0,FCFA,127.3,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02662,2024-03-01,vente,Terrain,Sã©dhiou,Goudomp,Centre,74984000.0,FCFA,99.8,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02664,2024-03-01,vente,Maison,Kolda,Vã©lingara,Centre,130282000.0,FCFA,129.4,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02666,2024-03-01,vente,Appartement,Thiã¨s,Thiã¨s,Centre,91401000.0,FCFA,139.0,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02668,2024-03-01,vente,Studio,Ziguinchor,Ziguinchor,Centre,23302000.0,FCFA,24.3,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02670,2024-03-01,vente,Chambre,Dakar,Rufisque,Centre,7972000.0,FCFA,21.8,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02672,2024-03-01,vente,Terrain,Dakar,Keur Massar,Centre,50694000.0,FCFA,1133.9,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02674,2024-03-01,vente,Chambre,Kolda,Kolda,Centre,11627000.0,FCFA,18.4,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02676,2024-03-01,vente,Villa,Kolda,Vã©lingara,Centre,227292000.0,FCFA,128.7,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02678,2024-03-01,vente,Chambre,Thiã¨s,Tivaouane,Centre,9362000.0,FCFA,29.5,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-02680,2024-03-01,vente,Maison,Kã©dougou,Saraya,Centre,161666000.0,FCFA,122.6,0,0,,En vente,2024-06-01,plateforme_immo
+PLT-00711,2019-12-08,vente,Villa,Saint-louis,Richard-Toll,Sud,193884000.0,FCFA,421.6,4,1,Villa Ã  Richard-Toll. Contact via plateforme.,En vente,2020-03-03,plateforme_immo
+PLT-00058,2024-04-04,vente,Appartement,Diourbel,Mbackã©,Sud,116544000.0,FCFA,160.2,5,2,Appartement Ã  MbackÃ©. Contact via plateforme.,En vente,2024-06-27,plateforme_immo
+PLT-00790,2025-08-07,location,Terrain,Dakar,Pikine,Ouest,110000.0,FCFA/mois,566.6,0,0,Terrain Ã  Pikine. Contact via plateforme.,Louã©,2025-11-02,plateforme_immo
+PLT-00398,2024-07-12,vente,Appartement,Fatick,Kaolack-Fatick,RÃ©sidentiel,31332000.0,FCFA,115.0,3,3,,Vendu,2024-09-21,plateforme_immo
+PLT-00171,2023-03-02,vente,Studio,Louga,Linguã¨re,Populaire,41498000.0,FCFA,51.5,3,2,Studio Ã  LinguÃ¨re. Contact via plateforme.,Vendu,2023-06-18,plateforme_immo
+PLT-00494,2025-10-10,vente,Appartement,Fatick,Fatick,Centre,34171000.0,FCFA,77.7,2,2,Appartement Ã  Fatick. Contact via plateforme.,En vente,2025-12-18,plateforme_immo

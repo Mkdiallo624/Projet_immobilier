@@ -1,0 +1,156 @@
+id_bien,date,region,ville,type_bien,prix,surface,chambres,statut,source
+NOT-02192,2019-05-09,Sédhiou,Bounkiling,Villa,320860000.0,392.1,3,Vendu,notaires
+NOT-02193,2024-12-09,Thiès,Mbour,Villa,258007000.0,144.1,4,Vendu,notaires
+NOT-02197,2020-03-03,Thiès,Mbour,Villa,103274000.0,307.8,1,Vendu,notaires
+NOT-02200,2020-07-12,Kolda,Vélingara,Maison,172027000.0,188.0,1,Acte signé,notaires
+NOT-02201,2018-11-09,Dakar,Rufisque,Villa,140417000.0,273.7,5,Vendu,notaires
+NOT-02205,2021-11-11,Thiès,Tivaouane,Villa,266376000.0,394.0,6,Vendu,notaires
+NOT-02207,2024-10-02,Louga,Linguère,Chambre,17162000.0,28.2,4,Vendu,notaires
+NOT-02211,2024-08-07,Kolda,Kolda,Maison,164026000.0,174.1,2,Vente conclue,notaires
+NOT-02212,2023-10-06,Kédougou,Salémata,Appartement,75355000.0,48.8,5,Vendu,notaires
+NOT-02213,2025-10-11,Tambacounda,Bakel,Villa,171263000.0,271.7,6,Vendu,notaires
+NOT-02214,2021-08-10,Kolda,Kolda,Appartement,84708000.0,120.2,6,Vendu,notaires
+NOT-02218,2023-09-02,Sédhiou,Bounkiling,Villa,336558000.0,446.9,5,Vendu,notaires
+NOT-02228,2024-12-04,Ziguinchor,Oussouye,Maison,92428000.0,97.8,6,Vendu,notaires
+NOT-02232,2022-03-12,Kolda,Vélingara,Appartement,69201000.0,52.9,5,Acte signé,notaires
+NOT-02238,2022-02-03,Saint-louis,Podor,Appartement,73943000.0,149.6,5,Vendu,notaires
+NOT-02240,2019-04-05,Matam,Ourossogui,Appartement,35900000.0,62.0,2,Acte signé,notaires
+NOT-02253,2018-10-05,Kaolack,Kaolack,Maison,134483000.0,240.3,6,Vente conclue,notaires
+NOT-02258,2023-03-01,Fatick,Gossas,Appartement,103270000.0,132.4,6,Vendu,notaires
+NOT-02266,2024-10-08,Kaffrine,Kaffrine,Maison,90623000.0,140.6,2,Vente conclue,notaires
+NOT-02268,2019-11-03,Kolda,Kolda,Studio,21865000.0,36.4,4,Vendu,notaires
+NOT-02270,2024-01-01,Matam,Kanel,Appartement,37410000.0,95.2,6,Vendu,notaires
+NOT-02273,2021-05-01,Ziguinchor,Ziguinchor,Appartement,32606000.0,109.1,1,Vendu,notaires
+NOT-02274,2018-02-07,Kolda,Kolda,Terrain,8817000.0,200.4,0,Vendu,notaires
+NOT-02275,2021-09-06,Kaffrine,Birkelane,Maison,152106000.0,206.6,6,Vendu,notaires
+NOT-02277,2024-03-07,Matam,Kanel,Appartement,89902000.0,52.1,1,Vendu,notaires
+NOT-02278,2020-10-04,Kédougou,Saraya,Maison,148513000.0,220.6,2,Vendu,notaires
+NOT-02279,2019-09-09,Sédhiou,Bounkiling,Local commercial,165844000.0,172.2,0,Vendu,notaires
+NOT-02280,2018-11-05,Fatick,Kaolack-Fatick,Appartement,47126000.0,159.1,6,Vendu,notaires
+NOT-02281,2021-05-08,Dakar,Rufisque,Villa,471218000.0,443.7,1,Acte signé,notaires
+NOT-02284,2018-06-03,Ziguinchor,Ziguinchor,Maison,62102000.0,72.7,6,Vendu,notaires
+NOT-02286,2022-02-11,Louga,Kébémer,Maison,38598000.0,218.7,4,Vendu,notaires
+NOT-02287,2018-01-10,Diourbel,Mbacké,Villa,215186000.0,397.7,4,Vente conclue,notaires
+NOT-02289,2022-07-11,Kaolack,Guinguinéo,Maison,169298000.0,61.7,3,Acte signé,notaires
+NOT-02290,2023-01-09,Kédougou,Kédougou,Studio,14489000.0,30.0,5,Vendu,notaires
+NOT-02291,2020-06-10,Matam,Matam,Appartement,88585000.0,164.9,6,Vente conclue,notaires
+NOT-02293,2023-09-04,Ziguinchor,Bignona,Terrain,23457000.0,1223.1,0,Vendu,notaires
+NOT-02295,2022-09-04,Tambacounda,Tambacounda,Appartement,72008000.0,56.6,4,Vendu,notaires
+NOT-02304,2021-04-03,Tambacounda,Goudiry,Terrain,23073000.0,899.2,0,Vendu,notaires
+NOT-02308,2025-08-10,Sédhiou,Bounkiling,Appartement,78401000.0,45.8,1,Vente conclue,notaires
+NOT-02309,2022-06-06,Kaffrine,Birkelane,Appartement,32458000.0,164.0,1,Vente conclue,notaires
+NOT-02310,2022-09-05,Dakar,Keur Massar,Terrain,14386000.0,1083.7,0,Vendu,notaires
+NOT-02313,2022-01-08,Louga,Kébémer,Studio,41096000.0,57.7,3,Vendu,notaires
+NOT-02317,2020-12-01,Diourbel,Mbacké,Maison,42127000.0,96.3,5,Vendu,notaires
+NOT-02318,2020-04-06,Fatick,Kaolack-Fatick,Appartement,100099000.0,106.3,4,Acte signé,notaires
+NOT-02320,2020-10-01,Kédougou,Kédougou,Villa,396128000.0,367.2,1,Vente conclue,notaires
+NOT-02325,2019-07-07,Kaffrine,Koungheul,Maison,152031000.0,159.4,3,Acte signé,notaires
+NOT-02329,2020-07-01,Fatick,Gossas,Maison,145794000.0,107.1,6,Vendu,notaires
+NOT-02332,2019-01-04,Kaffrine,Kaffrine,Maison,63952000.0,130.5,5,Vendu,notaires
+NOT-02336,2022-10-09,Thiès,Tivaouane,Appartement,102744000.0,68.2,6,Vendu,notaires
+NOT-02337,2023-11-09,Diourbel,Touba,Appartement,101744000.0,138.5,2,Vente conclue,notaires
+NOT-02338,2022-06-12,Kaolack,Guinguinéo,Villa,285672000.0,350.8,3,Vendu,notaires
+NOT-02343,2023-12-10,Thiès,Tivaouane,Appartement,33113000.0,105.7,1,Vendu,notaires
+NOT-02348,2024-06-05,Saint-louis,Richard-Toll,Maison,134428000.0,223.2,6,Vente conclue,notaires
+NOT-02350,2024-03-11,Tambacounda,Bakel,Appartement,55459000.0,69.1,4,Acte signé,notaires
+NOT-02353,2020-05-10,Tambacounda,Tambacounda,Maison,54572000.0,116.3,1,Vendu,notaires
+NOT-02356,2022-08-11,Ziguinchor,Bignona,Villa,410599000.0,369.7,1,Vente conclue,notaires
+NOT-02357,2019-09-11,Dakar,Rufisque,Villa,273834000.0,365.7,4,Vendu,notaires
+NOT-02360,2025-05-09,Kolda,Médina Yoro Foulah,Maison,70720000.0,72.0,1,Vendu,notaires
+NOT-02365,2023-02-04,Tambacounda,Bakel,Villa,322511000.0,197.0,2,Vente conclue,notaires
+NOT-02366,2023-03-01,Dakar,Rufisque,Villa,539769000.0,222.1,4,Vente conclue,notaires
+NOT-02373,2023-06-03,Ziguinchor,Ziguinchor,Studio,33841000.0,34.2,6,Acte signé,notaires
+NOT-02374,2025-04-08,Thiès,Mbour,Terrain,81759000.0,498.5,0,Vente conclue,notaires
+NOT-02376,2018-06-03,Kaffrine,Koungheul,Villa,220214000.0,219.9,4,Vente conclue,notaires
+NOT-02377,2018-08-07,Fatick,Gossas,Villa,249958000.0,389.9,2,Vendu,notaires
+NOT-02379,2018-04-12,Fatick,Gossas,Maison,130913000.0,231.6,2,Vente conclue,notaires
+NOT-02380,2021-05-06,Louga,Linguère,Maison,49289000.0,104.1,1,Vendu,notaires
+NOT-02381,2023-08-05,Diourbel,Mbacké,Villa,342293000.0,391.8,2,Vente conclue,notaires
+NOT-02382,2022-02-08,Kaolack,Guinguinéo,Terrain,78276000.0,669.5,0,Acte signé,notaires
+NOT-02383,2025-06-06,Matam,Kanel,Maison,47954000.0,143.2,1,Vendu,notaires
+NOT-02384,2018-06-04,Kolda,Médina Yoro Foulah,Appartement,46920000.0,84.3,1,Vendu,notaires
+NOT-02386,2022-03-08,Ziguinchor,Ziguinchor,Chambre,15759000.0,18.6,3,Vendu,notaires
+NOT-02387,2022-11-08,Ziguinchor,Bignona,Appartement,81626000.0,57.1,1,Acte signé,notaires
+NOT-02389,2025-02-02,Diourbel,Diourbel,Studio,43731000.0,52.3,5,Vendu,notaires
+NOT-02390,2024-11-02,Thiès,Joal-Fadiouth,Studio,27168000.0,28.9,1,Vendu,notaires
+NOT-02391,2019-11-10,Kaolack,Kaolack,Terrain,84543000.0,569.3,0,Vendu,notaires
+NOT-02395,2019-06-11,Sédhiou,Bounkiling,Studio,17646000.0,24.5,6,Vente conclue,notaires
+NOT-02397,2025-02-11,Dakar,Pikine,Villa,346316000.0,448.2,6,Vendu,notaires
+NOT-02398,2025-12-06,Kédougou,Salémata,Villa,331294000.0,144.4,1,Vendu,notaires
+NOT-02401,2018-05-12,Saint-louis,Richard-Toll,Appartement,77999000.0,86.1,2,Vendu,notaires
+NOT-02402,2024-08-07,Kédougou,Kédougou,Studio,14853000.0,20.1,1,Vente conclue,notaires
+NOT-02403,2022-10-01,Saint-louis,Podor,Villa,246346000.0,396.2,4,Vendu,notaires
+NOT-02405,2022-07-12,Diourbel,Mbacké,Studio,21466000.0,31.2,3,Vendu,notaires
+NOT-02406,2021-12-06,Diourbel,Touba,Appartement,40176000.0,67.1,3,Vente conclue,notaires
+NOT-02408,2020-10-05,Dakar,Dakar,Villa,560426000.0,441.8,2,Vendu,notaires
+NOT-02410,2025-03-03,Kaolack,Guinguinéo,Maison,82597000.0,81.4,6,Vendu,notaires
+NOT-02411,2021-05-08,Kaffrine,Birkelane,Maison,161154000.0,180.9,1,Vendu,notaires
+NOT-02412,2020-01-03,Kaffrine,Koungheul,Studio,17436000.0,37.2,3,Vendu,notaires
+NOT-02418,2024-08-12,Fatick,Gossas,Villa,403656000.0,429.8,2,Vendu,notaires
+NOT-02421,2018-09-02,Sédhiou,Bounkiling,Villa,192296000.0,251.5,6,Vendu,notaires
+NOT-02433,2022-07-04,Matam,Matam,Appartement,70329000.0,62.7,2,Vendu,notaires
+NOT-02434,2019-07-10,Kédougou,Salémata,Appartement,47379000.0,170.9,3,Vendu,notaires
+NOT-02435,2024-08-01,Kaolack,Kaolack,Maison,159628000.0,194.9,6,Vendu,notaires
+NOT-02437,2019-04-12,Sédhiou,Sédhiou,Maison,176410000.0,243.5,3,Vendu,notaires
+NOT-02444,2025-01-04,Fatick,Gossas,Maison,88162000.0,177.6,2,Vendu,notaires
+NOT-02448,2020-10-05,Louga,Louga,Chambre,16823000.0,13.9,5,Vendu,notaires
+NOT-02456,2020-07-08,Kédougou,Salémata,Villa,106605000.0,420.0,2,Acte signé,notaires
+NOT-02457,2023-08-11,Ziguinchor,Oussouye,Villa,434374000.0,145.6,2,Vendu,notaires
+NOT-02460,2020-07-08,Thiès,Joal-Fadiouth,Appartement,79917000.0,174.3,5,Vendu,notaires
+NOT-02462,2022-04-04,Fatick,Fatick,Villa,309400000.0,232.3,6,Vendu,notaires
+NOT-02466,2021-05-04,Louga,Louga,Villa,363876000.0,187.9,4,Vendu,notaires
+NOT-02470,2024-06-03,Ziguinchor,Ziguinchor,Appartement,39193000.0,113.8,6,Vendu,notaires
+NOT-02472,2022-08-07,Matam,Ourossogui,Appartement,113351000.0,96.8,6,Vendu,notaires
+NOT-02473,2021-09-08,Tambacounda,Goudiry,Appartement,71715000.0,166.0,1,Vendu,notaires
+NOT-02476,2020-06-01,Saint-louis,Richard-Toll,Terrain,34245000.0,678.9,0,Vendu,notaires
+NOT-02480,2019-01-09,Thiès,Tivaouane,Terrain,26940000.0,1218.7,0,Vendu,notaires
+NOT-02483,2019-05-03,Kolda,Vélingara,Maison,64082000.0,100.9,5,Acte signé,notaires
+NOT-02485,2021-09-10,Kaffrine,Kaffrine,Studio,17701000.0,35.2,3,Vente conclue,notaires
+NOT-02486,2018-11-02,Dakar,Pikine,Studio,56778000.0,44.6,6,Vendu,notaires
+NOT-02488,2019-02-10,Thiès,Tivaouane,Maison,42027000.0,100.0,1,Vente conclue,notaires
+NOT-02491,2023-11-04,Dakar,Pikine,Terrain,82661000.0,1071.3,0,Vendu,notaires
+NOT-02493,2018-11-04,Diourbel,Bambey,Terrain,15669000.0,686.5,0,Vendu,notaires
+NOT-02496,2019-04-01,Tambacounda,Bakel,Studio,37288000.0,39.9,4,Vendu,notaires
+NOT-02497,2025-03-12,Matam,Ourossogui,Appartement,54453000.0,154.6,3,Vendu,notaires
+NOT-02498,2018-12-04,Dakar,Dakar,Maison,216995000.0,187.9,2,Vendu,notaires
+NOT-02499,2025-06-04,Louga,Linguère,Maison,41810000.0,167.6,1,Vendu,notaires
+NOT-02501,2025-02-05,Ziguinchor,Ziguinchor,Appartement,46724000.0,164.1,4,Vente conclue,notaires
+NOT-02502,2024-09-12,Thiès,Joal-Fadiouth,Villa,87445000.0,368.4,3,Vendu,notaires
+NOT-02503,2021-03-02,Kaolack,Nioro du Rip,Villa,255296000.0,267.4,5,Vendu,notaires
+NOT-02505,2025-06-10,Louga,Kébémer,Studio,23874000.0,41.6,2,Vendu,notaires
+NOT-02508,2018-02-02,Kaolack,Kaolack,Studio,25191000.0,58.1,6,Vendu,notaires
+NOT-02509,2019-04-01,Ziguinchor,Bignona,Terrain,60653000.0,503.4,0,Vendu,notaires
+NOT-02513,2024-01-06,Sédhiou,Sédhiou,Villa,302624000.0,140.0,4,Vendu,notaires
+NOT-02515,2020-01-12,Saint-louis,Saint-Louis,Villa,265471000.0,367.1,2,Vendu,notaires
+NOT-02517,2018-01-06,Matam,Kanel,Studio,13281000.0,27.8,1,Vente conclue,notaires
+NOT-02519,2021-07-11,Saint-louis,Richard-Toll,Maison,156069000.0,220.1,4,Acte signé,notaires
+NOT-02520,2018-02-01,Diourbel,Touba,Terrain,32863000.0,689.8,0,Vendu,notaires
+NOT-02522,2019-06-07,Fatick,Gossas,Appartement,27951000.0,172.8,1,Vente conclue,notaires
+NOT-02525,2020-12-11,Kolda,Kolda,Terrain,55538000.0,1027.2,0,Vendu,notaires
+NOT-02527,2024-11-04,Tambacounda,Goudiry,Maison,125119000.0,67.4,4,Vendu,notaires
+NOT-02528,2024-04-09,Kaolack,Nioro du Rip,Local commercial,61751000.0,256.1,0,Acte signé,notaires
+NOT-02533,2018-01-03,Kolda,Vélingara,Appartement,101561000.0,82.8,5,Acte signé,notaires
+NOT-02534,2021-05-05,Matam,Kanel,Appartement,43195000.0,113.1,2,Vendu,notaires
+NOT-02538,2021-05-09,Louga,Linguère,Villa,382214000.0,436.7,5,Vendu,notaires
+NOT-02541,2020-01-09,Fatick,Kaolack-Fatick,Maison,177727000.0,132.9,1,Vendu,notaires
+NOT-02546,2018-03-03,Fatick,Gossas,Maison,100052000.0,162.2,2,Vendu,notaires
+NOT-02548,2021-04-07,Sédhiou,Bounkiling,Maison,92247000.0,182.7,2,Vente conclue,notaires
+NOT-02551,2023-06-12,Thiès,Joal-Fadiouth,Appartement,26932000.0,72.7,2,Vendu,notaires
+NOT-02555,2019-05-12,Sédhiou,Sédhiou,Terrain,17819000.0,1219.8,0,Vendu,notaires
+NOT-02557,2020-09-07,Thiès,Thiès,Appartement,121510000.0,168.0,2,Vendu,notaires
+NOT-02560,2025-08-05,Diourbel,Mbacké,Chambre,6703000.0,22.0,4,Vendu,notaires
+NOT-02563,2018-12-06,Saint-louis,Saint-Louis,Maison,96725000.0,142.2,6,Vendu,notaires
+NOT-02564,2021-03-12,Fatick,Gossas,Maison,125360000.0,74.1,3,Vendu,notaires
+NOT-02569,2023-05-07,Kaffrine,Koungheul,Maison,97751000.0,152.0,4,Vendu,notaires
+NOT-02570,2019-10-01,Sédhiou,Goudomp,Villa,319798000.0,126.1,1,Vendu,notaires
+NOT-02574,2021-03-11,Louga,Linguère,Villa,335033000.0,161.9,3,Vendu,notaires
+NOT-02576,2021-10-10,Dakar,Pikine,Villa,525368000.0,134.4,2,Vendu,notaires
+NOT-02577,2019-09-01,Kolda,Médina Yoro Foulah,Terrain,27404000.0,1343.4,0,Vente conclue,notaires
+NOT-02579,2020-05-04,Kaffrine,Birkelane,Chambre,17467000.0,22.3,4,Vente conclue,notaires
+NOT-02580,2023-07-04,Kolda,Médina Yoro Foulah,Studio,20635000.0,22.7,2,Vente conclue,notaires
+NOT-02582,2019-02-07,Kolda,Kolda,Appartement,108741000.0,101.1,6,Vente conclue,notaires
+NOT-02583,2019-11-02,Kaffrine,Birkelane,Maison,139448000.0,234.5,4,Vendu,notaires
+NOT-02586,2022-02-05,Sédhiou,Sédhiou,Villa,377619000.0,141.7,3,Acte signé,notaires
+NOT-02587,2022-08-10,Louga,Linguère,Villa,336252000.0,308.7,4,Vendu,notaires
+NOT-02595,2020-02-02,Tambacounda,Bakel,Terrain,47888000.0,1128.7,0,Vendu,notaires
+NOT-02599,2024-11-07,Dakar,Pikine,Appartement,133102000.0,80.8,1,Vendu,notaires

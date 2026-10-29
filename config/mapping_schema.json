@@ -1,0 +1,34 @@
+{
+  "import_historique": {
+    "ID": "id_bien",
+    "DateVente": "date",
+    "Region": "region",
+    "Ville": "ville",
+    "TypeBien": "type_bien",
+    "Prix": "prix",
+    "Surface": "surface",
+    "Chambres": "chambres"
+  },
+  "notaires": {
+    "id_acte": "id_bien",
+    "date_acte": "date",
+    "region": "region",
+    "ville": "ville",
+    "type_bien": "type_bien",
+    "montant_fcfa": "prix",
+    "superficie": "surface",
+    "nb_chambres": "chambres",
+    "statut": "statut"
+  },
+  "plateforme_immo": {
+    "ref_plateforme": "id_bien",
+    "date_mise_en_ligne": "date",
+    "region": "region",
+    "commune": "ville",
+    "categorie": "type_bien",
+    "prix": "prix",
+    "surface": "surface",
+    "pieces": "chambres",
+    "statut": "statut"
+  }
+}

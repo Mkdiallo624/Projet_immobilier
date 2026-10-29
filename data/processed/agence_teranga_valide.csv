@@ -1,0 +1,641 @@
+Code,Date,Region,Ville,Type,Prix_FCFA,Surface_m2,Chambres,SDB,Statut,Commercial,source
+AGT-00821,02/12/2023,Fatick,Fatick,Studio,38448000,35.7,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-00822,17/06/2019,Tambacounda,Tambacounda,Terrain,69563000,258.2,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00823,09/02/2020,Fatick,Gossas,Villa,365925000,198.2,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-00824,15/03/2019,Kaffrine,Koungheul,Maison,133222000,167.5,4,2,En vente,Agence Teranga,agence_teranga
+AGT-00825,2021-12-12,Ziguinchor,ZIGUINCHOR,Villa,423784000,247.8,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00826,12/09/2023,Louga,Louga,Appartement,31286000,-30.0,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-00827,19/04/2021,Dakar,Rufisque,Maison,209108000,159.7,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-00828,16/10/2020,Kolda,Vélingara,Appartement,98648000,76.6,1,1,En vente,Agence Teranga,agence_teranga
+AGT-00829,2021-02-02,Matam,Ourossogui,Appartement,57783000,49.1,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-00830,04/10/2025,Louga,Kébémer,Appartement,116342000,135.2,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-00831,2018-01-13,Tambacounda,Bakel,Maison,170315000,110.4,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-00832,29/11/2019,Kédougou,Saraya,Terrain,58140000,1043.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00833,22/02/2018,Diourbel,Mbacké,Terrain,34039000,1284.3,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00834,2021-11-30,Dakar,Pikine,Terrain,360000,1336.5,0,0,Loué,Agence Teranga,agence_teranga
+AGT-00835,24/06/2023,Matam,Ourossogui,Terrain,68603000,474.0,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00836,24/07/2022,Dakar,Dakar,Villa,885000,437.9,2,1,Disponible,Agence Teranga,agence_teranga
+AGT-00837,2023-07-03,Thiès,Tivaouane,Maison,36491000,196.0,3,4,En vente,Agence Teranga,agence_teranga
+AGT-00838,2021-05-18,Ziguinchor,Oussouye,Villa,341311000,325.5,6,4,En vente,Agence Teranga,agence_teranga
+AGT-00839,26/03/2018,Thiès,Tivaouane,Maison,178566000,119.3,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-00840,21/10/2025,Kaolack,Nioro du Rip,Appartement,57297000,55.7,6,1,En vente,Agence Teranga,agence_teranga
+AGT-00841,2025-01-14,Saint-Louis,Richard-Toll,Maison,465000,109.6,2,3,Loué,Agence Teranga,agence_teranga
+AGT-00842,06/09/2022,Tambacounda,Bakel,Terrain,36158000,1265.1,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00843,2024-11-13,Saint-Louis,Saint-Louis,Villa,468742000,181.3,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-00844,2025-09-08,Ziguinchor,Ziguinchor,Terrain,38546000,1398.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00845,28/05/2021,Kolda,Vélingara,Maison,43962000,77.5,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-00846,21/05/2019,Fatick,Fatick,Appartement,40465000,125.4,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-00847,2021-03-06,Tambacounda,Tambacounda,Appartement,39295000,175.7,5,2,En vente,Agence Teranga,agence_teranga
+AGT-00848,05/11/2022,Thiès,Tivaouane,Appartement,67438000,112.7,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-00849,2022-05-02,Fatick,Kaolack-Fatick,Appartement,48433000,108.6,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00850,2025-08-12,Ziguinchor,Bignona,Studio,33843000,50.0,2,2,En vente,Agence Teranga,agence_teranga
+AGT-00851,2021-06-03,Ziguinchor,Ziguinchor,Villa,358931000,310.7,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-00852,2024-11-24,Kolda,Kolda,Chambre,110000,26.3,6,0,Disponible,Agence Teranga,agence_teranga
+AGT-00853,03/04/2023,Kaolack,Guinguinéo,Terrain,70078000,159.0,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00854,21/09/2022,Louga,Kébémer,Appartement,25653000,73.7,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-00855,05/05/2024,Matam,Kanel,Chambre,13626000,18.2,4,0,En vente,Agence Teranga,agence_teranga
+AGT-00856,23/10/2023,Diourbel,Bambey,Maison,93349000,228.1,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00857,2021-04-05,Kaffrine,Koungheul,Appartement,110078000,167.7,1,1,Vendu,Agence Teranga,agence_teranga
+AGT-00858,2018-08-06,Kédougou,Salémata,Maison,80512000,191.3,5,4,En vente,Agence Teranga,agence_teranga
+AGT-00859,26/09/2019,Diourbel,Touba,Terrain,30274000,350.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00860,2018-10-03,Dakar,Rufisque,Maison,83392000,125.0,1,1,Vendu,Agence Teranga,agence_teranga
+AGT-00861,03/09/2023,Saint-Louis,Saint-Louis,Appartement,72431000,157.2,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00862,2024-02-18,Louga,Kébémer,Local commercial,50381000,231.1,0,4,Vendu,Agence Teranga,agence_teranga
+AGT-00863,18/02/2025,Kaffrine,Koungheul,Maison,112061000,114.7,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-00864,2025-06-27,Diourbel,touba,Villa,262343000,219.0,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-00865,04/09/2022,Louga,Kébémer,Maison,121432000,142.4,3,4,En vente,Agence Teranga,agence_teranga
+AGT-00866,2025-03-27,Thiès,Joal-Fadiouth,Appartement,40619000,60.7,4,1,En vente,Agence Teranga,agence_teranga
+AGT-00867,08/02/2021,Kaolack,Kaolack,Villa,282277000,417.8,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-00868,16/12/2019,Kaolack,Guinguinéo,Villa,207264000,361.9,6,3,En vente,Agence Teranga,agence_teranga
+AGT-00869,20/05/2025,Fatick,Gossas,Terrain,62010000,1402.8,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00870,2022-01-08,Kaffrine,Koungheul,Villa,1305000,307.0,6,3,Loué,Agence Teranga,agence_teranga
+AGT-00871,22/07/2024,Diourbel,Mbacké,Maison,130269000,230.7,1,1,En vente,Agence Teranga,agence_teranga
+AGT-00872,2019-03-12,Kaffrine,Koungheul,Appartement,62954000,89.1,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-00873,14/12/2019,Sédhiou,Goudomp,Maison,36568000,217.0,4,1,En vente,Agence Teranga,agence_teranga
+AGT-00874,26/10/2018,Dakar,KEUR MASSAR,Studio,38432000,24.2,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-00875,2019-06-30,Diourbel,Mbacké,Appartement,79801000,107.6,2,2,En vente,Agence Teranga,agence_teranga
+AGT-00876,04/04/2020,Ziguinchor,Oussouye,Villa,123922000,443.6,5,2,En vente,Agence Teranga,agence_teranga
+AGT-00877,13/04/2020,Thiès,Thiès,Maison,72744000,72.8,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00878,2023-10-27,Sédhiou,Bounkiling,Villa,1055000,363.8,6,4,Disponible,Agence Teranga,agence_teranga
+AGT-00879,2021-12-13,Saint-Louis,Saint-Louis,Villa,101204000,337.4,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-00880,2020-11-16,Fatick,Kaolack-Fatick,Maison,520000,79.6,1,1,Disponible,Agence Teranga,agence_teranga
+AGT-00881,2018-04-03,Fatick,Fatick,Appartement,41390000,121.7,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-00882,2023-03-25,Kédougou,Saraya,Appartement,285000,171.7,5,3,Disponible,Agence Teranga,agence_teranga
+AGT-00883,2019-03-31,Louga,Linguère,Appartement,102780000,177.8,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-00884,2018-09-01,Dakar,Guédiawaye,Villa,237706000,440.0,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-00885,2023-07-15,Sédhiou,Goudomp,Terrain,43361000,573.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00886,2021-11-17,Matam,Kanel,Terrain,12129000,154.9,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00887,08/03/2024,Matam,Kanel,Maison,135342000,147.0,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-00888,05/12/2021,Thiès,Thiès,Villa,180194000,322.6,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-00889,29/12/2023,Dakar,Dakar,Maison,96747000,169.8,6,1,En vente,Agence Teranga,agence_teranga
+AGT-00890,2025-10-19,Kolda,Vélingara,Appartement,59125000,156.2,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-00891,15/02/2022,Thiès,joal-fadiouth,Appartement,102966000,109.4,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-00892,2024-01-06,Saint-Louis,Saint-Louis,Maison,94456000,128.9,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-00893,10/01/2020,Kaffrine,Kaffrine,Appartement,101543000,89.3,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-00894,17/05/2019,Ziguinchor,Ziguinchor,Maison,65314000,76.1,5,2,En vente,Agence Teranga,agence_teranga
+AGT-00895,21/06/2020,Fatick,Gossas,Maison,102671000,151.6,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-00896,2023-07-30,Kaffrine,Koungheul,Appartement,530000,74.9,1,3,Loué,Agence Teranga,agence_teranga
+AGT-00897,18/11/2018,Louga,Linguère,Terrain,39241000,1227.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00898,2019-05-18,Kolda,Kolda,Studio,39180000,35.4,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-00899,2019-04-13,Saint-Louis,Podor,Villa,249876000,220.1,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-00900,2020-09-01,Matam,Ourossogui,Studio,240000,24.7,4,1,Disponible,Agence Teranga,agence_teranga
+AGT-00901,2020-04-22,Kaffrine,Birkelane,Villa,425487000,345.7,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-00902,2018-04-17,Tambacounda,Bakel,Appartement,75499000,49.4,3,3,En vente,Agence Teranga,agence_teranga
+AGT-00903,20/12/2024,Sédhiou,Goudomp,Appartement,70182000,100.0,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-00904,2023-03-23,Sédhiou,Sédhiou,Villa,575000,336.6,4,4,Loué,Agence Teranga,agence_teranga
+AGT-00905,28/10/2019,Matam,Kanel,Villa,439326000,305.5,2,2,En vente,Agence Teranga,agence_teranga
+AGT-00906,2020-12-16,Dakar,Guédiawaye,Maison,785000,73.0,3,3,Loué,Agence Teranga,agence_teranga
+AGT-00907,2021-01-05,Matam,Ourossogui,Appartement,64678000,60.7,5,1,En vente,Agence Teranga,agence_teranga
+AGT-00908,19/12/2020,Thiès,Tivaouane,Villa,306734000,429.7,1,4,En vente,Agence Teranga,agence_teranga
+AGT-00909,25/02/2025,Dakar,Rufisque,Appartement,118623000,55.4,1,1,En vente,Agence Teranga,agence_teranga
+AGT-00910,2024-12-09,Ziguinchor,Bignona,Villa,790000,301.7,3,3,Disponible,Agence Teranga,agence_teranga
+AGT-00911,2019-08-25,Kaffrine,Birkelane,Appartement,63305000,157.5,2,1,En vente,Agence Teranga,agence_teranga
+AGT-00912,09/12/2022,Tambacounda,Tambacounda,Appartement,102394000,127.6,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-00913,18/12/2021,Dakar,Guédiawaye,Terrain,52142000,442.6,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00914,09/04/2019,Saint-Louis,Richard-Toll,Appartement,35058000,92.9,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-00915,05/03/2021,Kaffrine,Koungheul,Villa,232874000,343.0,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-00916,19/04/2023,Louga,Linguère,Chambre,95000,11.4,1,0,Loué,Agence Teranga,agence_teranga
+AGT-00917,30/10/2024,Ziguinchor,ziguinchor,Terrain,40411000,338.1,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00918,10/11/2021,Kédougou,Salémata,Villa,138021000,393.0,5,1,En vente,Agence Teranga,agence_teranga
+AGT-00919,13/04/2025,Tambacounda,Goudiry,Appartement,28982000,101.6,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-00920,2020-07-29,Kolda,Médina Yoro Foulah,Appartement,225000,163.7,5,4,Loué,Agence Teranga,agence_teranga
+AGT-00921,2020-09-26,Kaolack,Nioro du Rip,Appartement,77919000,76.2,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-00922,2020-09-14,Fatick,Kaolack-Fatick,Maison,107852000,199.0,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-00923,2022-01-23,Thiès,Tivaouane,Villa,434504000,192.7,4,4,En vente,Agence Teranga,agence_teranga
+AGT-00924,30/09/2022,Saint-Louis,Podor,Maison,730000,237.5,5,2,Loué,Agence Teranga,agence_teranga
+AGT-00925,29/04/2019,Matam,Ourossogui,Maison,167881000,180.7,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-00926,04/03/2020,Tambacounda,Tambacounda,Terrain,205000,652.6,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-00927,18/02/2019,Sédhiou,Goudomp,Maison,144098000,160.9,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-00928,2023-12-09,Kédougou,Kédougou,Local commercial,145164000,151.4,0,3,En vente,Agence Teranga,agence_teranga
+AGT-00929,2021-04-16,Diourbel,Bambey,Maison,141067000,216.6,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-00930,2025-01-12,Kédougou,KÉDOUGOU,Appartement,215000,157.4,6,4,Loué,Agence Teranga,agence_teranga
+AGT-00931,2024-08-11,Ziguinchor,Oussouye,Maison,113343000,220.5,1,2,En vente,Agence Teranga,agence_teranga
+AGT-00932,01/02/2023,Dakar,Keur Massar,Maison,97539000,132.0,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-00933,2018-07-17,Sédhiou,Sédhiou,Appartement,111931000,78.9,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-00934,2019-08-10,Ziguinchor,Oussouye,Villa,392359000,279.7,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-00935,11/07/2023,Louga,Linguère,Studio,165000,32.3,1,3,Disponible,Agence Teranga,agence_teranga
+AGT-00936,27/03/2023,Ziguinchor,Oussouye,Villa,1030000,227.3,5,1,Loué,Agence Teranga,agence_teranga
+AGT-00937,2024-03-11,Saint-Louis,Podor,Studio,13296000,30.9,1,1,En vente,Agence Teranga,agence_teranga
+AGT-00938,16/04/2018,Kolda,Médina Yoro Foulah,Maison,35925000,245.9,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-00939,2021-04-23,Kédougou,Saraya,Villa,437326000,250.4,1,4,En vente,Agence Teranga,agence_teranga
+AGT-00940,14/02/2023,Louga,Kébémer,Studio,200000,33.8,3,1,Loué,Agence Teranga,agence_teranga
+AGT-00941,08/09/2023,Kédougou,Kédougou,Maison,132309000,213.0,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-00942,2024-11-10,Kédougou,Salémata,Studio,240000,36.0,5,3,Disponible,Agence Teranga,agence_teranga
+AGT-00943,2020-05-25,Saint-Louis,Podor,Maison,670000,110.5,2,2,Loué,Agence Teranga,agence_teranga
+AGT-00944,12/03/2020,Matam,Ourossogui,Terrain,89207000,116.6,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00945,24/03/2020,Kaffrine,Kaffrine,Maison,122512000,185.3,5,2,En vente,Agence Teranga,agence_teranga
+AGT-00946,04/05/2020,Dakar,Rufisque,Appartement,121992000,61.3,6,3,En vente,Agence Teranga,agence_teranga
+AGT-00947,2021-11-29,Matam,Ourossogui,Maison,171087000,94.4,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-00948,01/07/2023,Kaffrine,Kaffrine,Terrain,59066000,396.2,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00949,2019-04-06,Kaolack,Guinguinéo,Villa,193670000,300.3,3,4,En vente,Agence Teranga,agence_teranga
+AGT-00950,23/12/2019,Fatick,Kaolack-Fatick,Appartement,0,66.6,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00951,2023-06-05,Kédougou,Saraya,Maison,59786000,139.4,5,4,En vente,Agence Teranga,agence_teranga
+AGT-00952,2020-05-31,Tambacounda,Tambacounda,Appartement,96942000,166.2,1,3,En vente,Agence Teranga,agence_teranga
+AGT-00953,16/12/2022,Ziguinchor,Bignona,Studio,14776000,35.7,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00954,06/07/2018,Fatick,Gossas,Appartement,34523000,47.2,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-00955,17/11/2024,Kolda,Kolda,Maison,130949000,174.5,5,1,En vente,Agence Teranga,agence_teranga
+AGT-00956,26/11/2025,Kédougou,Kédougou,Maison,58638000,104.4,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-00957,2020-03-23,Tambacounda,Tambacounda,Villa,88772000,395.5,4,2,En vente,Agence Teranga,agence_teranga
+AGT-00958,02/06/2020,Ziguinchor,Ziguinchor,Terrain,87925000,272.4,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00959,27/11/2023,Dakar,Dakar,Terrain,36424000,1313.1,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00960,2020-07-31,Fatick,Fatick,Appartement,113014000,101.6,1,3,En vente,Agence Teranga,agence_teranga
+AGT-00961,2022-06-30,Kédougou,KÉDOUGOU,Maison,42340000,67.5,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-00962,2022-08-29,Thiès,Thiès,Villa,321598000,249.7,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-00963,02/07/2021,Thiès,Joal-Fadiouth,Appartement,27722000,123.7,6,1,En vente,Agence Teranga,agence_teranga
+AGT-00964,11/05/2025,Ziguinchor,Oussouye,Villa,84182000,379.8,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-00965,18/11/2025,Saint-Louis,Richard-Toll,Villa,193380000,133.3,1,4,Vendu,Agence Teranga,agence_teranga
+AGT-00966,2019-03-20,Kédougou,Saraya,Terrain,56245000,644.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00967,2023-05-07,Dakar,Rufisque,Maison,237871000,163.4,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-00968,2019-11-25,Sédhiou,Goudomp,Terrain,30570000,1087.4,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00969,2023-04-24,Matam,Matam,Appartement,50792000,167.1,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-00970,15/10/2021,Sédhiou,Bounkiling,Studio,24366000,42.0,6,4,En vente,Agence Teranga,agence_teranga
+AGT-00971,2024-04-22,Kaffrine,Kaffrine,Studio,13669000,37.0,3,2,En vente,Agence Teranga,agence_teranga
+AGT-00972,30/11/2018,Kaolack,Nioro du Rip,Maison,155693000,213.1,1,4,En vente,Agence Teranga,agence_teranga
+AGT-00973,2019-11-12,Diourbel,Diourbel,Appartement,46310000,75.5,1,1,Vendu,Agence Teranga,agence_teranga
+AGT-00974,2023-06-19,Louga,Kébémer,Appartement,102644000,170.6,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-00975,2023-01-15,Dakar,Guédiawaye,Appartement,240000,105.8,3,2,Disponible,Agence Teranga,agence_teranga
+AGT-00976,19/11/2024,Diourbel,Mbacké,Villa,204858000,407.3,5,3,En vente,Agence Teranga,agence_teranga
+AGT-00977,2019-07-09,Fatick,Kaolack-Fatick,Appartement,32935000,73.5,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-00978,23/01/2018,Kaolack,Nioro du Rip,Appartement,96484000,51.9,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-00979,04/04/2023,Kolda,Vélingara,Studio,28254000,37.7,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-00980,2021-03-10,Kaolack,Guinguinéo,Appartement,56768000,98.3,5,3,En vente,Agence Teranga,agence_teranga
+AGT-00981,09/04/2022,Kaolack,Guinguinéo,Maison,520000,90.7,6,2,Disponible,Agence Teranga,agence_teranga
+AGT-00982,2023-11-10,Ziguinchor,Ziguinchor,Studio,30876000,52.2,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-00983,24/04/2023,Sédhiou,Goudomp,Terrain,70333000,298.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00984,24/08/2019,Saint-Louis,Saint-Louis,Appartement,43097000,81.2,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-00985,09/10/2022,Thiès,Thiès,Appartement,65232000,100.1,5,1,En vente,Agence Teranga,agence_teranga
+AGT-00986,02/12/2025,Saint-Louis,Podor,Villa,331488000,138.7,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-00987,2019-11-12,Kolda,Kolda,Terrain,10843000,636.5,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00988,01/07/2023,Kédougou,Kédougou,Terrain,65167000,354.7,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00989,2022-02-06,Thiès,Joal-Fadiouth,Maison,128018000,109.4,3,4,En vente,Agence Teranga,agence_teranga
+AGT-00990,21/02/2022,Saint-Louis,Podor,Villa,1375000,415.6,6,1,Disponible,Agence Teranga,agence_teranga
+AGT-00991,29/07/2024,Saint-Louis,Richard-Toll,Chambre,8865000,14.6,3,0,Vendu,Agence Teranga,agence_teranga
+AGT-00992,2018-05-18,Ziguinchor,Bignona,Terrain,41727000,421.6,0,0,En vente,Agence Teranga,agence_teranga
+AGT-00993,2021-01-28,Louga,Louga,Local commercial,144305000,254.8,0,1,En vente,Agence Teranga,agence_teranga
+AGT-00994,04/02/2025,Kaffrine,Koungheul,Terrain,0,1250.6,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-00995,2018-06-06,Kaffrine,Koungheul,Maison,92564000,89.7,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-00996,2020-12-05,Kédougou,Salémata,Appartement,480000,93.7,1,4,Disponible,Agence Teranga,agence_teranga
+AGT-00997,2024-02-07,Tambacounda,Goudiry,Appartement,88771000,81.5,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-00998,2025-12-15,Kaolack,Guinguinéo,Terrain,14661000,1489.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-00999,2024-07-09,Kédougou,Saraya,Villa,570000,446.2,1,1,Disponible,Agence Teranga,agence_teranga
+AGT-01000,08/12/2019,Saint-Louis,Podor,Appartement,117842000,152.2,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01001,2019-04-28,Diourbel,Diourbel,Studio,33761000,43.1,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01002,17/01/2022,Matam,Ourossogui,Appartement,540000,84.1,5,1,Loué,Agence Teranga,agence_teranga
+AGT-01003,2022-03-15,Sédhiou,Sédhiou,Maison,102814000,177.7,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01004,2022-02-21,Kaffrine,Koungheul,Maison,445000,141.2,3,1,Loué,Agence Teranga,agence_teranga
+AGT-01005,03/05/2024,Louga,Linguère,Studio,22899000,42.6,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01006,06/12/2022,Saint-Louis,Saint-Louis,Terrain,85522000,366.2,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01007,2023-01-16,Matam,Ourossogui,Studio,42836000,47.6,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01008,12/05/2020,Kaffrine,Koungheul,Villa,384611000,303.5,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01009,2021-01-06,Saint-Louis,Richard-Toll,Maison,148030000,63.1,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01010,20/05/2025,Fatick,Kaolack-Fatick,Appartement,102746000,50.4,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01011,19/05/2018,Kaolack,Guinguinéo,Chambre,16569000,29.8,3,0,Vendu,Agence Teranga,agence_teranga
+AGT-01012,11/10/2021,Kaffrine,Kaffrine,Appartement,52936000,73.4,3,3,En vente,Agence Teranga,agence_teranga
+AGT-01013,04/12/2022,Diourbel,Bambey,Villa,363184000,203.5,5,4,En vente,Agence Teranga,agence_teranga
+AGT-01014,09/03/2022,Kédougou,Saraya,Villa,400258000,153.9,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01015,07/09/2025,Dakar,Pikine,Maison,345000,246.0,3,4,Disponible,Agence Teranga,agence_teranga
+AGT-01016,2021-05-16,Matam,Matam,Appartement,89015000,159.3,5,2,En vente,Agence Teranga,agence_teranga
+AGT-01017,09/08/2018,Matam,Matam,Appartement,55811000,136.3,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01018,28/08/2019,Fatick,Kaolack-Fatick,Appartement,81453000,126.4,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01019,2020-09-29,Diourbel,Touba,Terrain,63968000,897.0,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01020,2019-02-14,Sédhiou,Bounkiling,Appartement,65761000,82.2,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01021,21/09/2020,Fatick,Gossas,Chambre,14992000,14.5,2,0,En vente,Agence Teranga,agence_teranga
+AGT-01022,2021-03-05,Kaolack,Kaolack,Villa,336171000,197.0,4,4,En vente,Agence Teranga,agence_teranga
+AGT-01023,2024-07-30,Kolda,Kolda,Studio,32636000,49.9,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01024,05/11/2024,Kaolack,Nioro du Rip,Studio,19218000,22.4,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01025,19/11/2022,Diourbel,Bambey,Appartement,37443000,126.8,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01026,2023-05-23,Diourbel,Mbacké,Studio,40032000,21.8,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01027,20/03/2023,Diourbel,Bambey,Maison,141452000,124.9,6,1,En vente,Agence Teranga,agence_teranga
+AGT-01028,2021-07-30,Tambacounda,Bakel,Maison,104387000,236.5,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01029,27/09/2022,Dakar,Rufisque,Maison,112233000,148.4,3,1,En vente,Agence Teranga,agence_teranga
+AGT-01030,2025-12-26,Matam,Ourossogui,Villa,85062000,146.9,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01031,20/04/2022,Sédhiou,Sédhiou,Local commercial,73961000,47.2,0,1,En vente,Agence Teranga,agence_teranga
+AGT-01032,22/11/2024,Kaolack,Guinguinéo,Maison,126549000,141.0,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01033,2022-02-12,Ziguinchor,Ziguinchor,Appartement,77074000,68.6,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01034,07/04/2018,Louga,Kébémer,Maison,77910000,186.1,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01035,2024-09-06,Dakar,Rufisque,Studio,59204000,22.0,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01036,16/08/2019,Saint-Louis,Saint-Louis,Appartement,120545000,122.9,3,3,En vente,Agence Teranga,agence_teranga
+AGT-01037,14/11/2025,Fatick,Gossas,Maison,540000,155.1,3,3,Loué,Agence Teranga,agence_teranga
+AGT-01038,2019-02-19,Dakar,Pikine,Maison,60834000,77.1,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-01039,24/01/2020,Tambacounda,Goudiry,Studio,31830000,33.6,6,1,En vente,Agence Teranga,agence_teranga
+AGT-01040,27/05/2024,Kaffrine,Birkelane,Terrain,83216000,657.4,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01041,20/07/2018,Kolda,Médina Yoro Foulah,Terrain,19749000,1094.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01042,2020-01-31,Sédhiou,Bounkiling,Studio,21681000,41.0,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01043,2018-03-18,Diourbel,Mbacké,Studio,35028000,56.0,3,3,En vente,Agence Teranga,agence_teranga
+AGT-01044,02/02/2019,Fatick,Gossas,Maison,0,188.5,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01045,2023-03-02,Thiès,Tivaouane,Maison,133547000,239.7,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01046,19/11/2021,Fatick,Gossas,Appartement,53103000,45.2,6,4,En vente,Agence Teranga,agence_teranga
+AGT-01047,2020-11-13,Saint-Louis,Podor,Maison,74433000,101.4,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01048,2020-04-30,Tambacounda,Bakel,Villa,324879000,329.1,3,3,En vente,Agence Teranga,agence_teranga
+AGT-01049,01/10/2019,Sédhiou,Bounkiling,Villa,299581000,125.4,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01050,04/07/2023,Louga,Louga,Maison,140673000,121.5,5,2,En vente,Agence Teranga,agence_teranga
+AGT-01051,2022-06-09,Louga,Linguère,Terrain,62535000,870.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01052,01/07/2022,Matam,Ourossogui,Appartement,57559000,63.2,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01053,2019-03-09,Matam,Ourossogui,Studio,15116000,53.3,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01054,13/07/2022,Kolda,Médina Yoro Foulah,Villa,419807000,334.4,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01055,2021-09-30,Kaffrine,Kaffrine,Villa,118271000,252.7,6,1,En vente,Agence Teranga,agence_teranga
+AGT-01056,07/08/2024,Louga,Linguère,Maison,635000,208.2,2,2,Disponible,Agence Teranga,agence_teranga
+AGT-01057,2024-05-26,Matam,Kanel,Villa,123741000,120.0,3,2,En vente,Agence Teranga,agence_teranga
+AGT-01058,2020-04-03,Diourbel,Bambey,Maison,625000,127.8,6,4,Loué,Agence Teranga,agence_teranga
+AGT-01059,2021-10-23,Kolda,Médina Yoro Foulah,Terrain,115000,98.3,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01060,29/03/2020,Saint-Louis,Saint-Louis,Villa,307902000,400.9,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01061,2022-12-23,Matam,Ourossogui,Villa,434324000,306.7,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01062,2021-10-14,Sédhiou,Goudomp,Terrain,180000,200.8,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01063,2022-07-23,Thiès,Thiès,Maison,126045000,132.2,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01064,2021-05-10,Sédhiou,Bounkiling,Terrain,200000,632.0,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01065,02/09/2018,Kolda,Médina Yoro Foulah,Appartement,47828000,-25.0,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01066,2025-04-14,Kaolack,Nioro du Rip,Maison,80663000,78.4,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01067,03/04/2019,Kaffrine,Birkelane,Maison,60650000,247.6,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01068,2019-02-02,Diourbel,Touba,Maison,99395000,161.1,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01069,2025-09-23,Sédhiou,Sédhiou,Maison,161675000,249.2,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01070,30/08/2019,Matam,Ourossogui,Maison,119494000,214.4,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01071,14/05/2024,Kédougou,Saraya,Studio,22789000,32.2,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01072,23/04/2022,Diourbel,Touba,Appartement,63257000,135.8,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01073,2023-10-18,Diourbel,Diourbel,Studio,34512000,32.6,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01074,2023-11-14,Tambacounda,Tambacounda,Maison,54315000,180.2,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01075,2022-04-05,Kaffrine,Koungheul,Villa,127481000,310.9,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01076,05/05/2019,Ziguinchor,Ziguinchor,Appartement,90875000,139.6,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01077,2023-11-17,Kaffrine,Koungheul,Terrain,69785000,1319.5,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01078,11/09/2021,Kaolack,Guinguinéo,Appartement,72496000,143.6,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01079,2020-09-29,Sédhiou,Sédhiou,Villa,309094000,181.6,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01080,31/10/2024,Saint-Louis,Podor,Maison,38725000,114.1,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01081,25/05/2021,Kédougou,Kédougou,Terrain,44329000,956.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01082,2018-07-29,Matam,Kanel,Villa,394485000,184.8,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01083,2024-01-31,Thiès,Joal-Fadiouth,Appartement,36927000,175.1,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01084,19/12/2022,Matam,Ourossogui,Terrain,16860000,759.5,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01085,03/01/2018,Sédhiou,Goudomp,Maison,119907000,162.9,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01086,08/03/2021,Tambacounda,Tambacounda,Studio,14839000,22.3,5,2,En vente,Agence Teranga,agence_teranga
+AGT-01087,2025-01-07,Kaolack,Nioro du Rip,Maison,50295000,171.3,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01088,24/07/2023,Dakar,Guédiawaye,Terrain,71059000,411.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01089,2024-12-20,Louga,Linguère,Studio,185000,52.8,2,2,Disponible,Agence Teranga,agence_teranga
+AGT-01090,2023-08-18,Sédhiou,Sédhiou,Maison,41029000,154.6,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01091,15/07/2025,Tambacounda,Bakel,Terrain,64523000,438.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01092,2021-10-05,Sédhiou,Bounkiling,Maison,385000,176.6,4,4,Disponible,Agence Teranga,agence_teranga
+AGT-01093,2025-04-17,Sédhiou,Goudomp,Studio,230000,52.4,3,2,Loué,Agence Teranga,agence_teranga
+AGT-01094,15/07/2021,Ziguinchor,Oussouye,Maison,119554000,198.7,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01095,2025-03-30,Dakar,Rufisque,Appartement,80538000,131.5,3,1,En vente,Agence Teranga,agence_teranga
+AGT-01096,14/11/2020,Kaffrine,KOUNGHEUL,Appartement,69287000,70.6,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01097,2020-03-27,Sédhiou,Bounkiling,Studio,35157000,42.3,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01098,2023-05-19,Thiès,Thiès,Appartement,64976000,168.0,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01099,21/10/2024,Kédougou,Salémata,Villa,87746000,224.2,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-01100,2021-03-30,Ziguinchor,Bignona,Chambre,45000,25.3,1,0,Disponible,Agence Teranga,agence_teranga
+AGT-01101,2019-09-09,Kaolack,Guinguinéo,Villa,339780000,229.3,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01102,2025-05-30,Fatick,Fatick,Studio,34297000,35.8,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01103,09/07/2021,Diourbel,Diourbel,Terrain,70013000,724.9,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01104,08/08/2021,Sédhiou,Bounkiling,Maison,94781000,237.6,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01105,2018-04-05,Tambacounda,Goudiry,Studio,20279000,24.8,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01106,2018-09-04,Sédhiou,Bounkiling,Maison,119759000,244.2,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01107,2024-01-16,Dakar,Keur Massar,Terrain,38983000,168.1,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01108,2024-04-05,Tambacounda,Tambacounda,Maison,84199000,156.1,5,1,En vente,Agence Teranga,agence_teranga
+AGT-01109,26/10/2020,Matam,Ourossogui,Maison,295000,185.0,3,4,Loué,Agence Teranga,agence_teranga
+AGT-01110,15/01/2020,Fatick,Gossas,Appartement,119786000,106.0,5,4,En vente,Agence Teranga,agence_teranga
+AGT-01111,17/05/2022,Dakar,Rufisque,Villa,285187000,252.2,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01112,2023-12-21,Ziguinchor,Ziguinchor,Maison,51696000,227.8,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-01113,24/04/2020,Kédougou,Salémata,Appartement,64408000,97.3,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01114,2023-09-03,Sédhiou,Sédhiou,Villa,1125000,265.9,6,2,Loué,Agence Teranga,agence_teranga
+AGT-01115,12/08/2022,Saint-Louis,Richard-Toll,Appartement,440000,53.3,3,1,Loué,Agence Teranga,agence_teranga
+AGT-01116,2020-04-14,Diourbel,Bambey,Appartement,515000,172.0,6,2,Disponible,Agence Teranga,agence_teranga
+AGT-01117,2020-04-22,Louga,Louga,Villa,320043000,435.0,1,1,En vente,Agence Teranga,agence_teranga
+AGT-01118,27/06/2023,Diourbel,Diourbel,Appartement,39386000,109.5,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01119,2022-01-13,Saint-Louis,Saint-Louis,Local commercial,145538000,191.3,0,4,Vendu,Agence Teranga,agence_teranga
+AGT-01120,2019-02-14,Dakar,Dakar,Villa,308530000,231.6,1,4,Vendu,Agence Teranga,agence_teranga
+AGT-01121,2020-12-11,Kaffrine,Koungheul,Studio,95000,35.7,4,1,Loué,Agence Teranga,agence_teranga
+AGT-01122,31/07/2019,Ziguinchor,Bignona,Maison,58586000,199.5,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01123,2018-06-09,Kolda,Kolda,Appartement,44839000,52.9,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01124,2019-12-08,Kaolack,Guinguinéo,Villa,284375000,316.4,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01125,2020-04-15,Kaolack,Kaolack,Maison,161427000,169.6,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01126,20/05/2020,Dakar,Dakar,Studio,170000,52.1,4,1,Loué,Agence Teranga,agence_teranga
+AGT-01127,27/11/2019,Kolda,Vélingara,Maison,113340000,75.1,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-01128,2022-08-28,Louga,Louga,Appartement,78756000,167.6,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01129,2021-06-09,Ziguinchor,Oussouye,Villa,835000,217.8,5,1,Disponible,Agence Teranga,agence_teranga
+AGT-01130,2022-03-14,Fatick,Kaolack-Fatick,Maison,285000,88.8,2,2,Disponible,Agence Teranga,agence_teranga
+AGT-01131,02/03/2021,Tambacounda,Tambacounda,Maison,97752000,173.2,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01132,2025-10-30,Diourbel,Mbacké,Studio,90000,57.6,3,2,Disponible,Agence Teranga,agence_teranga
+AGT-01133,2018-05-21,Kaolack,Nioro du Rip,Chambre,14817000,21.7,6,0,En vente,Agence Teranga,agence_teranga
+AGT-01134,2025-02-12,Dakar,Pikine,Terrain,102508000,193.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01135,05/06/2023,Diourbel,Bambey,Studio,27736000,45.2,5,4,En vente,Agence Teranga,agence_teranga
+AGT-01136,07/12/2022,Fatick,Fatick,Villa,386602000,378.5,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-01137,20/06/2023,Kaolack,Kaolack,Studio,21143000,57.6,1,3,En vente,Agence Teranga,agence_teranga
+AGT-01138,2022-10-14,Sédhiou,Goudomp,Studio,16103000,55.0,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01139,2025-12-29,Saint-Louis,Richard-Toll,Terrain,87617000,331.6,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01140,2020-12-05,Ziguinchor,Oussouye,Villa,1195000,133.3,2,4,Loué,Agence Teranga,agence_teranga
+AGT-01141,27/06/2020,Kaffrine,Koungheul,Appartement,63515000,114.7,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01142,2023-12-14,Kolda,Médina Yoro Foulah,Maison,119194000,237.8,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01143,2025-08-18,Kédougou,Salémata,Appartement,88864000,110.0,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-01144,02/10/2024,Kaffrine,Koungheul,Appartement,515000,173.3,4,3,Loué,Agence Teranga,agence_teranga
+AGT-01145,2025-03-31,Louga,Linguère,Terrain,55000,1475.2,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01146,2025-06-29,Ziguinchor,Ziguinchor,Appartement,33183000,154.9,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01147,2019-10-19,Dakar,Rufisque,Appartement,69703000,62.8,2,4,En vente,Agence Teranga,agence_teranga
+AGT-01148,03/03/2020,Sédhiou,Sédhiou,Maison,98779000,182.4,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01149,16/07/2025,Diourbel,Bambey,Appartement,61190000,52.4,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01150,2021-06-28,Sédhiou,Bounkiling,Appartement,81949000,166.8,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01151,26/01/2024,Saint-Louis,Podor,Villa,221790000,191.4,1,3,En vente,Agence Teranga,agence_teranga
+AGT-01152,07/04/2021,Ziguinchor,Ziguinchor,Villa,885000,136.0,2,4,Loué,Agence Teranga,agence_teranga
+AGT-01153,2024-10-07,Sédhiou,Bounkiling,Appartement,102946000,156.6,2,4,En vente,Agence Teranga,agence_teranga
+AGT-01154,2025-02-26,Kaffrine,Koungheul,Terrain,56216000,581.4,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01155,2025-09-11,Kaffrine,Koungheul,Maison,680000,165.4,3,3,Disponible,Agence Teranga,agence_teranga
+AGT-01156,21/09/2020,Thiès,Thiès,Appartement,113810000,130.2,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-01157,2022-03-20,Thiès,Joal-Fadiouth,Villa,370230000,317.5,6,4,En vente,Agence Teranga,agence_teranga
+AGT-01158,2025-03-17,Dakar,Keur Massar,Appartement,64343000,174.3,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01159,2024-09-23,Kaolack,Guinguinéo,Maison,525000,175.0,1,3,Loué,Agence Teranga,agence_teranga
+AGT-01160,12/11/2023,Tambacounda,Bakel,Terrain,26080000,968.4,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01161,16/04/2018,Sédhiou,Goudomp,Maison,117883000,95.1,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01162,14/02/2023,Thiès,Tivaouane,Terrain,12886000,938.2,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01163,2022-10-15,Kaffrine,Koungheul,Studio,210000,40.9,3,4,Disponible,Agence Teranga,agence_teranga
+AGT-01164,2020-05-07,Kédougou,Salémata,Studio,19483000,46.7,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01165,2019-12-06,Kédougou,Saraya,Maison,46615000,143.9,3,3,En vente,Agence Teranga,agence_teranga
+AGT-01166,21/07/2020,Matam,Kanel,Maison,58688000,95.0,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01167,02/02/2020,Tambacounda,Bakel,Studio,18676000,35.5,6,4,En vente,Agence Teranga,agence_teranga
+AGT-01168,14/10/2021,Kaolack,Nioro du Rip,Maison,230000,135.6,1,2,Loué,Agence Teranga,agence_teranga
+AGT-01169,2024-04-14,Matam,Ourossogui,Terrain,49960000,766.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01170,2019-01-18,Diourbel,Bambey,Maison,90504000,219.4,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01171,2021-12-20,Kaffrine,Birkelane,Appartement,38806000,113.3,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-01172,09/07/2020,Matam,Kanel,Terrain,13087000,181.0,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01173,2023-07-19,Kolda,Kolda,Maison,118211000,167.5,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01174,2018-02-20,Saint-Louis,Richard-Toll,Maison,162315000,166.0,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01175,15/05/2024,Kaffrine,Birkelane,Villa,435123000,136.1,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01176,2022-12-07,Tambacounda,Goudiry,Terrain,75000,142.6,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01177,19/08/2020,Sédhiou,Bounkiling,Villa,148552000,298.6,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01178,2019-06-12,Kaolack,Guinguinéo,Appartement,86329000,51.2,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01179,2020-07-22,Kolda,Vélingara,Appartement,114867000,158.7,6,2,En vente,Agence Teranga,agence_teranga
+AGT-01180,2024-12-09,Fatick,Kaolack-Fatick,Villa,189747000,145.5,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01181,2021-11-24,Dakar,Keur Massar,Villa,142858000,161.9,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-01182,22/04/2020,Thiès,Tivaouane,Villa,535000,291.1,6,2,Loué,Agence Teranga,agence_teranga
+AGT-01183,26/10/2025,Louga,Louga,Maison,70648000,128.0,5,4,En vente,Agence Teranga,agence_teranga
+AGT-01184,04/08/2020,Diourbel,Mbacké,Terrain,295000,1051.7,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01185,23/10/2019,Thiès,Thiès,Maison,189862000,87.1,5,2,En vente,Agence Teranga,agence_teranga
+AGT-01186,04/05/2021,Kaffrine,Kaffrine,Appartement,320000,119.9,4,4,Disponible,Agence Teranga,agence_teranga
+AGT-01187,07/11/2021,Sédhiou,Bounkiling,Villa,108400000,121.4,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01188,2020-04-01,Ziguinchor,Oussouye,Appartement,88691000,131.6,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01189,25/03/2018,Kaolack,Nioro du Rip,Maison,94564000,153.0,5,1,En vente,Agence Teranga,agence_teranga
+AGT-01190,08/12/2023,Tambacounda,bakel,Appartement,64467000,48.2,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01191,2021-12-07,Sédhiou,Goudomp,Villa,770000,178.4,2,2,Disponible,Agence Teranga,agence_teranga
+AGT-01192,2024-03-12,Kaolack,Kaolack,Terrain,75000,1438.5,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01193,29/12/2022,Kédougou,Kédougou,Villa,301763000,360.5,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01194,2025-08-29,Sédhiou,Bounkiling,Terrain,33860000,638.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01195,2024-11-16,Thiès,Joal-Fadiouth,Appartement,47508000,58.1,6,4,En vente,Agence Teranga,agence_teranga
+AGT-01196,26/09/2018,Sédhiou,Bounkiling,Terrain,22681000,1212.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01197,2022-01-07,Saint-Louis,Richard-Toll,Appartement,89367000,118.8,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01198,2023-11-30,Kaffrine,Koungheul,Appartement,70134000,169.5,5,4,Vendu,Agence Teranga,agence_teranga
+AGT-01199,09/07/2019,Sédhiou,Goudomp,Maison,45547000,113.3,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01200,2023-07-06,Louga,Kébémer,Chambre,9549000,25.6,5,0,Vendu,Agence Teranga,agence_teranga
+AGT-01201,2021-03-22,Louga,Kébémer,Villa,447230000,199.4,5,1,En vente,Agence Teranga,agence_teranga
+AGT-01202,2024-05-28,Saint-Louis,Saint-Louis,Studio,44937000,53.2,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01203,2020-02-11,Kolda,Kolda,Appartement,46342000,98.9,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01204,27/02/2022,Kédougou,Salémata,Villa,231579000,442.8,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01205,26/10/2018,Fatick,Fatick,Terrain,22833000,1214.8,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01206,2022-04-12,Matam,Kanel,Maison,83458000,198.9,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01207,2019-12-27,Saint-Louis,Podor,Maison,95902000,169.9,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01208,2025-07-01,Dakar,Pikine,Appartement,140532000,153.6,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01209,2025-09-28,Saint-Louis,Podor,Maison,160631000,71.3,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-01210,2024-09-24,Kaffrine,Kaffrine,Maison,135347000,86.6,1,4,Vendu,Agence Teranga,agence_teranga
+AGT-01211,13/10/2019,Diourbel,Touba,Appartement,64503000,119.1,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01212,2025-10-17,Diourbel,Mbacké,Terrain,41025000,817.8,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01213,2022-06-06,Ziguinchor,Bignona,Studio,44885000,25.4,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01214,16/05/2023,Saint-Louis,Saint-Louis,Villa,362911000,250.7,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01215,30/11/2022,Thiès,Thiès,Appartement,41400000,66.4,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01216,28/02/2018,Sédhiou,Sédhiou,Maison,172645000,227.1,3,2,En vente,Agence Teranga,agence_teranga
+AGT-01217,2022-05-22,Kaolack,Nioro du Rip,Appartement,111169000,178.9,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01218,03/12/2022,Saint-Louis,Saint-Louis,Maison,71726000,127.5,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01219,20/08/2020,Kolda,Kolda,Appartement,450000,110.3,5,1,Disponible,Agence Teranga,agence_teranga
+AGT-01220,2024-02-26,Matam,Kanel,Appartement,340000,93.3,6,2,Disponible,Agence Teranga,agence_teranga
+AGT-01221,07/05/2022,Dakar,Rufisque,Appartement,109902000,122.7,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01222,2023-05-06,Matam,Kanel,Appartement,40338000,108.7,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01223,2020-10-21,Fatick,Gossas,Appartement,77580000,122.0,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01224,2019-08-15,Diourbel,Bambey,Villa,157740000,364.9,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-01225,13/05/2021,Diourbel,Mbacké,Maison,38654000,127.4,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01226,21/07/2022,Louga,Louga,Terrain,71977000,880.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01227,2022-01-29,Kédougou,Saraya,Villa,176630000,349.3,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01228,24/05/2025,Saint-Louis,Saint-Louis,Maison,128999000,211.3,4,4,En vente,Agence Teranga,agence_teranga
+AGT-01229,2023-04-11,Kaolack,Guinguinéo,Studio,36256000,44.4,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01230,2019-10-04,Dakar,Pikine,Appartement,96359000,63.0,4,2,En vente,Agence Teranga,agence_teranga
+AGT-01231,2025-06-25,Fatick,Fatick,Maison,72893000,139.6,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01232,10/09/2019,Tambacounda,Bakel,Villa,301741000,289.5,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01233,2025-12-13,Sédhiou,Bounkiling,Studio,125000,20.3,6,1,Loué,Agence Teranga,agence_teranga
+AGT-01234,05/08/2018,Sédhiou,Sédhiou,Appartement,72143000,83.6,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01235,2018-09-28,Kédougou,Kédougou,Terrain,68238000,114.0,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01236,2021-04-01,Matam,Ourossogui,Villa,296386000,430.7,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01237,2024-08-05,Diourbel,Bambey,Appartement,230000,108.7,4,3,Disponible,Agence Teranga,agence_teranga
+AGT-01238,24/08/2019,Kédougou,Kédougou,Terrain,15497000,-30.0,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01239,08/05/2023,Dakar,Pikine,Terrain,71744000,658.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01240,15/01/2020,Kédougou,Saraya,Terrain,50753000,1353.1,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01241,14/12/2020,Fatick,Gossas,Villa,615000,127.4,2,3,Loué,Agence Teranga,agence_teranga
+AGT-01242,2025-07-02,Tambacounda,Bakel,Terrain,78657000,899.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01243,2021-12-23,Ziguinchor,Bignona,Maison,164145000,173.4,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01244,2021-02-21,Diourbel,Mbacké,Terrain,74433000,690.1,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01245,13/04/2025,Dakar,Rufisque,Studio,49606000,56.5,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01246,19/02/2025,Kaolack,Kaolack,Studio,175000,27.2,1,2,Loué,Agence Teranga,agence_teranga
+AGT-01247,2021-05-24,Kaffrine,Koungheul,Appartement,50536000,71.8,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01248,2023-10-01,Dakar,Guédiawaye,Maison,95572000,118.2,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01249,26/06/2023,Diourbel,Mbacké,Maison,115494000,171.7,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01250,09/04/2021,Sédhiou,Goudomp,Terrain,155000,953.9,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01251,2018-09-24,Sédhiou,Sédhiou,Appartement,32750000,56.9,1,1,Vendu,Agence Teranga,agence_teranga
+AGT-01252,2024-12-04,Dakar,Dakar,Maison,80886000,158.4,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-01253,2025-11-24,Sédhiou,Goudomp,Appartement,45329000,83.2,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01254,2020-08-12,Thiès,Thiès,Appartement,69333000,154.6,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-01255,2025-12-10,Tambacounda,Goudiry,Appartement,26317000,132.7,2,4,En vente,Agence Teranga,agence_teranga
+AGT-01256,2020-09-07,Ziguinchor,Bignona,Maison,600000,211.7,1,2,Disponible,Agence Teranga,agence_teranga
+AGT-01257,2020-02-15,Saint-Louis,Richard-Toll,Appartement,113612000,47.7,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01258,2022-06-05,Diourbel,Mbacké,Maison,57299000,228.4,5,4,En vente,Agence Teranga,agence_teranga
+AGT-01259,2021-11-13,Kolda,Médina Yoro Foulah,Studio,27131000,42.6,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01260,10/11/2021,Ziguinchor,Ziguinchor,Appartement,87988000,136.7,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01261,2020-12-27,Tambacounda,Goudiry,Villa,1425000,449.0,3,1,Disponible,Agence Teranga,agence_teranga
+AGT-01262,06/01/2022,Matam,Ourossogui,Maison,139423000,114.6,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01263,18/02/2022,Sédhiou,Bounkiling,Studio,230000,22.0,6,3,Disponible,Agence Teranga,agence_teranga
+AGT-01264,2022-07-10,Louga,Kébémer,Terrain,26949000,1354.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01265,2022-09-15,Fatick,Fatick,Appartement,49338000,74.8,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01266,2022-11-15,Kaffrine,Koungheul,Appartement,38122000,161.0,2,2,En vente,Agence Teranga,agence_teranga
+AGT-01267,19/04/2023,Matam,Matam,Appartement,72506000,136.1,1,4,Vendu,Agence Teranga,agence_teranga
+AGT-01268,11/02/2023,Louga,Louga,Studio,115000,50.3,6,4,Disponible,Agence Teranga,agence_teranga
+AGT-01269,2025-06-20,Louga,Kébémer,Terrain,70320000,523.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01270,2019-08-03,Thiès,Tivaouane,Maison,94549000,99.8,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01271,2021-10-18,Fatick,Fatick,Terrain,88078000,996.8,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01272,28/02/2021,Louga,Linguère,Appartement,113782000,86.0,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01273,06/01/2023,Kaolack,Guinguinéo,Terrain,72115000,1167.5,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01274,2023-07-04,Kaolack,Guinguinéo,Appartement,460000,175.4,4,3,Loué,Agence Teranga,agence_teranga
+AGT-01275,2020-03-07,Kolda,Vélingara,Villa,225615000,163.1,6,2,En vente,Agence Teranga,agence_teranga
+AGT-01276,17/10/2020,Kédougou,Salémata,Maison,132398000,198.6,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-01277,10/08/2021,Kolda,Kolda,Villa,292772000,188.2,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-01278,05/02/2021,Thiès,Joal-Fadiouth,Villa,266649000,223.0,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01279,17/12/2024,Saint-Louis,Saint-Louis,Maison,106681000,182.6,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01280,2025-03-30,Fatick,Kaolack-Fatick,Maison,143056000,104.1,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01281,14/11/2025,Ziguinchor,Bignona,Appartement,330000,81.3,4,4,Loué,Agence Teranga,agence_teranga
+AGT-01282,2021-04-27,Kédougou,Kédougou,Studio,18555000,51.3,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01283,2025-01-03,Kaolack,Nioro du Rip,Maison,745000,130.3,5,4,Loué,Agence Teranga,agence_teranga
+AGT-01284,2021-02-04,Sédhiou,Bounkiling,Appartement,96371000,166.1,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01285,2018-08-03,Matam,Matam,Studio,39922000,27.3,3,2,En vente,Agence Teranga,agence_teranga
+AGT-01286,14/11/2022,Kaolack,Guinguinéo,Chambre,17432000,17.5,3,0,En vente,Agence Teranga,agence_teranga
+AGT-01287,2024-05-17,Matam,Matam,Maison,84190000,71.9,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01288,2019-02-23,Fatick,Fatick,Terrain,47866000,234.8,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01289,17/10/2023,Saint-Louis,Saint-Louis,Maison,350000,120.2,1,4,Disponible,Agence Teranga,agence_teranga
+AGT-01290,2022-06-10,Louga,Linguère,Appartement,101839000,163.2,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01291,04/12/2022,Fatick,Fatick,Appartement,285000,160.9,6,1,Disponible,Agence Teranga,agence_teranga
+AGT-01292,2020-08-10,Dakar,Pikine,Villa,536187000,372.3,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01293,20/03/2018,Kaolack,Nioro du Rip,Maison,56271000,191.2,1,4,Vendu,Agence Teranga,agence_teranga
+AGT-01294,05/05/2020,Kolda,Kolda,Appartement,114777000,137.1,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01295,2022-06-15,Matam,Ourossogui,Villa,202698000,285.2,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01296,05/04/2020,Ziguinchor,Bignona,Chambre,13394000,20.2,2,0,En vente,Agence Teranga,agence_teranga
+AGT-01297,2023-01-24,Kaolack,Nioro du Rip,Villa,124383000,223.0,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01298,2019-03-14,Saint-Louis,Saint-Louis,Appartement,111350000,161.3,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01299,27/05/2023,Kaffrine,Koungheul,Maison,280000,241.0,6,2,Disponible,Agence Teranga,agence_teranga
+AGT-01300,20/02/2018,Matam,Ourossogui,Appartement,56238000,134.4,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01301,20/05/2022,Fatick,GOSSAS,Villa,358175000,387.9,4,4,En vente,Agence Teranga,agence_teranga
+AGT-01302,14/10/2022,Kolda,Médina Yoro Foulah,Studio,0,32.5,1,1,Disponible,Agence Teranga,agence_teranga
+AGT-01303,01/01/2020,Matam,Matam,Terrain,265000,267.0,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01304,30/03/2025,Matam,Matam,Appartement,91979000,145.2,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01305,24/05/2018,Ziguinchor,Oussouye,Maison,133270000,107.9,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01306,2025-08-24,Sédhiou,Sédhiou,Appartement,107939000,67.8,4,2,En vente,Agence Teranga,agence_teranga
+AGT-01307,02/07/2024,Dakar,Dakar,Appartement,40629000,141.9,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01308,26/03/2022,Thiès,Mbour,Appartement,77187000,159.6,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01309,2018-09-16,Diourbel,diourbel,Villa,221857000,175.5,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01310,2025-07-12,Kédougou,Saraya,Appartement,104462000,119.1,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01311,25/04/2024,Sédhiou,Sédhiou,Local commercial,62163000,227.3,0,4,En vente,Agence Teranga,agence_teranga
+AGT-01312,2021-03-19,Sédhiou,Sédhiou,Maison,109111000,174.8,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01313,2021-08-19,Kolda,Kolda,Chambre,75000,26.6,4,0,Disponible,Agence Teranga,agence_teranga
+AGT-01314,2023-04-12,Diourbel,Bambey,Chambre,105000,24.2,4,0,Disponible,Agence Teranga,agence_teranga
+AGT-01315,2020-12-20,Tambacounda,Goudiry,Villa,515000,396.8,3,3,Loué,Agence Teranga,agence_teranga
+AGT-01316,18/08/2025,Tambacounda,Bakel,Villa,328275000,350.0,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-01317,2019-10-16,Matam,Ourossogui,Villa,214304000,410.2,2,4,En vente,Agence Teranga,agence_teranga
+AGT-01318,2020-06-20,Thiès,Joal-Fadiouth,Terrain,230000,239.9,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01319,2020-07-17,Ziguinchor,Bignona,Maison,94128000,228.4,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01320,2022-06-06,Kaolack,Guinguinéo,Terrain,11870000,1445.2,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01321,2019-03-12,Saint-Louis,Podor,Chambre,13829000,22.6,2,0,Vendu,Agence Teranga,agence_teranga
+AGT-01322,2018-01-03,Kaffrine,Koungheul,Terrain,30186000,433.3,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01323,09/06/2023,Sédhiou,Sédhiou,Villa,1435000,218.4,2,1,Disponible,Agence Teranga,agence_teranga
+AGT-01324,2019-05-11,Kaffrine,Kaffrine,Appartement,98673000,98.1,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01325,04/01/2022,Thiès,Tivaouane,Villa,131524000,123.5,5,3,En vente,Agence Teranga,agence_teranga
+AGT-01326,11/12/2024,Kaolack,Nioro du Rip,Chambre,12075000,29.5,5,0,Vendu,Agence Teranga,agence_teranga
+AGT-01327,09/08/2025,Matam,Matam,Maison,420000,127.9,6,4,Disponible,Agence Teranga,agence_teranga
+AGT-01328,2022-09-28,Kaffrine,Birkelane,Maison,84893000,158.9,3,4,En vente,Agence Teranga,agence_teranga
+AGT-01329,2018-12-22,Dakar,Rufisque,Appartement,90265000,163.8,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01330,05/04/2022,Kédougou,Salémata,Maison,108301000,156.5,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01331,23/01/2023,Kaolack,Nioro du Rip,Villa,131197000,444.3,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01332,25/12/2024,Matam,Kanel,Maison,350000,73.9,3,4,Disponible,Agence Teranga,agence_teranga
+AGT-01333,2024-07-26,Sédhiou,Goudomp,Maison,131156000,173.1,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01334,14/10/2022,Ziguinchor,Ziguinchor,Appartement,64439000,102.0,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01335,2025-05-02,Fatick,Kaolack-Fatick,Appartement,99581000,71.4,1,3,En vente,Agence Teranga,agence_teranga
+AGT-01336,14/07/2023,Diourbel,Touba,Studio,39068000,45.9,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01337,14/10/2024,Thiès,Mbour,Appartement,71282000,106.8,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01338,05/02/2024,Dakar,Keur Massar,Terrain,29045000,1148.0,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01339,2018-09-24,Ziguinchor,Oussouye,Villa,269764000,225.9,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01340,18/07/2019,Fatick,Kaolack-Fatick,Villa,300539000,448.6,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-01341,09/03/2024,Tambacounda,Tambacounda,Villa,880000,423.8,6,2,Loué,Agence Teranga,agence_teranga
+AGT-01342,09/04/2020,Matam,Ourossogui,Appartement,0,52.4,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01343,07/04/2019,Dakar,Guédiawaye,Appartement,59944000,101.5,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01344,22/05/2023,Ziguinchor,Ziguinchor,Studio,19248000,20.0,4,4,En vente,Agence Teranga,agence_teranga
+AGT-01345,2025-02-07,Fatick,Fatick,Appartement,111925000,158.9,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01346,2018-10-06,Tambacounda,Tambacounda,Terrain,68868000,318.3,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01347,06/01/2025,Thiès,Mbour,Appartement,40078000,54.1,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01348,2022-06-05,Dakar,Rufisque,Appartement,126607000,170.4,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01349,2019-06-06,Fatick,Gossas,Terrain,43304000,249.2,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01350,2019-10-07,Kolda,Vélingara,Maison,109297000,126.3,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01351,2018-12-14,Louga,Linguère,Appartement,60608000,128.9,6,1,En vente,Agence Teranga,agence_teranga
+AGT-01352,2021-10-30,Kaolack,Nioro du Rip,Villa,345926000,156.5,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01353,2025-09-20,Kaffrine,Birkelane,Villa,93168000,448.1,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01354,2021-11-03,Fatick,Kaolack-Fatick,Appartement,47109000,52.3,1,3,Vendu,Agence Teranga,agence_teranga
+AGT-01355,2025-10-04,Tambacounda,Bakel,Terrain,95000,135.3,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01356,08/06/2021,Kaolack,Kaolack,Villa,224970000,-12.0,6,4,Vendu,Agence Teranga,agence_teranga
+AGT-01357,2020-02-11,Ziguinchor,Oussouye,Maison,84480000,144.4,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01358,2024-03-14,Saint-Louis,Podor,Maison,132960000,156.7,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-01359,07/02/2025,Thiès,Tivaouane,Maison,159910000,224.5,6,4,En vente,Agence Teranga,agence_teranga
+AGT-01360,16/05/2024,Kaolack,Kaolack,Villa,83667000,376.8,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01361,30/05/2022,Ziguinchor,Ziguinchor,Terrain,45780000,1484.2,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01362,08/02/2023,Ziguinchor,Oussouye,Villa,930000,445.7,3,1,Disponible,Agence Teranga,agence_teranga
+AGT-01363,06/05/2023,Louga,Linguère,Local commercial,158277000,104.6,0,2,Vendu,Agence Teranga,agence_teranga
+AGT-01364,12/08/2018,Diourbel,Diourbel,Chambre,11999000,29.8,1,0,Vendu,Agence Teranga,agence_teranga
+AGT-01365,13/09/2025,Kolda,Médina Yoro Foulah,Studio,40299000,23.9,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01366,09/02/2021,Dakar,Dakar,Studio,47669000,33.8,2,3,Vendu,Agence Teranga,agence_teranga
+AGT-01367,2024-03-17,Kolda,Vélingara,Terrain,8573000,652.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01368,2019-10-19,Diourbel,Bambey,Appartement,47302000,155.5,3,4,Vendu,Agence Teranga,agence_teranga
+AGT-01369,18/09/2020,Thiès,Thiès,Appartement,62751000,156.7,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01370,2022-11-18,Ziguinchor,Ziguinchor,Appartement,25057000,86.6,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01371,28/12/2025,Saint-Louis,Saint-Louis,Appartement,52702000,76.5,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01372,2025-07-20,Dakar,Keur Massar,Maison,44887000,95.6,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-01373,17/12/2022,Kaolack,Kaolack,Villa,285553000,216.1,6,1,En vente,Agence Teranga,agence_teranga
+AGT-01374,13/07/2022,Matam,Kanel,Maison,95522000,131.6,4,3,Vendu,Agence Teranga,agence_teranga
+AGT-01375,2024-09-25,Saint-Louis,Podor,Studio,40905000,56.2,6,2,En vente,Agence Teranga,agence_teranga
+AGT-01376,31/03/2018,Tambacounda,Goudiry,Appartement,71831000,89.6,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01377,01/01/2021,Fatick,Kaolack-Fatick,Maison,265000,241.1,3,3,Disponible,Agence Teranga,agence_teranga
+AGT-01378,2024-07-26,Ziguinchor,Oussouye,Appartement,30722000,85.2,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01379,06/12/2025,Louga,Kébémer,Appartement,53316000,88.3,6,1,En vente,Agence Teranga,agence_teranga
+AGT-01380,2019-09-03,Ziguinchor,Ziguinchor,Villa,140786000,378.4,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01381,2020-08-07,Saint-Louis,Richard-Toll,Studio,16042000,45.4,5,2,En vente,Agence Teranga,agence_teranga
+AGT-01382,2019-11-19,Ziguinchor,Bignona,Villa,125823000,143.3,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-01383,28/12/2023,Thiès,Thiès,Studio,46212000,27.6,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01384,2019-12-05,Diourbel,Touba,Appartement,103019000,118.5,1,1,En vente,Agence Teranga,agence_teranga
+AGT-01385,2019-06-26,Louga,Louga,Appartement,32396000,174.0,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01386,2020-10-13,Fatick,Fatick,Villa,171376000,403.7,1,1,Vendu,Agence Teranga,agence_teranga
+AGT-01387,30/06/2023,Louga,Louga,Appartement,41037000,160.3,5,4,En vente,Agence Teranga,agence_teranga
+AGT-01388,2023-12-20,Kolda,Vélingara,Terrain,55000,806.7,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01389,2022-07-28,Kaffrine,Koungheul,Villa,364694000,428.5,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-01390,2021-05-07,Saint-Louis,Saint-Louis,Maison,183518000,215.7,4,4,Vendu,Agence Teranga,agence_teranga
+AGT-01391,2018-03-07,Ziguinchor,Oussouye,Appartement,109378000,71.9,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01392,12/04/2025,Kaffrine,Koungheul,Maison,76207000,114.9,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01393,2025-12-29,Saint-Louis,Richard-Toll,Studio,24443000,35.7,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01394,06/03/2025,Louga,Louga,Appartement,76733000,66.6,1,3,En vente,Agence Teranga,agence_teranga
+AGT-01395,15/11/2020,Fatick,Kaolack-Fatick,Terrain,225000,317.9,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01396,17/05/2025,Kolda,Médina Yoro Foulah,Villa,740000,286.1,3,2,Disponible,Agence Teranga,agence_teranga
+AGT-01397,2021-01-09,Dakar,Dakar,Appartement,135894000,144.8,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01398,01/03/2023,Dakar,Rufisque,Villa,430444000,171.4,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01399,2025-06-19,Sédhiou,Goudomp,Maison,530000,76.6,6,1,Disponible,Agence Teranga,agence_teranga
+AGT-01400,14/02/2025,Diourbel,Bambey,Studio,24453000,36.5,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-01401,2018-06-30,Matam,Ourossogui,Studio,13314000,31.0,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01402,2019-09-14,Matam,Matam,Villa,433590000,434.7,2,1,Vendu,Agence Teranga,agence_teranga
+AGT-01403,31/05/2023,Thiès,Mbour,Terrain,40580000,141.2,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01404,2021-11-04,Diourbel,Bambey,Appartement,42014000,97.9,4,3,En vente,Agence Teranga,agence_teranga
+AGT-01405,16/09/2023,Matam,Kanel,Villa,1445000,166.6,2,3,Loué,Agence Teranga,agence_teranga
+AGT-01406,02/04/2018,Sédhiou,Goudomp,Maison,145710000,80.6,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-01407,2024-08-20,Fatick,Gossas,Local commercial,196814000,139.2,0,1,Vendu,Agence Teranga,agence_teranga
+AGT-01408,15/06/2020,Kaffrine,Kaffrine,Villa,366837000,233.1,2,1,En vente,Agence Teranga,agence_teranga
+AGT-01409,26/06/2022,Kédougou,Salémata,Villa,312237000,183.4,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01410,09/07/2021,Diourbel,Bambey,Terrain,19974000,1412.1,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01411,06/05/2018,Louga,Kébémer,Appartement,112176000,164.8,3,2,Vendu,Agence Teranga,agence_teranga
+AGT-01412,2020-05-26,Fatick,Kaolack-Fatick,Terrain,59286000,1227.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01413,2019-10-15,Ziguinchor,Ziguinchor,Maison,45010000,123.6,1,1,Vendu,Agence Teranga,agence_teranga
+AGT-01414,2024-01-23,Thiès,Thiès,Maison,88536000,180.8,6,2,Vendu,Agence Teranga,agence_teranga
+AGT-01415,08/04/2021,Dakar,Dakar,Villa,285801000,169.0,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01416,22/06/2021,Tambacounda,Goudiry,Appartement,81664000,154.9,5,1,Vendu,Agence Teranga,agence_teranga
+AGT-01417,2021-11-27,Dakar,Keur Massar,Appartement,320000,62.9,4,1,Loué,Agence Teranga,agence_teranga
+AGT-01418,21/10/2018,Ziguinchor,Bignona,Studio,18491000,29.5,1,4,En vente,Agence Teranga,agence_teranga
+AGT-01419,2023-10-10,Matam,Ourossogui,Appartement,53490000,131.8,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01420,17/10/2025,Dakar,Rufisque,Terrain,77325000,1068.4,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01421,2022-07-01,Kolda,Vélingara,Studio,23963000,53.0,3,3,Vendu,Agence Teranga,agence_teranga
+AGT-01422,2018-05-31,Saint-Louis,Saint-Louis,Villa,171064000,274.8,1,2,Vendu,Agence Teranga,agence_teranga
+AGT-01423,2021-03-03,Thiès,JOAL-FADIOUTH,Appartement,101089000,69.3,5,2,En vente,Agence Teranga,agence_teranga
+AGT-01424,2025-03-24,Kédougou,Saraya,Villa,120649000,411.6,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01425,31/01/2022,Kédougou,Kédougou,Terrain,36120000,1051.1,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01426,2022-10-29,Thiès,Thiès,Appartement,160000,138.2,4,4,Disponible,Agence Teranga,agence_teranga
+AGT-01427,2021-09-01,Sédhiou,Goudomp,Terrain,33920000,159.2,0,0,En vente,Agence Teranga,agence_teranga
+AGT-01428,2025-11-06,Tambacounda,Bakel,Terrain,58005000,421.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01429,2021-10-02,Diourbel,Mbacké,Villa,223119000,146.6,2,4,Vendu,Agence Teranga,agence_teranga
+AGT-01430,2018-02-07,Ziguinchor,Ziguinchor,Maison,56339000,116.6,5,3,En vente,Agence Teranga,agence_teranga
+AGT-01431,15/08/2023,Kaolack,Kaolack,Appartement,33527000,168.0,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01432,2022-03-16,Kolda,Vélingara,Terrain,50000,767.1,0,0,Disponible,Agence Teranga,agence_teranga
+AGT-01433,2024-02-20,Sédhiou,Sédhiou,Villa,125602000,221.5,4,1,Vendu,Agence Teranga,agence_teranga
+AGT-01434,2018-09-15,Ziguinchor,Oussouye,Appartement,112976000,66.8,4,2,Vendu,Agence Teranga,agence_teranga
+AGT-01435,2025-04-24,Kaolack,Guinguinéo,Appartement,116754000,72.8,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01436,27/06/2020,Louga,Kébémer,Appartement,95449000,118.8,4,1,En vente,Agence Teranga,agence_teranga
+AGT-01437,2021-01-25,Louga,Louga,Terrain,80527000,866.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01438,2023-06-08,Louga,Louga,Villa,990000,184.5,4,2,Loué,Agence Teranga,agence_teranga
+AGT-01439,19/08/2020,Kolda,Médina Yoro Foulah,Villa,141505000,422.4,6,3,En vente,Agence Teranga,agence_teranga
+AGT-01440,2021-09-08,Diourbel,Touba,Appartement,56145000,95.2,1,1,En vente,Agence Teranga,agence_teranga
+AGT-01441,2020-11-19,Diourbel,Mbacké,Appartement,97183000,90.7,2,2,Vendu,Agence Teranga,agence_teranga
+AGT-01442,2024-01-31,Kaolack,Kaolack,Maison,173049000,200.2,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01443,2020-09-08,Kaffrine,Kaffrine,Terrain,56989000,1330.9,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01444,2023-01-23,Sédhiou,Bounkiling,Terrain,12068000,445.0,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01445,2025-06-29,Kaffrine,Koungheul,Villa,252063000,194.9,3,1,En vente,Agence Teranga,agence_teranga
+AGT-01446,2020-10-22,Kaolack,Kaolack,Villa,355245000,423.3,5,1,En vente,Agence Teranga,agence_teranga
+AGT-01447,25/09/2025,Thiès,Mbour,Appartement,71784000,91.2,6,3,Vendu,Agence Teranga,agence_teranga
+AGT-01448,2022-11-07,Dakar,Guédiawaye,Terrain,117244000,711.7,0,0,Vendu,Agence Teranga,agence_teranga
+AGT-01449,2025-02-24,Sédhiou,Bounkiling,Appartement,71460000,92.5,6,1,Vendu,Agence Teranga,agence_teranga
+AGT-01450,17/07/2025,Kédougou,Kédougou,Terrain,275000,887.9,0,0,Loué,Agence Teranga,agence_teranga
+AGT-01451,29/05/2020,Kaolack,Guinguinéo,Chambre,100000,26.2,3,0,Disponible,Agence Teranga,agence_teranga
+AGT-01452,2018-01-31,Dakar,Guédiawaye,Maison,114167000,142.4,1,2,En vente,Agence Teranga,agence_teranga
+AGT-01453,23/04/2019,Kaffrine,Kaffrine,Maison,158028000,129.0,5,3,Vendu,Agence Teranga,agence_teranga
+AGT-01454,2020-10-04,Thiès,Thiès,Maison,165133000,238.8,3,1,Vendu,Agence Teranga,agence_teranga
+AGT-01455,2019-07-15,Kaffrine,Kaffrine,Appartement,84205000,145.1,2,3,En vente,Agence Teranga,agence_teranga
+AGT-01456,30/01/2024,Kaolack,Nioro du Rip,Local commercial,1015000,259.7,0,3,Disponible,Agence Teranga,agence_teranga
+AGT-01457,2020-01-27,Louga,Louga,Appartement,62530000,51.9,5,1,En vente,Agence Teranga,agence_teranga
+AGT-01458,29/09/2021,Kaolack,Kaolack,Appartement,63178000,136.0,5,2,Vendu,Agence Teranga,agence_teranga
+AGT-01459,2024-03-03,Matam,Matam,Appartement,67783000,146.1,1,3,En vente,Agence Teranga,agence_teranga
+AGT-01460,2020-06-15,Kolda,Médina Yoro Foulah,Studio,135000,45.4,1,3,Disponible,Agence Teranga,agence_teranga
