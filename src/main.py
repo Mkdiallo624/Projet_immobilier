@@ -4,7 +4,7 @@ from validation.validation import valider_tous_les_datasets
 from validation.export import exporter_resultats
 
 if __name__ == "__main__":
-    print("🚀 Démarrage du pipeline ETL Immobilier...")
+    print("Démarrage du pipeline ETL Immobilier...")
     
     # 1. Étape d'ingestion et d'harmonisation (chargement via les loaders et application du mapping)
     datasets_mappes = charger_et_mapper_tous_les_fichiers()
@@ -18,4 +18,4 @@ if __name__ == "__main__":
     # 4. Étape d'exportation (sauvegarde des CSV dans data/processed/ et data/quarantine/)
     exporter_resultats(datasets_valides, datasets_quarantaine)
     
-    print("\n✨ Pipeline ETL exécuté et exporté avec succès !")
+    print(" Pipeline ETL exécuté et exporté avec succès !")
