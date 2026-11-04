@@ -1,0 +1,221 @@
+{
+  "total_recus": 3184,
+  "par_source": [
+    {
+      "source": "notaires",
+      "recus": 410,
+      "quarantaine": 20,
+      "retenus": 390,
+      "taux_retenus_pct": 95.1
+    },
+    {
+      "source": "historique",
+      "recus": 528,
+      "quarantaine": 10,
+      "retenus": 518,
+      "taux_retenus_pct": 98.1
+    },
+    {
+      "source": "plateforme_immo",
+      "recus": 875,
+      "quarantaine": 30,
+      "retenus": 845,
+      "taux_retenus_pct": 96.6
+    },
+    {
+      "source": "particuliers",
+      "recus": 731,
+      "quarantaine": 136,
+      "retenus": 595,
+      "taux_retenus_pct": 81.4
+    },
+    {
+      "source": "agence_teranga",
+      "recus": 640,
+      "quarantaine": 9,
+      "retenus": 631,
+      "taux_retenus_pct": 98.6
+    }
+  ],
+  "repartition": {
+    "quarantaine": 205,
+    "retenu_avertissement": 522,
+    "retenu_corrige": 1621,
+    "retenu_conforme": 836
+  },
+  "enregistrements_corriges": 2124,
+  "enregistrements_quarantaine": 205,
+  "enregistrements_conserves_avec_avertissement": 522,
+  "enregistrements_entierement_conformes": 836,
+  "taux_entierement_conformes_pct": 26.3,
+  "doublons_exacts": 15,
+  "taux_doublons_exacts_pct": 0.47,
+  "doublons_probables_lignes": 0,
+  "doublons_probables_groupes": 0,
+  "manquants_par_colonne": {
+    "id_local": 0,
+    "date": 0,
+    "region": 0,
+    "ville": 8,
+    "type_bien": 0,
+    "type_transaction": 1578,
+    "prix": 85,
+    "devise": 2309,
+    "surface": 80,
+    "chambres": 0,
+    "sdb": 410,
+    "statut": 528,
+    "quartier": 2309,
+    "date_expiration": 2309
+  },
+  "erreurs_conversion_par_champ": {
+    "prix": 8,
+    "surface": 4,
+    "date": 6,
+    "date_expiration": 0,
+    "chambres": 0,
+    "sdb": 0,
+    "type_transaction": 0
+  },
+  "motifs_quarantaine": {
+    "prix_absent": 85,
+    "surface_absent": 80,
+    "doublon_exact": 15,
+    "prix_illisible": 8,
+    "date_impossible": 6,
+    "date_future": 5,
+    "prix_non_positif": 5,
+    "surface_illisible": 4,
+    "surface_non_positif": 4
+  },
+  "avertissements": {
+    "periodicite_inconnue": 278,
+    "sdb_superieur_chambres_plus_2": 153,
+    "prix_hors_fourchette_categorie": 80,
+    "transaction_incoherente_statut": 13,
+    "ville_absente": 8,
+    "region_ville_incoherente": 4,
+    "surface_hors_fourchette_categorie": 3
+  },
+  "regles": [
+    {
+      "regle": "identifiant local présent",
+      "evaluables": 3184,
+      "conformes": 3184,
+      "non_conformes": 0,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "prix numérique",
+      "evaluables": 3184,
+      "conformes": 3091,
+      "non_conformes": 93,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "prix > 0",
+      "evaluables": 3091,
+      "conformes": 3086,
+      "non_conformes": 5,
+      "non_evaluables": 93
+    },
+    {
+      "regle": "surface numérique",
+      "evaluables": 3184,
+      "conformes": 3100,
+      "non_conformes": 84,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "surface > 0",
+      "evaluables": 3100,
+      "conformes": 3096,
+      "non_conformes": 4,
+      "non_evaluables": 84
+    },
+    {
+      "regle": "date interprétable",
+      "evaluables": 3184,
+      "conformes": 3178,
+      "non_conformes": 6,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "date non future",
+      "evaluables": 3178,
+      "conformes": 3173,
+      "non_conformes": 5,
+      "non_evaluables": 6
+    },
+    {
+      "regle": "type_transaction renseigné ou déductible",
+      "evaluables": 3184,
+      "conformes": 3184,
+      "non_conformes": 0,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "type_bien dans le référentiel",
+      "evaluables": 3184,
+      "conformes": 3184,
+      "non_conformes": 0,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "pas de doublon exact",
+      "evaluables": 3184,
+      "conformes": 3169,
+      "non_conformes": 15,
+      "non_evaluables": 0
+    },
+    {
+      "regle": "surface plausible",
+      "evaluables": 3096,
+      "conformes": 3096,
+      "non_conformes": 0,
+      "non_evaluables": 88
+    },
+    {
+      "regle": "prix de vente plausible",
+      "evaluables": 2608,
+      "conformes": 2608,
+      "non_conformes": 0,
+      "non_evaluables": 576
+    },
+    {
+      "regle": "loyer plausible",
+      "evaluables": 478,
+      "conformes": 478,
+      "non_conformes": 0,
+      "non_evaluables": 2706
+    },
+    {
+      "regle": "région cohérente avec la ville",
+      "evaluables": 3176,
+      "conformes": 3172,
+      "non_conformes": 4,
+      "non_evaluables": 8
+    },
+    {
+      "regle": "prix dans la fourchette de la catégorie",
+      "evaluables": 2608,
+      "conformes": 2528,
+      "non_conformes": 80,
+      "non_evaluables": 576
+    },
+    {
+      "regle": "surface dans la fourchette de la catégorie",
+      "evaluables": 3096,
+      "conformes": 3093,
+      "non_conformes": 3,
+      "non_evaluables": 88
+    },
+    {
+      "regle": "chambres/sdb cohérentes",
+      "evaluables": 2774,
+      "conformes": 2612,
+      "non_conformes": 162,
+      "non_evaluables": 410
+    }
+  ]
+}

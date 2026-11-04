@@ -1,0 +1,206 @@
+id_bien,source,id_local,ligne_source,motifs_quarantaine,date_brut,prix_brut,surface_brut,region,ville,type_bien,type_transaction,chambres,sdb,statut
+IMM-000017,notaires,NOT-02208,17,prix_absent,2021-03-13,,73.3,Fatick,Kaolack-Fatick,Appartement,vente,2,,Vente conclue
+IMM-000054,notaires,NOT-02245,54,prix_absent,2024-04-02,,110.4,Saint-Louis,Podor,Appartement,vente,5,,Vendu
+IMM-000059,notaires,NOT-02250,59,prix_absent,2022-09-29,,44.6,Louga,Louga,Studio,vente,1,,Vendu
+IMM-000094,notaires,NOT-02285,94,prix_absent,2021-01-11,,1498.0,Dakar,Pikine,Terrain,vente,0,,Vendu
+IMM-000123,notaires,NOT-02314,123,prix_absent,2021-01-29,,364.1,Diourbel,Mbacké,Villa,vente,1,,Vendu
+IMM-000139,notaires,NOT-02330,139,prix_absent,2024-02-25,,66.9,Kaolack,Guinguinéo,Maison,vente,6,,Acte signé
+IMM-000170,notaires,NOT-02361,170,prix_absent,2023-06-24,,85.0,Diourbel,Diourbel,Maison,vente,4,,Vendu
+IMM-000171,notaires,NOT-02362,171,prix_absent,2019-05-01,,160.9,Sédhiou,Goudomp,Appartement,vente,5,,Vendu
+IMM-000203,notaires,NOT-02394,203,date_impossible,32/13/2024,69528000.0,238.3,Kédougou,Kédougou,Maison,vente,2,,Vendu
+IMM-000205,notaires,NOT-02396,205,date_impossible,32/13/2024,30816000.0,54.5,Kolda,Vélingara,Studio,vente,2,,Vente conclue
+IMM-000209,notaires,NOT-02400,209,prix_absent,2018-11-16,,214.8,Louga,Kébémer,Villa,vente,3,,Vente conclue
+IMM-000237,notaires,NOT-02428,237,prix_absent,2020-03-14,,211.9,Ziguinchor,Ziguinchor,Maison,vente,1,,Vendu
+IMM-000250,notaires,NOT-02441,250,date_impossible,32/13/2024,424671000.0,149.4,Ziguinchor,Ziguinchor,Villa,vente,3,,Vendu
+IMM-000283,notaires,NOT-02474,283,prix_absent,2024-05-28,,153.9,Louga,Louga,Appartement,vente,4,,Vente conclue
+IMM-000284,notaires,NOT-02475,284,prix_absent,2024-07-24,,121.2,Saint-Louis,Podor,Villa,vente,1,,Vendu
+IMM-000293,notaires,NOT-02484,293,prix_absent,2024-10-02,,115.5,Kédougou,Kédougou,Maison,vente,3,,Vendu
+IMM-000365,notaires,NOT-02556,365,prix_absent,2022-01-07,,29.9,Kolda,Kolda,Studio,vente,2,,Vendu
+IMM-000368,notaires,NOT-02559,368,date_impossible,32/13/2024,179791000.0,207.9,Dakar,Pikine,Maison,vente,1,,Vendu
+IMM-000374,notaires,NOT-02565,374,date_impossible,32/13/2024,266366000.0,180.3,Ziguinchor,Ziguinchor,Villa,vente,3,,Vendu
+IMM-000393,notaires,NOT-02584,393,date_impossible,32/13/2024,94166000.0,96.3,Louga,Kébémer,Maison,vente,3,,Vendu
+IMM-000482,historique,HIS-0072,72,prix_absent,2019-10-16,,190.8,Ziguinchor,Bignona,Terrain,vente,0,0,
+IMM-000538,historique,HIS-0128,128,prix_absent,2018-05-16,,"654,4",Saint-Louis,Podor,Terrain,vente,0,0,
+IMM-000661,historique,HIS-0251,251,prix_absent,27/03/2018,,43.7,Thiès,Mbour,Studio,vente,1,3,
+IMM-000679,historique,HIS-0269,269,prix_absent,2018-09-21,,148.7,Dakar,Keur Massar,Appartement,vente,3,4,
+IMM-000735,historique,HIS-0325,325,prix_absent,2019-04-17,,67.2,Thiès,Thiès,Appartement,vente,1,4,
+IMM-000782,historique,HIS-0372,372,prix_absent,2018-08-20,,40.1,Saint-Louis,Saint-Louis,Studio,vente,6,4,
+IMM-000833,historique,HIS-0423,423,prix_absent,12/12/2019,,121.9,Louga,Linguère,Local commercial,vente,0,1,
+IMM-000840,historique,HIS-0430,430,prix_absent,2019-09-02,,106.9,Kaolack,Kaolack,Local commercial,vente,0,3,
+IMM-000888,historique,HIS-0478,478,prix_absent,02/12/2018,,"52,3",Diourbel,Bambey,Local commercial,vente,0,2,
+IMM-000916,historique,HIS-0506,506,prix_absent,2018-07-22,,208.8,Matam,Ourossogui,Maison,vente,1,1,
+IMM-000952,plateforme_immo,PLT-00014,14,date_future,2028-12-01,91358000,111.6,Kolda,Médina Yoro Foulah,Maison,vente,6,3,Retiré
+IMM-001000,plateforme_immo,PLT-00062,62,prix_illisible,2023-04-04,à négocier,1131.9,Kédougou,Salémata,Terrain,vente,0,0,En vente
+IMM-001015,plateforme_immo,PLT-00077,77,date_future,2028-12-01,64862000,78.4,Matam,Matam,Appartement,vente,1,4,Vendu
+IMM-001023,plateforme_immo,PLT-00085,85,prix_illisible,2025-11-11,à négocier,163.7,Tambacounda,Tambacounda,Maison,vente,4,1,Vendu
+IMM-001149,plateforme_immo,PLT-00211,211,surface_absent,2020-08-07,595000,,Ziguinchor,Ziguinchor,Appartement,location,1,4,Loué
+IMM-001160,plateforme_immo,PLT-00222,222,prix_illisible,2019-06-25,à négocier,55.1,Dakar,Rufisque,Appartement,vente,3,2,Sous offre
+IMM-001187,plateforme_immo,PLT-00249,249,surface_absent,2022-04-18,162813000,,Louga,Linguère,Villa,vente,2,2,Vendu
+IMM-001333,plateforme_immo,PLT-00395,395,date_future,2028-12-01,64427000,701.4,Fatick,Kaolack-Fatick,Terrain,vente,0,0,En vente
+IMM-001445,plateforme_immo,PLT-00507,507,surface_absent,2023-09-10,85240000,,Kaolack,Kaolack,Appartement,vente,6,3,Vendu
+IMM-001510,plateforme_immo,PLT-00572,572,date_future,2028-12-01,68696000,113.4,Kaffrine,Kaffrine,Maison,vente,5,4,En vente
+IMM-001614,plateforme_immo,PLT-00676,676,prix_illisible,2021-07-24,à négocier,472.4,Fatick,Gossas,Terrain,vente,0,0,En vente
+IMM-001625,plateforme_immo,PLT-00687,687,surface_absent,2023-12-24,63774000,,Diourbel,Bambey,Appartement,vente,4,3,En vente
+IMM-001650,plateforme_immo,PLT-00712,712,prix_illisible,2023-06-27,à négocier,113.3,Kaolack,Kaolack,Appartement,vente,5,2,En vente
+IMM-001667,plateforme_immo,PLT-00729,729,surface_absent,2025-12-03,575000,,Saint-Louis,Podor,Maison,location,1,4,Loué
+IMM-001691,plateforme_immo,PLT-00753,753,date_future,2028-12-01,25935000,925.3,Thiès,Joal-Fadiouth,Terrain,vente,0,0,En vente
+IMM-001799,plateforme_immo,PLT-00692,861,doublon_exact,2020-05-14,127465000,106.0,Tambacounda,Goudiry,Maison,vente,1,4,Vendu
+IMM-001800,plateforme_immo,PLT-00676,862,prix_illisible; doublon_exact,2021-07-24,à négocier,472.4,Fatick,Gossas,Terrain,vente,0,0,En vente
+IMM-001801,plateforme_immo,PLT-00801,863,doublon_exact,2024-02-05,36 970 000,71.5,Dakar,Keur Massar,Appartement,vente,1,4,Sous offre
+IMM-001802,plateforme_immo,PLT-00711,864,doublon_exact,2019-12-08,193884000,421.6,Saint-Louis,Richard-Toll,Villa,vente,4,1,En vente
+IMM-001803,plateforme_immo,PLT-00058,865,doublon_exact,2024-04-04,116544000,160.2,Diourbel,Mbacké,Appartement,vente,5,2,En vente
+IMM-001804,plateforme_immo,PLT-00790,866,doublon_exact,2025-08-07,110000,566.6,Dakar,Pikine,Terrain,location,0,0,Loué
+IMM-001805,plateforme_immo,PLT-00656,867,doublon_exact,2024-05-20,695000,192.5,Matam,Kanel,Maison,location,2,4,En vente
+IMM-001806,plateforme_immo,PLT-00398,868,doublon_exact,2024-07-12,31332000,115.0,Fatick,Kaolack-Fatick,Appartement,vente,3,3,Vendu
+IMM-001807,plateforme_immo,PLT-00716,869,doublon_exact,2018-05-24,42029000,138.7,Tambacounda,Tambacounda,Appartement,vente,1,3,Vendu
+IMM-001808,plateforme_immo,PLT-00171,870,doublon_exact,2023-03-02,41498000,51.5,Louga,Linguère,Studio,vente,3,2,Vendu
+IMM-001809,plateforme_immo,PLT-00799,871,doublon_exact,2024-10-23,490000,219.3,Saint-Louis,Podor,Maison,location,6,4,Disponible
+IMM-001810,plateforme_immo,PLT-00494,872,doublon_exact,2025-10-10,34171000,77.7,Fatick,Fatick,Appartement,vente,2,2,En vente
+IMM-001811,plateforme_immo,PLT-00544,873,doublon_exact,2022-11-19,126817000,162.9,Saint-Louis,Saint-Louis,Maison,vente,1,2,Vendu
+IMM-001812,plateforme_immo,PLT-00491,874,doublon_exact,2021-04-23,52761000,168.0,Fatick,Kaolack-Fatick,Appartement,vente,6,2,En vente
+IMM-001813,plateforme_immo,PLT-00625,875,doublon_exact,2024-01-26,260000,131.5,Sédhiou,Goudomp,Appartement,location,4,2,Disponible
+IMM-001817,particuliers,PRT-01464,4,surface_absent,2019-06-29,490000,,Saint-Louis,Saint-Louis,Maison,location,1,2,Loué
+IMM-001821,particuliers,PRT-01468,8,surface_absent,23/02/2023,555000,,Louga,Kébémer,Appartement,location,3,2,Loué
+IMM-001824,particuliers,PRT-01471,11,surface_absent,09/03/2024,71415000,,Dakar,Pikine,Maison,vente,6,3,À confirmer
+IMM-001825,particuliers,PRT-01472,12,prix_absent,2021-06-24,,60.2,Kolda,Vélingara,Maison,vente,1,2,En vente
+IMM-001829,particuliers,PRT-01476,16,surface_absent,02/01/2025,136663000,,Tambacounda,Goudiry,Villa,vente,3,3,Vendu
+IMM-001830,particuliers,PRT-01477,17,prix_absent,22/04/2024,,318.1,Fatick,Fatick,Villa,vente,2,2,Vendu
+IMM-001837,particuliers,PRT-01484,24,surface_absent,16/01/2023,68635000,,Saint-Louis,Saint-Louis,Appartement,vente,6,2,Vendu
+IMM-001838,particuliers,PRT-01485,25,prix_absent,04/11/2022,,222.4,Kaolack,Guinguinéo,Maison,location,4,4,Loué
+IMM-001849,particuliers,PRT-01496,36,prix_absent,2024-01-17,,427.0,Thiès,Mbour,Villa,location,5,1,Disponible
+IMM-001852,particuliers,PRT-01499,39,prix_absent,30/06/2018,,219.9,Kaolack,Nioro du Rip,Villa,vente,2,4,En vente
+IMM-001856,particuliers,PRT-01503,43,prix_absent,24/11/2023,,198.2,Sédhiou,Sédhiou,Maison,location,1,1,Loué
+IMM-001870,particuliers,PRT-01517,57,prix_absent,2023-11-19,,754.2,Fatick,Gossas,Terrain,location,0,0,Loué
+IMM-001873,particuliers,PRT-01520,60,surface_absent,2024-11-02,68734000,,Louga,Louga,Terrain,vente,0,0,Vendu
+IMM-001876,particuliers,PRT-01523,63,prix_absent,13/01/2019,,198.1,Thiès,Mbour,Villa,vente,6,3,Vendu
+IMM-001879,particuliers,PRT-01526,66,surface_absent,24/10/2024,428851000,,Saint-Louis,Saint-Louis,Villa,vente,2,4,Vendu
+IMM-001880,particuliers,PRT-01527,67,surface_absent,14/06/2020,27665000,,Thiès,Tivaouane,Terrain,vente,0,0,À confirmer
+IMM-001882,particuliers,PRT-01529,69,prix_absent,2021-05-30,,22.5,Kolda,Vélingara,Studio,location,4,2,Disponible
+IMM-001883,particuliers,PRT-01530,70,prix_absent,06/12/2023,,24.8,Kaolack,Nioro du Rip,Studio,location,3,1,Loué
+IMM-001888,particuliers,PRT-01535,75,surface_absent,2020-03-07,42580000,,Dakar,Keur Massar,Terrain,vente,0,0,En vente
+IMM-001889,particuliers,PRT-01536,76,surface_absent,14/07/2022,13317000,,Kaffrine,Kaffrine,Studio,vente,5,1,À confirmer
+IMM-001890,particuliers,PRT-01537,77,prix_absent,2022-09-07,,123.0,Kolda,Vélingara,Appartement,vente,6,2,En vente
+IMM-001898,particuliers,PRT-01545,85,surface_absent,25/09/2024,68287000,,Sédhiou,Sédhiou,Appartement,vente,1,1,En vente
+IMM-001901,particuliers,PRT-01548,88,surface_absent,2022-12-21,83821000,,Sédhiou,Sédhiou,Terrain,vente,0,0,En vente
+IMM-001903,particuliers,PRT-01550,90,surface_absent,16/07/2019,167356000,,Diourbel,Bambey,Maison,vente,4,4,Vendu
+IMM-001916,particuliers,PRT-01563,103,prix_illisible,2019-08-24,None FCFA,32.4,Kaffrine,Birkelane,Studio,vente,4,2,En vente
+IMM-001918,particuliers,PRT-01565,105,surface_absent,21/12/2020,361348000,,Sédhiou,Bounkiling,Villa,vente,6,2,Vendu
+IMM-001924,particuliers,PRT-01571,111,surface_absent,2022-04-08,215000,,Kolda,Médina Yoro Foulah,Appartement,location,6,4,Disponible
+IMM-001926,particuliers,PRT-01573,113,surface_absent,19/03/2025,53901000,,Kaolack,Guinguinéo,Maison,vente,6,2,En vente
+IMM-001934,particuliers,PRT-01581,121,surface_absent,2022-05-02,37701000,,Kaolack,Nioro du Rip,Appartement,vente,3,4,En vente
+IMM-001939,particuliers,PRT-01586,126,surface_absent,2019-09-06,465000,,Fatick,Kaolack-Fatick,Appartement,location,1,1,Disponible
+IMM-001945,particuliers,PRT-01592,132,prix_absent,2022-10-20,,1099.1,Ziguinchor,Bignona,Terrain,location,0,0,Loué
+IMM-001946,particuliers,PRT-01593,133,surface_absent,29/07/2020,735000,,Dakar,Dakar,Appartement,location,2,2,Disponible
+IMM-001952,particuliers,PRT-01599,139,prix_absent,2021-06-02,,105.0,Saint-Louis,Podor,Appartement,location,1,2,Disponible
+IMM-001970,particuliers,PRT-01617,157,surface_absent,2024-07-31,175172000 FCFA,,Sédhiou,Sédhiou,Maison,vente,2,4,À confirmer
+IMM-001972,particuliers,PRT-01619,159,prix_absent,17/04/2019,,151.3,Thiès,Mbour,Maison,vente,2,1,En vente
+IMM-001982,particuliers,PRT-01629,169,surface_absent,16/04/2018,210000,,Dakar,Guédiawaye,Terrain,location,0,0,Loué
+IMM-001983,particuliers,PRT-01630,170,surface_absent,12/02/2021,67985000,,Thiès,Tivaouane,Maison,vente,6,1,En vente
+IMM-001985,particuliers,PRT-01632,172,prix_absent,2025-09-04,,33.7,Thiès,Tivaouane,Studio,location,3,1,Disponible
+IMM-001995,particuliers,PRT-01642,182,prix_absent,2022-11-25,,118.5,Diourbel,Bambey,Terrain,location,0,0,Loué
+IMM-001997,particuliers,PRT-01644,184,prix_absent,2018-10-05,,1348.5,Thiès,Tivaouane,Terrain,vente,0,0,Vendu
+IMM-001999,particuliers,PRT-01646,186,prix_absent,23/10/2025,,248.4,Kaffrine,Koungheul,Villa,vente,6,1,En vente
+IMM-002002,particuliers,PRT-01649,189,prix_absent,10/06/2023,,1446.1,Thiès,Joal-Fadiouth,Terrain,location,0,0,Disponible
+IMM-002018,particuliers,PRT-01665,205,prix_absent; surface_absent,27/09/2023,,,Kédougou,Saraya,Terrain,vente,0,0,Vendu
+IMM-002033,particuliers,PRT-01680,220,surface_absent,28/04/2023,72106000,,Kédougou,Saraya,Terrain,vente,0,0,Vendu
+IMM-002043,particuliers,PRT-01690,230,prix_absent,04/03/2025,,908.0,Kaolack,Guinguinéo,Terrain,vente,0,0,En vente
+IMM-002062,particuliers,PRT-01709,249,prix_absent; surface_absent,05/11/2020,,,Kaffrine,Birkelane,Appartement,location,6,4,Loué
+IMM-002065,particuliers,PRT-01712,252,surface_absent,20/08/2019,142239000,,Diourbel,Diourbel,Maison,vente,2,2,Vendu
+IMM-002072,particuliers,PRT-01719,259,prix_absent,25/09/2022,,161.5,Kédougou,Kédougou,Villa,location,4,3,Loué
+IMM-002073,particuliers,PRT-01720,260,prix_absent,2020-07-09,,105.4,Ziguinchor,Ziguinchor,Maison,location,3,1,Loué
+IMM-002074,particuliers,PRT-01721,261,surface_absent,08/12/2024,105000,,Louga,Linguère,Terrain,location,0,0,Disponible
+IMM-002077,particuliers,PRT-01724,264,prix_absent,21/11/2024,,293.9,Fatick,Gossas,Local commercial,vente,0,4,En vente
+IMM-002080,particuliers,PRT-01727,267,surface_absent,30/05/2024,197255000,,Ziguinchor,Ziguinchor,Villa,vente,4,3,À confirmer
+IMM-002089,particuliers,PRT-01736,276,prix_absent,09/03/2022,,84.7,Diourbel,Bambey,Appartement,location,5,1,Disponible
+IMM-002092,particuliers,PRT-01739,279,prix_absent,2021-07-09,,134.4,Saint-Louis,Saint-Louis,Appartement,vente,6,1,Vendu
+IMM-002107,particuliers,PRT-01754,294,prix_absent; surface_absent,2025-11-05,,,Kaffrine,Kaffrine,Appartement,location,2,2,Loué
+IMM-002108,particuliers,PRT-01755,295,surface_absent,04/12/2024,146326000,,Kaolack,Guinguinéo,Maison,vente,4,1,Vendu
+IMM-002112,particuliers,PRT-01759,299,surface_absent,2025-11-01,51354000,,Diourbel,Diourbel,Terrain,vente,0,0,En vente
+IMM-002114,particuliers,PRT-01761,301,prix_absent; surface_absent,07/07/2018,,,Kaolack,Kaolack,Terrain,vente,0,0,Vendu
+IMM-002118,particuliers,PRT-01765,305,prix_absent,06/10/2019,,12.1,Dakar,Dakar,Chambre,vente,3,0,En vente
+IMM-002126,particuliers,PRT-01773,313,prix_absent,17/10/2025,,35.4,Diourbel,Diourbel,Studio,location,1,3,Loué
+IMM-002127,particuliers,PRT-01774,314,surface_absent,14/02/2020,240000,,Kaffrine,Kaffrine,Studio,location,5,2,Disponible
+IMM-002130,particuliers,PRT-01777,317,surface_absent,30/09/2025,1210000,,Matam,Kanel,Villa,location,1,3,Disponible
+IMM-002131,particuliers,PRT-01778,318,surface_illisible,03/06/2020,705000,quatre-vingt,Saint-Louis,Richard-Toll,Villa,location,2,4,Loué
+IMM-002135,particuliers,PRT-01782,322,prix_absent,20/12/2025,,228.6,Thiès,Joal-Fadiouth,Local commercial,location,0,1,Disponible
+IMM-002144,particuliers,PRT-01791,331,prix_absent,01/06/2022,,11.1,Saint-Louis,Podor,Chambre,vente,3,0,En vente
+IMM-002151,particuliers,PRT-01798,338,surface_absent,2020-12-03,87912000,,Kaolack,Guinguinéo,Appartement,vente,6,2,Vendu
+IMM-002155,particuliers,PRT-01802,342,surface_illisible,22/08/2023,90000,quatre-vingt,Kaffrine,Birkelane,Chambre,location,3,0,Disponible
+IMM-002167,particuliers,PRT-01814,354,surface_absent,2019-09-17,20913000,,Dakar,Dakar,Terrain,vente,0,0,Vendu
+IMM-002169,particuliers,PRT-01816,356,prix_absent,09/03/2020,,70.4,Thiès,Tivaouane,Appartement,vente,5,1,En vente
+IMM-002170,particuliers,PRT-01817,357,surface_absent,22/12/2018,61716000,,Sédhiou,Sédhiou,Maison,vente,1,2,En vente
+IMM-002176,particuliers,PRT-01823,363,surface_absent,2019-10-11,700000,,Louga,Linguère,Villa,location,1,4,Loué
+IMM-002184,particuliers,PRT-01831,371,surface_absent,2019-05-15,105000,,Fatick,Gossas,Studio,location,6,1,Loué
+IMM-002189,particuliers,PRT-01836,376,prix_absent,2019-10-11,,1288.2,Fatick,Fatick,Terrain,vente,0,0,Vendu
+IMM-002191,particuliers,PRT-01838,378,prix_absent,14/11/2023,,436.1,Fatick,Gossas,Villa,vente,4,2,Vendu
+IMM-002195,particuliers,PRT-01842,382,prix_absent,11/10/2018,,168.5,Diourbel,Touba,Appartement,vente,4,3,Vendu
+IMM-002196,particuliers,PRT-01843,383,prix_absent,2018-01-29,,87.4,Ziguinchor,Bignona,Maison,location,5,4,Disponible
+IMM-002198,particuliers,PRT-01845,385,surface_absent,19/05/2018,16853000,,Louga,Louga,Chambre,vente,2,0,En vente
+IMM-002208,particuliers,PRT-01855,395,prix_absent,27/05/2024,,59.0,Saint-Louis,Saint-Louis,Appartement,vente,4,1,En vente
+IMM-002214,particuliers,PRT-01861,401,prix_absent,08/05/2022,,25.8,Kaolack,Guinguinéo,Studio,vente,5,3,Vendu
+IMM-002215,particuliers,PRT-01862,402,surface_absent,2019-10-08,20863000,,Dakar,Pikine,Studio,vente,2,2,En vente
+IMM-002217,particuliers,PRT-01864,404,prix_absent,2024-01-22,,84.8,Kolda,Médina Yoro Foulah,Maison,location,6,3,Disponible
+IMM-002227,particuliers,PRT-01874,414,surface_absent,27/06/2019,795000,,Thiès,Joal-Fadiouth,Maison,location,6,4,Loué
+IMM-002229,particuliers,PRT-01876,416,prix_absent,2020-01-20,,29.6,Kaffrine,Birkelane,Chambre,vente,5,0,En vente
+IMM-002236,particuliers,PRT-01883,423,surface_absent,2021-07-27,145509000,,Matam,Kanel,Maison,vente,1,2,Vendu
+IMM-002254,particuliers,PRT-01901,441,surface_illisible,14/06/2019,150291000,quatre-vingt,Kédougou,Saraya,Maison,vente,2,4,Vendu
+IMM-002256,particuliers,PRT-01903,443,surface_absent,2024-05-16,43824000,,Sédhiou,Sédhiou,Studio,vente,4,4,En vente
+IMM-002273,particuliers,PRT-01920,460,surface_absent,29/09/2022,103807000,,Fatick,Kaolack-Fatick,Maison,vente,4,4,En vente
+IMM-002277,particuliers,PRT-01924,464,surface_absent,06/03/2025,180000,,Ziguinchor,Oussouye,Studio,location,2,1,Disponible
+IMM-002295,particuliers,PRT-01942,482,prix_absent,13/08/2018,,257.2,Thiès,Tivaouane,Villa,vente,1,3,Vendu
+IMM-002298,particuliers,PRT-01945,485,surface_absent,27/09/2021,160000,,Saint-Louis,Richard-Toll,Studio,location,2,1,Disponible
+IMM-002305,particuliers,PRT-01952,492,surface_illisible,03/08/2024,160000,quatre-vingt,Tambacounda,Bakel,Studio,location,1,1,Disponible
+IMM-002309,particuliers,PRT-01956,496,surface_absent,2023-10-25,580000,,Tambacounda,Goudiry,Maison,location,2,1,Disponible
+IMM-002315,particuliers,PRT-01962,502,surface_absent,2024-06-04,755000,,Kédougou,Salémata,Maison,location,4,1,Loué
+IMM-002319,particuliers,PRT-01966,506,prix_absent,14/10/2022,,171.3,Ziguinchor,Ziguinchor,Maison,vente,5,1,Vendu
+IMM-002328,particuliers,PRT-01975,515,prix_absent,2022-03-10,,381.2,Kolda,Médina Yoro Foulah,Terrain,vente,0,0,Vendu
+IMM-002338,particuliers,PRT-01985,525,surface_absent,2019-11-15,262304000,,Dakar,Pikine,Villa,vente,2,2,Vendu
+IMM-002339,particuliers,PRT-01986,526,surface_absent,30/01/2018,97312000,,Thiès,Thiès,Maison,vente,6,4,En vente
+IMM-002343,particuliers,PRT-01990,530,prix_absent,14/08/2019,,166.2,Diourbel,Mbacké,Appartement,vente,6,2,Vendu
+IMM-002345,particuliers,PRT-01992,532,prix_absent,2025-10-15,,392.4,Saint-Louis,Saint-Louis,Villa,vente,1,1,Vendu
+IMM-002346,particuliers,PRT-01993,533,prix_absent,2022-08-24,,98.2,Matam,Ourossogui,Maison,vente,4,1,En vente
+IMM-002348,particuliers,PRT-01995,535,surface_absent,2018-05-22,70834000,,Dakar,Rufisque,Appartement,vente,2,4,Vendu
+IMM-002349,particuliers,PRT-01996,536,surface_absent,16/05/2022,173078000,,Matam,Matam,Maison,vente,3,3,Vendu
+IMM-002353,particuliers,PRT-02000,540,surface_absent,2023-04-28,245000,,Matam,Ourossogui,Studio,location,6,2,Loué
+IMM-002354,particuliers,PRT-02001,541,prix_absent,19/06/2019,,87.2,Louga,Linguère,Maison,vente,3,1,Vendu
+IMM-002355,particuliers,PRT-02002,542,surface_absent,21/07/2024,12462000,,Tambacounda,Tambacounda,Studio,vente,1,1,En vente
+IMM-002365,particuliers,PRT-02012,552,surface_absent,2024-05-16,39934000,,Matam,Matam,Appartement,vente,1,1,En vente
+IMM-002371,particuliers,PRT-02018,558,prix_absent,19/06/2021,,25.3,Kaolack,Guinguinéo,Studio,vente,6,1,En vente
+IMM-002373,particuliers,PRT-02020,560,prix_absent; surface_absent,14/12/2022,,,Ziguinchor,Bignona,Terrain,vente,0,0,Vendu
+IMM-002379,particuliers,PRT-02026,566,surface_absent,07/09/2018,59097000,,Ziguinchor,Bignona,Terrain,vente,0,0,En vente
+IMM-002380,particuliers,PRT-02027,567,surface_absent,10/11/2023,58826000,,Louga,Kébémer,Appartement,vente,6,2,En vente
+IMM-002383,particuliers,PRT-02030,570,prix_absent,2022-04-18,,27.5,Diourbel,Bambey,Chambre,vente,3,0,En vente
+IMM-002388,particuliers,PRT-02035,575,surface_absent,29/12/2024,515000,,Louga,Linguère,Villa,location,2,1,Disponible
+IMM-002394,particuliers,PRT-02041,581,surface_absent,09/02/2021,175000,,Kolda,Médina Yoro Foulah,Terrain,location,0,0,Disponible
+IMM-002396,particuliers,PRT-02043,583,prix_absent,03/02/2020,,123.3,Ziguinchor,Ziguinchor,Maison,vente,1,3,En vente
+IMM-002399,particuliers,PRT-02046,586,prix_illisible; surface_absent,2019-01-02,None FCFA,,Kaffrine,Koungheul,Maison,location,3,4,Disponible
+IMM-002403,particuliers,PRT-02050,590,prix_absent,2019-11-10,,516.1,Thiès,Mbour,Terrain,vente,0,0,Vendu
+IMM-002407,particuliers,PRT-02054,594,surface_absent,2024-04-11,87172000,,Fatick,Kaolack-Fatick,Terrain,vente,0,0,En vente
+IMM-002427,particuliers,PRT-02074,614,prix_absent,22/10/2022,,241.4,Kolda,Médina Yoro Foulah,Terrain,location,0,0,Disponible
+IMM-002444,particuliers,PRT-02091,631,surface_absent,2024-11-14,18182000 FCFA,,Sédhiou,Bounkiling,Studio,vente,5,2,Vendu
+IMM-002446,particuliers,PRT-02093,633,prix_absent,2024-04-25,,25.4,Kaffrine,Birkelane,Studio,vente,6,4,Vendu
+IMM-002466,particuliers,PRT-02113,653,prix_absent,02/02/2024,,99.8,Matam,Matam,Maison,location,4,2,Disponible
+IMM-002471,particuliers,PRT-02118,658,surface_absent,14/10/2019,57035000 FCFA,,Kédougou,Saraya,Appartement,vente,1,2,Vendu
+IMM-002475,particuliers,PRT-02122,662,prix_absent,2021-11-04,,26.1,Dakar,Pikine,Chambre,vente,4,0,À confirmer
+IMM-002476,particuliers,PRT-02123,663,surface_absent,2018-03-18,220000,,Saint-Louis,Saint-Louis,Appartement,location,1,2,Loué
+IMM-002477,particuliers,PRT-02124,664,surface_absent,19/10/2019,88150000,,Saint-Louis,Richard-Toll,Maison,vente,5,2,Vendu
+IMM-002478,particuliers,PRT-02125,665,surface_absent,07/12/2023,89136000,,Louga,Louga,Maison,vente,4,3,Vendu
+IMM-002488,particuliers,PRT-02135,675,surface_absent,12/11/2020,61359000,,Sédhiou,Bounkiling,Terrain,vente,0,0,Vendu
+IMM-002490,particuliers,PRT-02137,677,prix_absent,2018-02-19,,151.3,Saint-Louis,Podor,Villa,location,5,3,Disponible
+IMM-002492,particuliers,PRT-02139,679,prix_absent,2020-12-08,,175.3,Kaffrine,Kaffrine,Maison,vente,6,4,En vente
+IMM-002493,particuliers,PRT-02140,680,surface_absent,11/11/2023,17504000,,Kédougou,Kédougou,Studio,vente,6,4,À confirmer
+IMM-002501,particuliers,PRT-02148,688,surface_absent,2021-09-11,395069000,,Kolda,Médina Yoro Foulah,Villa,vente,4,2,En vente
+IMM-002507,particuliers,PRT-02154,694,surface_absent,2020-04-15,104282000,,Fatick,Fatick,Villa,vente,6,1,Vendu
+IMM-002515,particuliers,PRT-02162,702,surface_absent,2023-01-13,239883000,,Kaffrine,Koungheul,Villa,vente,5,2,Vendu
+IMM-002520,particuliers,PRT-02167,707,prix_absent,13/12/2023,,11.7,Diourbel,Bambey,Chambre,vente,4,0,En vente
+IMM-002522,particuliers,PRT-02169,709,surface_absent,2025-08-19,99378000,,Tambacounda,Goudiry,Appartement,vente,2,1,À confirmer
+IMM-002539,particuliers,PRT-02186,726,surface_absent,2025-02-16,49714000,,Saint-Louis,Podor,Terrain,vente,0,0,Vendu
+IMM-002550,agence_teranga,AGT-00826,6,surface_non_positif,12/09/2023,31286000,-30.0,Louga,Louga,Appartement,vente,3,1,Vendu
+IMM-002674,agence_teranga,AGT-00950,130,prix_non_positif,23/12/2019,0,66.6,Fatick,Kaolack-Fatick,Appartement,vente,1,3,Vendu
+IMM-002718,agence_teranga,AGT-00994,174,prix_non_positif,04/02/2025,0,1250.6,Kaffrine,Koungheul,Terrain,location,0,0,Disponible
+IMM-002768,agence_teranga,AGT-01044,224,prix_non_positif,02/02/2019,0,188.5,Fatick,Gossas,Maison,vente,3,2,Vendu
+IMM-002789,agence_teranga,AGT-01065,245,surface_non_positif,02/09/2018,47828000,-25.0,Kolda,Médina Yoro Foulah,Appartement,vente,6,1,Vendu
+IMM-002962,agence_teranga,AGT-01238,418,surface_non_positif,24/08/2019,15497000,-30.0,Kédougou,Kédougou,Terrain,vente,0,0,En vente
+IMM-003026,agence_teranga,AGT-01302,482,prix_non_positif,14/10/2022,0,32.5,Kolda,Médina Yoro Foulah,Studio,location,1,1,Disponible
+IMM-003066,agence_teranga,AGT-01342,522,prix_non_positif,09/04/2020,0,52.4,Matam,Ourossogui,Appartement,vente,6,4,Vendu
+IMM-003080,agence_teranga,AGT-01356,536,surface_non_positif,08/06/2021,224970000,-12.0,Kaolack,Kaolack,Villa,vente,6,4,Vendu

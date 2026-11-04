@@ -1,0 +1,31 @@
+{
+  "historique": {
+    "ID": "id_local", "DateVente": "date", "Region": "region", "Ville": "ville",
+    "TypeBien": "type_bien", "Prix": "prix", "Surface": "surface",
+    "Chambres": "chambres", "SallesBain": "sdb"
+  },
+  "notaires": {
+    "id_acte": "id_local", "date_acte": "date", "region": "region", "ville": "ville",
+    "type_bien": "type_bien", "montant_fcfa": "prix", "superficie": "surface",
+    "nb_chambres": "chambres", "statut": "statut"
+  },
+  "plateforme_immo": {
+    "ref_plateforme": "id_local", "date_mise_en_ligne": "date", "type_transaction": "type_transaction",
+    "region": "region", "commune": "ville", "categorie": "type_bien", "quartier": "quartier",
+    "prix": "prix", "devise": "devise", "surface": "surface", "pieces": "chambres",
+    "sdb": "sdb", "statut": "statut", "date_expiration": "date_expiration"
+  },
+  "particuliers": {
+    "annonce.id": "id_local", "annonce.date": "date",
+    "annonce.localisation.region": "region", "annonce.localisation.ville": "ville",
+    "annonce.details.type": "type_bien", "annonce.details.transaction": "type_transaction",
+    "annonce.details.prix": "prix", "annonce.details.surface": "surface",
+    "annonce.details.chambres": "chambres", "annonce.details.sdb": "sdb",
+    "annonce.statut": "statut"
+  },
+  "agence_teranga": {
+    "Code": "id_local", "Date": "date", "Region": "region", "Ville": "ville",
+    "Type": "type_bien", "Prix_FCFA": "prix", "Surface_m2": "surface",
+    "Chambres": "chambres", "SDB": "sdb", "Statut": "statut"
+  }
+}

@@ -1,0 +1,18 @@
+regle,evaluables,conformes,non_conformes,non_evaluables,taux_conformite_pct
+identifiant local présent,3184,3184,0,0,100.0
+prix numérique,3184,3091,93,0,97.1
+prix > 0,3091,3086,5,93,99.8
+surface numérique,3184,3100,84,0,97.4
+surface > 0,3100,3096,4,84,99.9
+date interprétable,3184,3178,6,0,99.8
+date non future,3178,3173,5,6,99.8
+type_transaction renseigné ou déductible,3184,3184,0,0,100.0
+type_bien dans le référentiel,3184,3184,0,0,100.0
+pas de doublon exact,3184,3169,15,0,99.5
+surface plausible,3096,3096,0,88,100.0
+prix de vente plausible,2608,2608,0,576,100.0
+loyer plausible,478,478,0,2706,100.0
+région cohérente avec la ville,3176,3172,4,8,99.9
+prix dans la fourchette de la catégorie,2608,2528,80,576,96.9
+surface dans la fourchette de la catégorie,3096,3093,3,88,99.9
+chambres/sdb cohérentes,2774,2612,162,410,94.2
